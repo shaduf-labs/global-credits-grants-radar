@@ -1,0 +1,10 @@
+{
+  "schema_version":"1.0.0",
+  "status":"current",
+  "current_answer":"Start with the tier you can qualify for, not the largest number on the page. This first verified catalogue has new-customer cloud credits for individuals and direct or partner-gated startup routes. A self-funded company can see USD 1,000 at AWS Activate, USD 10,000 at Cloudflare, or USD 200 in Microsoft starter credits; higher limits need a provider, investor, funding, or later approval.",
+  "summary":["Individuals: AWS, Google Cloud, and Azure each publish a new-customer cloud-credit route, with USD 200, USD 300, and USD 200 respectively.","Pre-funded startups: AWS Activate Founders, Cloudflare Tier 3, Microsoft for Startups, and Google Start are the first routes to check; the issuer still decides qualification.","Funded startups: provider IDs, Investor Network codes, and affiliated-partner gates control several of the largest credit figures.","This is not yet a global cash-grants database. Individual project grants and country coverage remain research gaps."],
+  "uncertainty":["Programmes can change without notice.","We have not mapped every country, service exclusion, or unpublished deadline.","Google's current FAQ does not state a separate Start-tier amount or validity period.","Cloudflare's self-funded Tier 3 wording needs issuer clarification about its recent-funding qualification line."],
+  "checked_at":"2026-09-09T12:25:00Z",
+  "meaningfully_updated_at":"2026-09-09T12:25:00Z",
+  "freshness_note":"Verified against issuer pages on 2026-09-09. Check the official source again immediately before applying."
+}

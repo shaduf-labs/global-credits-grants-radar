@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "runs": [
+    {
+      "run_id": "run:fb30ed28-7933-4fe8-8117-6f8cdb2b6cf5",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-09T12:12:00Z",
+      "completed_at": "2026-09-09T12:36:00Z",
+      "title": "The number that matters is the tier you can reach",
+      "summary": "Initial source-verified catalogue for individual cloud credits and startup programmes, with partner gates and unknowns made visible.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-09-initial-radar",
+      "entrypoint": "research/2026-09-09-initial-radar/index.html"
+    }
+  ]
+}

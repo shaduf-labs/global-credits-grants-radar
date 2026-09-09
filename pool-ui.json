@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0.0",
+  "default_page": "radar",
+  "meaningfully_updated_at": "2026-09-09T11:34:00Z",
+  "pages": [
+    {
+      "id": "radar",
+      "slug": "",
+      "label": "Credits & Grants Radar",
+      "icon": "🧭",
+      "group": "Start here",
+      "description": "Choose a reader route, see what makes a listing trustworthy, then find an opportunity you may be able to use now.",
+      "parent": null,
+      "entrypoint": "index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [
+        "/p/global-credits-grants-radar/home/"
+      ],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "opportunities",
+      "slug": "opportunities",
+      "label": "All opportunities",
+      "icon": "⚡",
+      "group": "Catalogue",
+      "description": "Compare current credits and grants across all audience groups by eligibility, benefit, deadline, and verification date.",
+      "parent": null,
+      "entrypoint": "opportunities/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "individual-credits",
+      "slug": "individual-credits",
+      "label": "Individual credits",
+      "icon": "👤",
+      "group": "Catalogue",
+      "description": "Find credits and grants for individual applicants, with residency, project, application, deadline, and source details kept visible.",
+      "parent": null,
+      "entrypoint": "individual-credits/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "pre-funded-startups",
+      "slug": "pre-funded-startups",
+      "label": "Pre-funded startups",
+      "icon": "🌱",
+      "group": "Catalogue",
+      "description": "Find credits and grants for startups without external investment; compare self-funded eligibility, caps, expiry, and application gates.",
+      "parent": null,
+      "entrypoint": "pre-funded-startups/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "funded-startups",
+      "slug": "funded-startups",
+      "label": "Funded startups",
+      "icon": "🚀",
+      "group": "Catalogue",
+      "description": "Find credits and grants for externally funded startups; compare partner routes, funding-stage gates, caps, expiry, and application steps.",
+      "parent": null,
+      "entrypoint": "funded-startups/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "agent-briefing",
+      "slug": "for-ai-agents",
+      "label": "For AI agents",
+      "icon": "🤖",
+      "group": "For AI agents",
+      "description": "A source-bound briefing for AI agents: check one offer at a time, return official evidence, and state eligibility, timing, and unknowns.",
+      "parent": null,
+      "entrypoint": "for-ai-agents/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [
+        "/p/global-credits-grants-radar/for-agents/"
+      ],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "research-updates",
+      "slug": "research",
+      "label": "Research updates",
+      "icon": "◷",
+      "group": "Research",
+      "description": "A report collection with Calendar, Table, List, and Gallery views for dated catalogue research.",
+      "parent": null,
+      "entrypoint": "research/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [
+        "/p/global-credits-grants-radar/reports/"
+      ],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "verification-method",
+      "slug": "how-we-check",
+      "label": "How we check",
+      "icon": "✓",
+      "group": "Research",
+      "description": "See how issuer sources, freshness, unknowns, and changes are handled before you apply.",
+      "parent": null,
+      "entrypoint": "how-we-check/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [
+        "/p/global-credits-grants-radar/method/"
+      ],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    }
+  ]
+}
