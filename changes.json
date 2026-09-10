@@ -1,1 +1,17 @@
-{"schema_version":"1.0.0","items":[{"change_id":"initial-verified-catalogue","changed_at":"2026-09-09T12:25:00Z","summary":"Published the first source-verified catalogue: individual cloud credits plus pre-funded and funded startup routes, with gates and unknowns beside each benefit.","path":"/p/global-credits-grants-radar/"}]}
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "change_id": "individual-grant-google-start-2026-09-10",
+      "changed_at": "2026-09-10T12:07:20Z",
+      "summary": "Added NLnet's dated individual open-technology grant, replaced Google Start's unknown amount with its published USD 2,000 and 12-month terms, and kept Cloudflare's conflicting self-funded and recent-funding wording visible.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
+      "change_id": "initial-verified-catalogue",
+      "changed_at": "2026-09-09T12:25:00Z",
+      "summary": "Published the first source-verified catalogue: individual cloud credits plus pre-funded and funded startup routes, with gates and unknowns beside each benefit.",
+      "path": "/p/global-credits-grants-radar/"
+    }
+  ]
+}

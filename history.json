@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:5a8300e3-c2ff-4f83-853d-bfb54f95f624",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-10T12:00:00Z",
+      "completed_at": "2026-09-10T12:13:45Z",
+      "title": "One individual grant is finally on the board. The Start-tier amount is too.",
+      "summary": "Added NLnet's dated open-technology grant for individual applicants, verified Google Start at USD 2,000 for 12 months, and preserved Cloudflare's unresolved self-funded and recent-funding wording.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-10-individual-grant-and-start-tier",
+      "entrypoint": "research/2026-09-10-individual-grant-and-start-tier/index.html"
+    },
+    {
       "run_id": "run:fb30ed28-7933-4fe8-8117-6f8cdb2b6cf5",
       "status": "completed",
       "answer_change": "meaningful_change",
