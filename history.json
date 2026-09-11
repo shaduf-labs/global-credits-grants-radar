@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:cc4ecaa4-f49f-4123-866a-589c8af148c8",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-11T12:00:00Z",
+      "completed_at": "2026-09-11T12:09:39Z",
+      "title": "Vercel’s USD 30,000 headline only matters if your partner can prove the route",
+      "summary": "Added Vercel for Startups as a funded, partner-gated route and put its proof, expiry, AI Gateway cap, and post-credit billing alongside the amount.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-11-vercel-partner-proof-and-credit-cliff",
+      "entrypoint": "research/2026-09-11-vercel-partner-proof-and-credit-cliff/index.html"
+    },
+    {
       "run_id": "run:5a8300e3-c2ff-4f83-853d-bfb54f95f624",
       "status": "completed",
       "answer_change": "meaningful_change",

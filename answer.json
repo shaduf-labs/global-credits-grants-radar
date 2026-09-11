@@ -1,20 +1,26 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "A real individual project-grant route is now verified: NLnet accepts applications in principle from individuals for qualifying open-technology work, with first grants of EUR 5,000–50,000 and a 3 November 2026 deadline. For pre-funded startups, Google Start is USD 2,000 for 12 months if the startup meets its working-MVP, age, prior-credit, billing-account, and domain-email gates. The largest startup figures still need partner or funding routes, and Cloudflare's self-funded Tier 3 remains unclear because its page also states a recent-funding requirement.",
+  "current_answer": "A newly verified funded-startup route is Vercel for Startups: an approved Startup Partner can unlock a partner-specific Flexible Commitment up to USD 30,000 for a Series A-or-earlier company applying within 12 months of its last funding round. It is not a direct pre-funded route: partner proof, a matching-domain email, a Vercel team, and a payment method are required; the commitment lasts up to one year or until used, has an AI Gateway cap, and standard billing follows. Individual applicants still have NLnet’s constrained open-technology grant route; eligible pre-funded startups still have Google Start’s USD 2,000 for 12 months.",
+  "catalogue_card": {
+    "question": "Is Vercel’s USD 30,000 credit really your startup’s route?",
+    "text": "Only if an approved partner can prove it. The Vercel offer is funded and partner-gated, the amount varies by partner, and the one-year commitment can become standard billing after it ends."
+  },
   "summary": [
-    "Individuals: NLnet is a first verified project-grant route, not a general personal stipend. It requires open-licensed technical work and fund fit.",
-    "Pre-funded startups: Google Start now has a published USD 2,000 benefit and 12-month validity, with a working MVP, a 24-month founding limit, prior-credit, billing, and public-domain-email gates.",
-    "Funded startups: provider IDs, Investor Network codes, affiliated-partner gates, and funding evidence still control several larger credit figures.",
-    "Cloudflare's Tier 3 describes a self-funded route but its general qualification list also says funding within the last 12 months. That term remains unconfirmed for a fully self-funded applicant."
+    "Funded startups: Vercel for Startups can provide a partner-specific Flexible Commitment up to USD 30,000, but only through an approved Startup Partner and within 12 months of the most recent funding round.",
+    "Vercel requires proof of partner affiliation, a company website, matching-domain email, Vercel team, payment method, and no prior programme credit.",
+    "The Vercel commitment ends after up to one year or when used. AI Gateway may use no more than 50%; standard billing follows.",
+    "Individuals: NLnet is a verified open-technology project grant, not a general personal stipend. Pre-funded startups: Google Start remains USD 2,000 for 12 months for a startup that passes its published gates.",
+    "Cloudflare Tier 3 still describes a self-funded route while its general qualification list says funding within the last 12 months. That conflict remains unresolved."
   ],
   "uncertainty": [
+    "Vercel’s amount depends on the Startup Partner arrangement, and the reviewed FAQ does not publish country coverage.",
     "One verified open-technology grant does not establish global individual-grant coverage.",
     "We have not mapped every country, fund-specific term, service exclusion, or unpublished deadline.",
     "Cloudflare has not published an explanation reconciling its self-funded Tier 3 wording with its general recent-funding requirement.",
     "Unchanged AWS, Azure, and Microsoft rows were last issuer-checked on 2026-09-09 and should be rechecked before applying."
   ],
-  "checked_at": "2026-09-10T12:07:20Z",
-  "meaningfully_updated_at": "2026-09-10T12:07:20Z",
-  "freshness_note": "NLnet, Google Start, and Cloudflare were checked on 2026-09-10; other unchanged issuer rows were checked on 2026-09-09. Check the official source again immediately before applying."
+  "checked_at": "2026-09-11T12:07:19Z",
+  "meaningfully_updated_at": "2026-09-11T12:07:19Z",
+  "freshness_note": "Vercel was checked on 2026-09-11; NLnet, Google Start, and Cloudflare were checked on 2026-09-10; other unchanged issuer rows were checked on 2026-09-09. Check the official source again immediately before applying."
 }

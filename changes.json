@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "vercel-partner-proof-credit-cliff-2026-09-11",
+      "changed_at": "2026-09-11T12:07:19Z",
+      "summary": "Added Vercel’s funded, partner-gated Flexible Commitment route up to USD 30,000, including the funding window, proof requirements, AI Gateway cap, one-year limit, and standard-billing transition.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "individual-grant-google-start-2026-09-10",
       "changed_at": "2026-09-10T12:07:20Z",
       "summary": "Added NLnet's dated individual open-technology grant, replaced Google Start's unknown amount with its published USD 2,000 and 12-month terms, and kept Cloudflare's conflicting self-funded and recent-funding wording visible.",
