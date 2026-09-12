@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "azure-credit-clocks-2026-09-12",
+      "changed_at": "2026-09-12T12:04:57Z",
+      "summary": "Added two separate Azure routes: USD 100 for eligible university students over 12 months, and USD 1,000 for new Azure startup customers with a 90-day initial clock and up to USD 5,000 after business verification.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "vercel-partner-proof-credit-cliff-2026-09-11",
       "changed_at": "2026-09-11T12:07:19Z",
       "summary": "Added Vercel’s funded, partner-gated Flexible Commitment route up to USD 30,000, including the funding window, proof requirements, AI Gateway cap, one-year limit, and standard-billing transition.",

@@ -120,6 +120,36 @@
       "accessed_at": "2026-09-09T12:25:00Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-azure-for-students",
+      "source_type": "Official offer terms",
+      "title": "Azure for Students offer details",
+      "source_url": "https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0170p/",
+      "claim": "Microsoft says eligible full-time university students age 18 or older can receive USD 100 in Azure credits within 12 months without a card at sign-up; it publishes the academic-email, one-subscription, use, and exclusion conditions.",
+      "accessed_at": "2026-09-12T12:04:57Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-azure-for-startups",
+      "source_type": "Official account comparison",
+      "title": "Azure free account comparison",
+      "source_url": "https://azure.microsoft.com/en-us/free/students",
+      "claim": "Microsoft presents Azure for Startups as USD 1,000 instantly for a new Azure customer and up to USD 5,000 after business verification, with 90-day initial and 180-day post-verification credit windows and pay-as-you-go after expiry or use.",
+      "accessed_at": "2026-09-12T12:04:57Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-github-student-pack-terms",
+      "source_type": "Official programme terms",
+      "title": "GitHub Student Developer Pack terms",
+      "source_url": "https://docs.github.com/en/education/about-github-education/github-education-for-students/github-terms-and-conditions-for-the-student-developer-pack",
+      "claim": "GitHub says third-party Student Developer Pack offers have their own terms, may not stack, and can change or be disrupted.",
+      "accessed_at": "2026-09-12T12:04:57Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

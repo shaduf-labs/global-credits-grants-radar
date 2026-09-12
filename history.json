@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:1a2b7b9c-953c-4fdb-8af1-456e8b596112",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-12T12:00:00Z",
+      "completed_at": "2026-09-12T12:10:20Z",
+      "title": "Azure’s USD 1,000 startup credit has a 90-day clock. The student route does not.",
+      "summary": "Added separate Azure student and startup rows so eligibility, expiry, and post-credit consequences sit beside each amount.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-12-azure-credit-clocks",
+      "entrypoint": "research/2026-09-12-azure-credit-clocks/index.html"
+    },
+    {
       "run_id": "run:cc4ecaa4-f49f-4123-866a-589c8af148c8",
       "status": "completed",
       "answer_change": "meaningful_change",
