@@ -150,6 +150,36 @@
       "accessed_at": "2026-09-12T12:04:57Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-aws-activate-current",
+      "source_type": "Official provider page",
+      "title": "AWS Activate Credits",
+      "source_url": "https://aws.amazon.com/startups/credits?lang=en-US",
+      "claim": "AWS lists a self-funded Founders route starting at USD 1,000 and up to USD 5,000 for selected participants, plus a Portfolio route up to USD 200,000 that requires an Activate Provider Organization ID. The page lists pre-Series B status, a Paid Tier Plan, a ten-year founding limit, and new-or-higher-credit conditions.",
+      "accessed_at": "2026-09-13T12:07:16Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-aws-activate-application-guide",
+      "source_type": "Official provider application guide",
+      "title": "Applying for AWS Activate Credits",
+      "source_url": "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/",
+      "claim": "AWS says Founders eligibility includes a fully functioning company website, self-funding, new-to-Activate status, and a founding date within 10 years. It says applicants hear back in 5–10 business days and that Portfolio applicants need a provider Organization ID; where applicable, the most recent funding round must be within 12 months.",
+      "accessed_at": "2026-09-13T12:07:16Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-google-application-evidence-report",
+      "source_type": "Public applicant experience report",
+      "title": "Founder report: Google for Startups application evidence",
+      "source_url": "https://www.reddit.com/r/startups/comments/1qv91b7/we_got_approved_for_the_google_for_startups_cloud/",
+      "claim": "One founder describes public product and team evidence plus several rounds of follow-up during a Google application. This is an individual experience report, not an issuer term, approval guarantee, or typical decision time.",
+      "accessed_at": "2026-09-13T12:07:16Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

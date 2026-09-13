@@ -1,26 +1,26 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Azure now adds two distinct verified routes: eligible full-time university students can receive USD 100 for up to 12 months, while a new Azure customer can receive USD 1,000 instantly through Azure for Startups and may reach USD 5,000 after business verification. The startup route has a 90-day initial clock and 180 days after verification, so its higher number is not a longer runway. Vercel remains the verified funded, partner-gated route up to USD 30,000; NLnet remains the constrained individual open-technology grant route; Cloudflare Tier 3 remains unresolved for fully self-funded applicants.",
+  "current_answer": "AWS Activate’s self-funded entry still starts at USD 1,000 and may reach USD 5,000, but AWS now makes a fully functioning company website an explicit gate and says applicants hear back in 5–10 business days. The funded Portfolio route can reach USD 200,000 only with an Activate Provider Organization ID; it is not a self-funded fallback. Azure remains a separate short-clock startup route, Vercel remains partner-gated, NLnet remains the constrained individual open-technology grant, and Cloudflare Tier 3 remains unresolved for fully self-funded applicants.",
   "catalogue_card": {
-    "question": "Before you take Azure’s USD 1,000 startup credit, can you use it in 90 days?",
-    "text": "Azure shows a USD 1,000 new-startup route with a 90-day clock and up to USD 5,000 after business verification. Eligible students get a separate USD 100 route over 12 months. Same provider, different decision."
+    "question": "Before you apply for AWS Activate, does your startup have the route and proof AWS asks for?",
+    "text": "AWS says self-funded Founders applicants need a fully functioning company website and hear back in 5–10 business days. The USD 200,000 Portfolio ceiling needs a provider Organization ID."
   },
   "summary": [
-    "Individuals: Azure for Students offers eligible full-time university students USD 100 in credit within 12 months, without a card at sign-up.",
-    "Pre-funded startups: Azure for Startups shows USD 1,000 instantly for a new Azure customer and up to USD 5,000 after business verification.",
-    "The initial startup credit lasts 90 days; post-verification credit lasts 180 days, and pay-as-you-go follows expiry or use.",
-    "Funded startups: Vercel remains partner-gated and partner-specific up to USD 30,000, with a one-year-or-use limit and standard billing afterwards.",
-    "Cloudflare Tier 3 still pairs self-funded wording with a general recent-funding requirement; that conflict remains unresolved."
+    "Pre-funded startups: AWS Activate Founders starts at USD 1,000; selected applicants may receive up to USD 5,000.",
+    "AWS makes a fully functioning company website explicit for Founders and says applicants hear back in 5–10 business days.",
+    "The 5–10 days is an application decision window. The reviewed AWS pages do not publish credit validity.",
+    "Funded startups: AWS Activate Portfolio can reach USD 200,000 only with an Activate Provider Organization ID and the relevant pre-Series B conditions.",
+    "Azure, Vercel, NLnet, and the unresolved Cloudflare Tier 3 route remain separate catalogue decisions."
   ],
   "uncertainty": [
-    "Azure for Startups country coverage, detailed business-verification rules, and full eligible-service list are not established by the reviewed comparison.",
-    "Azure for Students is a constrained student route, not evidence of worldwide individual-credit coverage.",
-    "One verified open-technology grant does not establish global individual-grant coverage.",
-    "Cloudflare has not published an explanation reconciling its self-funded Tier 3 wording with its general recent-funding requirement.",
-    "Unchanged AWS, Google, and Microsoft rows should be rechecked immediately before applying."
+    "AWS does not publish country coverage, a credit-validity period, or the criteria for a Founders award above USD 1,000 on the reviewed pages.",
+    "Azure for Startups country coverage, business-verification rules, and full eligible-service list remain unconfirmed.",
+    "The individual-grant catalogue remains one constrained open-technology fund, not a worldwide inventory.",
+    "Cloudflare has not resolved the Tier 3 recent-funding ambiguity.",
+    "Several issuer rows still need a fresh check immediately before applying."
   ],
-  "checked_at": "2026-09-12T12:04:57Z",
-  "meaningfully_updated_at": "2026-09-12T12:04:57Z",
-  "freshness_note": "Azure for Students and Azure for Startups were checked on 2026-09-12; Vercel was checked on 2026-09-11; NLnet, Google Start, and Cloudflare were checked on 2026-09-10; other unchanged issuer rows were checked on 2026-09-09. Check the official source again immediately before applying."
+  "checked_at": "2026-09-13T12:07:16Z",
+  "meaningfully_updated_at": "2026-09-13T12:07:16Z",
+  "freshness_note": "AWS Activate was checked on 2026-09-13. Azure was checked on 2026-09-12; Vercel was checked on 2026-09-11; NLnet, Google Start, and Cloudflare were checked on 2026-09-10; other unchanged issuer rows were checked on 2026-09-09. Check the official source again immediately before applying."
 }
