@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:ad7c49b0-a96f-45a6-af80-1ab369c1fc3e",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-14T10:30:00Z",
+      "completed_at": "2026-09-14T10:38:01Z",
+      "title": "MongoDB startup credits are direct. The number is not public.",
+      "summary": "Added MongoDB’s direct early-stage route and separated its visible company-profile and 12-month clocks from its unpublished base-tier credit amount.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-14-mongodb-direct-route-unpublished-credit-size",
+      "entrypoint": "research/2026-09-14-mongodb-direct-route-unpublished-credit-size/index.html"
+    },
+    {
       "run_id": "run:bc98c439-0a0b-4f0c-a31c-425f6903e259",
       "status": "completed",
       "answer_change": "meaningful_change",

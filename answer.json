@@ -1,26 +1,26 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "AWS Activate’s self-funded entry still starts at USD 1,000 and may reach USD 5,000, but AWS now makes a fully functioning company website an explicit gate and says applicants hear back in 5–10 business days. The funded Portfolio route can reach USD 200,000 only with an Activate Provider Organization ID; it is not a self-funded fallback. Azure remains a separate short-clock startup route, Vercel remains partner-gated, NLnet remains the constrained individual open-technology grant, and Cloudflare Tier 3 remains unresolved for fully self-funded applicants.",
+  "current_answer": "MongoDB for Startups is a direct Atlas-credit route for startups that are under seven years old, Series A or earlier, building one software product, new to the programme, and visibly established online. A VC, accelerator, or incubator is not required to apply. The practical catch is that MongoDB does not publish the base-tier amount or country coverage; accepted startups have 12 months to activate a promo code and 12 months after activation to use credits. AWS Activate’s direct route still begins at USD 1,000 with a website gate, while the largest routes remain partner-gated.",
   "catalogue_card": {
-    "question": "Before you apply for AWS Activate, does your startup have the route and proof AWS asks for?",
-    "text": "AWS says self-funded Founders applicants need a fully functioning company website and hear back in 5–10 business days. The USD 200,000 Portfolio ceiling needs a provider Organization ID."
+    "question": "Can you apply directly for MongoDB startup credits — and what is the catch?",
+    "text": "MongoDB lets eligible early-stage startups apply without a VC or accelerator. The base credit amount is not public; accepted teams get 12 months to activate a code and 12 months to use credits."
   },
   "summary": [
-    "Pre-funded startups: AWS Activate Founders starts at USD 1,000; selected applicants may receive up to USD 5,000.",
-    "AWS makes a fully functioning company website explicit for Founders and says applicants hear back in 5–10 business days.",
-    "The 5–10 days is an application decision window. The reviewed AWS pages do not publish credit validity.",
-    "Funded startups: AWS Activate Portfolio can reach USD 200,000 only with an Activate Provider Organization ID and the relevant pre-Series B conditions.",
-    "Azure, Vercel, NLnet, and the unresolved Cloudflare Tier 3 route remain separate catalogue decisions."
+    "Eligible early-stage startups can apply directly to MongoDB for Startups without a VC, accelerator, or incubator referral.",
+    "MongoDB’s base tier looks for a startup under 7 years old, Series A or earlier, with one scalable software product, an active company website, and a LinkedIn profile.",
+    "MongoDB does not publish the base-tier Atlas-credit amount or country coverage.",
+    "If accepted, a startup has 12 months to activate its promo code and 12 months after activation to use Atlas credits.",
+    "AWS, Azure, Vercel, NLnet, and the unresolved Cloudflare Tier 3 route remain separate catalogue decisions."
   ],
   "uncertainty": [
+    "MongoDB does not publish a base-tier Atlas-credit amount, geographic coverage, acceptance rate, or the exact tier a particular applicant will receive.",
     "AWS does not publish country coverage, a credit-validity period, or the criteria for a Founders award above USD 1,000 on the reviewed pages.",
     "Azure for Startups country coverage, business-verification rules, and full eligible-service list remain unconfirmed.",
     "The individual-grant catalogue remains one constrained open-technology fund, not a worldwide inventory.",
-    "Cloudflare has not resolved the Tier 3 recent-funding ambiguity.",
-    "Several issuer rows still need a fresh check immediately before applying."
+    "Cloudflare has not resolved the Tier 3 recent-funding ambiguity."
   ],
-  "checked_at": "2026-09-13T12:07:16Z",
-  "meaningfully_updated_at": "2026-09-13T12:07:16Z",
-  "freshness_note": "AWS Activate was checked on 2026-09-13. Azure was checked on 2026-09-12; Vercel was checked on 2026-09-11; NLnet, Google Start, and Cloudflare were checked on 2026-09-10; other unchanged issuer rows were checked on 2026-09-09. Check the official source again immediately before applying."
+  "checked_at": "2026-09-14T10:33:52Z",
+  "meaningfully_updated_at": "2026-09-14T10:33:52Z",
+  "freshness_note": "MongoDB for Startups was checked on 2026-09-14. AWS was checked on 2026-09-13; Azure was checked on 2026-09-12; Vercel was checked on 2026-09-11; NLnet, Google Start, and Cloudflare were checked on 2026-09-10; other unchanged issuer rows were checked on 2026-09-09. Check the official source again immediately before applying."
 }

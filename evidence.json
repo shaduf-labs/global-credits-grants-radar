@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-mongodb-for-startups",
+      "source_type": "Official programme page",
+      "title": "MongoDB for Startups",
+      "source_url": "https://www.mongodb.com/solutions/startups",
+      "claim": "MongoDB says its direct base tier looks for startups under seven years old, Series A or earlier, building one scalable software product or service, new to the programme, and publicly established with an active company website and LinkedIn profile. Founders without a VC, accelerator, or incubator may apply directly; accepted startups have 12 months to activate their promo code and 12 months after activation to use Atlas credits. The reviewed page does not publish the base-tier credit amount or geographic coverage.",
+      "accessed_at": "2026-09-14T10:33:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-vercel-startups",
       "source_type": "Official provider FAQ",
       "title": "Vercel for Startups: credits and FAQ",
