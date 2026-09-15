@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "ukri-sustainable-ai-individual-host-gate-2026-09-15",
+      "changed_at": "2026-09-15T10:36:30Z",
+      "summary": "Added UKRI’s sustainable-AI research opportunity for eligible individual applicants and research groups, with its UK research-organisation host gate, 10 November deadline, and GBP 602,500 full-economic-cost ceiling distinguished from a personal grant.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "mongodb-direct-route-unpublished-credit-size-2026-09-14",
       "changed_at": "2026-09-14T10:33:52Z",
       "summary": "Added MongoDB for Startups as a direct route for eligible Series A-or-earlier companies, with its public website and LinkedIn gates, two 12-month credit clocks, and the unambiguous unknown: MongoDB does not publish the base-tier credit amount.",

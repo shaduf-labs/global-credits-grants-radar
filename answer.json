@@ -1,26 +1,27 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "MongoDB for Startups is a direct Atlas-credit route for startups that are under seven years old, Series A or earlier, building one software product, new to the programme, and visibly established online. A VC, accelerator, or incubator is not required to apply. The practical catch is that MongoDB does not publish the base-tier amount or country coverage; accepted startups have 12 months to activate a promo code and 12 months after activation to use credits. AWS Activate’s direct route still begins at USD 1,000 with a website gate, while the largest routes remain partner-gated.",
+  "current_answer": "UKRI’s Transformative sustainable AI technologies grant is open until 10 November 2026 at 16:00 UK time. It welcomes individuals and research groups, but an individual must lead from a UK research organisation eligible for UKRI funding and meet the individual eligibility rules. A project may have full economic cost up to GBP 602,500, with UKRI funding 80%; this is a restricted research-project route, not a personal grant. The individual catalogue now has two distinctly constrained cash-project routes: UKRI for UK-hosted sustainable-AI research and NLnet for eligible open-technology work.",
   "catalogue_card": {
-    "question": "Can you apply directly for MongoDB startup credits — and what is the catch?",
-    "text": "MongoDB lets eligible early-stage startups apply without a VC or accelerator. The base credit amount is not public; accepted teams get 12 months to activate a code and 12 months to use credits."
+    "question": "Can an individual apply for this UK AI grant?",
+    "text": "Yes, but only through an eligible UK research organisation. The sustainable-AI call closes 10 November 2026; its GBP 602,500 project-cost cap is not a personal grant cheque."
   },
   "summary": [
-    "Eligible early-stage startups can apply directly to MongoDB for Startups without a VC, accelerator, or incubator referral.",
-    "MongoDB’s base tier looks for a startup under 7 years old, Series A or earlier, with one scalable software product, an active company website, and a LinkedIn profile.",
-    "MongoDB does not publish the base-tier Atlas-credit amount or country coverage.",
-    "If accepted, a startup has 12 months to activate its promo code and 12 months after activation to use Atlas credits.",
-    "AWS, Azure, Vercel, NLnet, and the unresolved Cloudflare Tier 3 route remain separate catalogue decisions."
+    "UKRI’s Transformative sustainable AI technologies opportunity is open until 10 November 2026 at 16:00 UK time.",
+    "It welcomes research groups and individuals, but a project lead must be based at a UK research organisation eligible for UKRI funding and meet individual eligibility rules.",
+    "The maximum project full economic cost is GBP 602,500; UKRI funds 80% of that cost.",
+    "This is a sustainable-AI research project route, not general personal funding or an unrestricted startup grant.",
+    "NLnet remains the other individual cash-project route in this young catalogue; cloud and startup-credit routes remain separate decisions."
   ],
   "uncertainty": [
-    "MongoDB does not publish a base-tier Atlas-credit amount, geographic coverage, acceptance rate, or the exact tier a particular applicant will receive.",
-    "AWS does not publish country coverage, a credit-validity period, or the criteria for a Founders award above USD 1,000 on the reviewed pages.",
-    "Azure for Startups country coverage, business-verification rules, and full eligible-service list remain unconfirmed.",
-    "The individual-grant catalogue remains one constrained open-technology fund, not a worldwide inventory.",
-    "Cloudflare has not resolved the Tier 3 recent-funding ambiguity."
+    "UKRI’s detailed organisation and individual eligibility rules decide whether a particular applicant can lead the sustainable-AI project.",
+    "The GBP 602,500 is a maximum project full economic cost, not a guaranteed grant payment.",
+    "AWS does not publish country coverage, credit validity, or selection criteria above USD 1,000 on reviewed pages.",
+    "Azure for Startups coverage and verification rules remain unconfirmed.",
+    "Individual-grant coverage is still narrow and not a worldwide inventory.",
+    "Cloudflare Tier 3 remains unresolved."
   ],
-  "checked_at": "2026-09-14T10:33:52Z",
-  "meaningfully_updated_at": "2026-09-14T10:33:52Z",
-  "freshness_note": "MongoDB for Startups was checked on 2026-09-14. AWS was checked on 2026-09-13; Azure was checked on 2026-09-12; Vercel was checked on 2026-09-11; NLnet, Google Start, and Cloudflare were checked on 2026-09-10; other unchanged issuer rows were checked on 2026-09-09. Check the official source again immediately before applying."
+  "checked_at": "2026-09-15T10:36:30Z",
+  "meaningfully_updated_at": "2026-09-15T10:36:30Z",
+  "freshness_note": "UKRI’s Transformative sustainable AI technologies opportunity was checked on 2026-09-15. MongoDB was checked on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet, Google Start, and Cloudflare on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
 }

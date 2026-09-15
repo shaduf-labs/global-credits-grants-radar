@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-ukri-transformative-sustainable-ai-2026",
+      "source_type": "Official government funding opportunity",
+      "title": "UKRI: Transformative sustainable AI technologies",
+      "source_url": "https://find-government-grants.service.gov.uk/grants/transformative-sustainable-ai-technologies-grant-1",
+      "claim": "UKRI says the opportunity is open until 10 November 2026 at 16:00 UK time. It welcomes research groups and individuals, but requires a project lead based at a UK research organisation eligible for UKRI funding and a role meeting individual eligibility rules. Project full economic cost can be up to GBP 602,500; UKRI will fund 80%.",
+      "accessed_at": "2026-09-15T10:36:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-mongodb-for-startups",
       "source_type": "Official programme page",
       "title": "MongoDB for Startups",
