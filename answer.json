@@ -1,27 +1,28 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "UKRI’s Transformative sustainable AI technologies grant is open until 10 November 2026 at 16:00 UK time. It welcomes individuals and research groups, but an individual must lead from a UK research organisation eligible for UKRI funding and meet the individual eligibility rules. A project may have full economic cost up to GBP 602,500, with UKRI funding 80%; this is a restricted research-project route, not a personal grant. The individual catalogue now has two distinctly constrained cash-project routes: UKRI for UK-hosted sustainable-AI research and NLnet for eligible open-technology work.",
+  "current_answer": "DigitalOcean Startups now shows an application path for an AI-native startup without a VC, incubator, or accelerator: select “Other” in its application. New applicants must have raised USD 10 million or less, use a company website and matching email, and create a business-email DigitalOcean team account. The issuer says credits last 12 months but that the amount varies; it does not publish a fixed direct-applicant award, country map, or review time. Standard credits exclude several GPU products and third-party AI models hosted outside DigitalOcean infrastructure, so this is an application route—not a budget you can safely build around.",
   "catalogue_card": {
-    "question": "Can an individual apply for this UK AI grant?",
-    "text": "Yes, but only through an eligible UK research organisation. The sustainable-AI call closes 10 November 2026; its GBP 602,500 project-cost cap is not a personal grant cheque."
+    "question": "Can a startup apply without a VC—and know its DigitalOcean credit?",
+    "text": "You can submit without a VC, incubator, or accelerator. DigitalOcean does not publish the direct-applicant award, so confirm the balance and service coverage before you build around it."
   },
   "summary": [
-    "UKRI’s Transformative sustainable AI technologies opportunity is open until 10 November 2026 at 16:00 UK time.",
-    "It welcomes research groups and individuals, but a project lead must be based at a UK research organisation eligible for UKRI funding and meet individual eligibility rules.",
-    "The maximum project full economic cost is GBP 602,500; UKRI funds 80% of that cost.",
-    "This is a sustainable-AI research project route, not general personal funding or an unrestricted startup grant.",
-    "NLnet remains the other individual cash-project route in this young catalogue; cloud and startup-credit routes remain separate decisions."
+    "DigitalOcean lets a founder without a VC, incubator, or accelerator submit an application by selecting “Other.”",
+    "It prioritises AI-native startups and lists USD 10 million or less raised, a company website and matching email, and a business-email team account as new-applicant checks.",
+    "DigitalOcean says credits last 12 months and that the amount varies; it does not publish a fixed direct-applicant award, country map, or review time.",
+    "Standard credits exclude several GPU products and third-party AI models hosted outside DigitalOcean infrastructure.",
+    "A direct application is a route to check, not a runway number to budget."
   ],
   "uncertainty": [
+    "DigitalOcean does not publish a fixed direct-applicant award, country-availability map, review time, or applicant-specific GPU-credit outcome.",
+    "DigitalOcean’s standard credits exclude several GPU products and third-party AI models hosted outside DigitalOcean infrastructure; confirm the awarded service coverage before choosing a workload.",
     "UKRI’s detailed organisation and individual eligibility rules decide whether a particular applicant can lead the sustainable-AI project.",
-    "The GBP 602,500 is a maximum project full economic cost, not a guaranteed grant payment.",
     "AWS does not publish country coverage, credit validity, or selection criteria above USD 1,000 on reviewed pages.",
     "Azure for Startups coverage and verification rules remain unconfirmed.",
     "Individual-grant coverage is still narrow and not a worldwide inventory.",
     "Cloudflare Tier 3 remains unresolved."
   ],
-  "checked_at": "2026-09-15T10:36:30Z",
-  "meaningfully_updated_at": "2026-09-15T10:36:30Z",
-  "freshness_note": "UKRI’s Transformative sustainable AI technologies opportunity was checked on 2026-09-15. MongoDB was checked on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet, Google Start, and Cloudflare on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
+  "checked_at": "2026-09-16T11:24:29Z",
+  "meaningfully_updated_at": "2026-09-16T11:24:29Z",
+  "freshness_note": "DigitalOcean Startups and its Hatch terms were checked on 2026-09-16. UKRI was checked on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet, Google Start, and Cloudflare on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
 }

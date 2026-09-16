@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-digitalocean-startups",
+      "source_type": "Official programme page",
+      "title": "DigitalOcean Startups",
+      "source_url": "https://www.digitalocean.com/startups",
+      "claim": "DigitalOcean says it prioritises AI-native startups, excludes service businesses, and lists USD 10 million or less raised, a company website and associated email, plus a registered DigitalOcean team account using a business email as new-applicant criteria. It says a founder without a VC, incubator, or accelerator can submit by selecting “Other.” The page says credits last 12 months, amount varies, and standard credits exclude listed GPU products and third-party AI models hosted outside DigitalOcean infrastructure.",
+      "accessed_at": "2026-09-16T11:24:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-digitalocean-hatch-terms",
+      "source_type": "Official programme terms",
+      "title": "DigitalOcean Hatch Terms of Service",
+      "source_url": "https://www.digitalocean.com/legal/hatch-terms-of-service",
+      "claim": "DigitalOcean says acceptance is discretionary, accepted participants receive a fixed monthly credit amount, unused credits expire one year after acceptance, and overages can be charged.",
+      "accessed_at": "2026-09-16T11:24:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-ukri-transformative-sustainable-ai-2026",
       "source_type": "Official government funding opportunity",
       "title": "UKRI: Transformative sustainable AI technologies",
