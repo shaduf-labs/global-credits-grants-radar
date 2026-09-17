@@ -1,28 +1,27 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "DigitalOcean Startups now shows an application path for an AI-native startup without a VC, incubator, or accelerator: select “Other” in its application. New applicants must have raised USD 10 million or less, use a company website and matching email, and create a business-email DigitalOcean team account. The issuer says credits last 12 months but that the amount varies; it does not publish a fixed direct-applicant award, country map, or review time. Standard credits exclude several GPU products and third-party AI models hosted outside DigitalOcean infrastructure, so this is an application route—not a budget you can safely build around.",
+  "current_answer": "Open Technology Fund’s Internet Freedom Fund is a rolling global route for a defined internet-freedom project: individuals can apply, and published awards range from USD 10,000 to USD 900,000 for up to 24 months. This is not a general personal grant: the work must fit the fund, awards are performance-based contracts, and applicants in sanctioned jurisdictions are excluded. Separately, Cloudflare now publishes a typical review estimate, product caps, exclusions, and automatic-billing terms for its startup credits, but its Tier 3 still says both “self-funded” and “funded within the last 12 months.”",
   "catalogue_card": {
-    "question": "Can a startup apply without a VC—and know its DigitalOcean credit?",
-    "text": "You can submit without a VC, incubator, or accelerator. DigitalOcean does not publish the direct-applicant award, so confirm the balance and service coverage before you build around it."
+    "question": "A USD 10,000–900,000 grant is open to individuals. Is your project actually in scope?",
+    "text": "Open Technology Fund accepts rolling applications globally for defined internet-freedom work. The range is real; a general personal grant is not. Check scope, sanctions restrictions, and the deliverables-based contract before you draft."
   },
   "summary": [
-    "DigitalOcean lets a founder without a VC, incubator, or accelerator submit an application by selecting “Other.”",
-    "It prioritises AI-native startups and lists USD 10 million or less raised, a company website and matching email, and a business-email team account as new-applicant checks.",
-    "DigitalOcean says credits last 12 months and that the amount varies; it does not publish a fixed direct-applicant award, country map, or review time.",
-    "Standard credits exclude several GPU products and third-party AI models hosted outside DigitalOcean infrastructure.",
-    "A direct application is a route to check, not a runway number to budget."
+    "Open Technology Fund’s Internet Freedom Fund accepts rolling applications from individuals and organisations for defined internet-freedom projects.",
+    "OTF publishes awards of USD 10,000–900,000 for up to 24 months; its stated ideal request is USD 50,000–200,000 for six to 12 months.",
+    "Applicants first submit a Concept Note. OTF says it replies in about 6–8 weeks; competitive applicants are invited to a full proposal.",
+    "Awards are performance-based contracts paid against deliverables, not unrestricted personal funding.",
+    "Cloudflare now publishes review, cap, exclusion, and billing terms, but its self-funded Tier 3 and recent-funding condition remain unresolved."
   ],
   "uncertainty": [
+    "Open Technology Fund is not general personal support: only a defined internet-freedom project within its remit can compete, and its published award range is not a promised or typical award.",
+    "Open Technology Fund excludes applicants in countries subject to applicable United States trade restrictions or export sanctions.",
+    "Cloudflare Tier 3 still pairs “bootstrapped or self-funded” with a programme-wide “funded within the last 12 months” condition; the issuer has not reconciled the terms.",
+    "Cloudflare’s review estimate is not an approval promise, and credits can have product caps, exclusions, overages, and post-expiry billing.",
     "DigitalOcean does not publish a fixed direct-applicant award, country-availability map, review time, or applicant-specific GPU-credit outcome.",
-    "DigitalOcean’s standard credits exclude several GPU products and third-party AI models hosted outside DigitalOcean infrastructure; confirm the awarded service coverage before choosing a workload.",
-    "UKRI’s detailed organisation and individual eligibility rules decide whether a particular applicant can lead the sustainable-AI project.",
-    "AWS does not publish country coverage, credit validity, or selection criteria above USD 1,000 on reviewed pages.",
-    "Azure for Startups coverage and verification rules remain unconfirmed.",
-    "Individual-grant coverage is still narrow and not a worldwide inventory.",
-    "Cloudflare Tier 3 remains unresolved."
+    "Individual-grant coverage is still narrow and not a worldwide inventory."
   ],
-  "checked_at": "2026-09-16T11:24:29Z",
-  "meaningfully_updated_at": "2026-09-16T11:24:29Z",
-  "freshness_note": "DigitalOcean Startups and its Hatch terms were checked on 2026-09-16. UKRI was checked on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet, Google Start, and Cloudflare on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
+  "checked_at": "2026-09-17T10:36:51Z",
+  "meaningfully_updated_at": "2026-09-17T10:36:51Z",
+  "freshness_note": "Open Technology Fund and Cloudflare were checked on 2026-09-17. DigitalOcean was checked on 2026-09-16; UKRI on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet and Google Start on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
 }

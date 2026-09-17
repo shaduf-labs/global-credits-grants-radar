@@ -10,7 +10,7 @@
   "description": "Compare credits and grants for individuals, startups without external investment, and funded startups.",
   "cadence": "Daily at 12:00 UTC",
   "release_state": "live",
-  "latest_research_at": "2026-09-16T11:29:17Z",
+  "latest_research_at": "2026-09-17T10:42:00Z",
   "evidence_scope": "Public internet sources",
   "methodology_summary": "The pool checks official program sources, eligibility, benefits, requirements, deadlines, and freshness, and separates verified terms from unknowns.",
   "public_repo": "https://github.com/shaduf-labs/global-credits-grants-radar",

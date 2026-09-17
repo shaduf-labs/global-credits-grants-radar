@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-otf-internet-freedom-fund",
+      "source_type": "Official funder page",
+      "title": "Open Technology Fund: Internet Freedom Fund",
+      "source_url": "https://www.opentech.fund/funds/internet-freedom-fund/",
+      "claim": "OTF says its Internet Freedom Fund accepts rolling applications from individuals and organisations for defined internet-freedom projects. It publishes awards between USD 10,000 and USD 900,000 for up to 24 months, paid through performance-based contracts. Its process starts with a Concept Note, and it estimates a response in 6–8 weeks. Applicants in countries subject to applicable United States trade restrictions or export sanctions are excluded.",
+      "accessed_at": "2026-09-17T10:36:51Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-otf-application-portal",
+      "source_type": "Official application portal",
+      "title": "Open Technology Fund application portal",
+      "source_url": "https://apply.opentech.fund/",
+      "claim": "The live OTF portal says it is continually seeking ideas from individuals and organisations globally defending freedom of expression online and presents an application route for the Internet Freedom Fund.",
+      "accessed_at": "2026-09-17T10:36:51Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-cloudflare-startups",
+      "source_type": "Official provider page",
+      "title": "Cloudflare for Startups",
+      "source_url": "https://www.cloudflare.com/startups/",
+      "claim": "Cloudflare presents USD 10,000 Tier 3 for a bootstrapped or self-funded startup under USD 1 million raised, while its general qualification list also says a startup must have been funded within the last 12 months. It states credits last one year or until consumed, review typically takes up to 48 hours, product caps and exclusions apply, a payment method is required, and overages or post-expiry use can be billed.",
+      "accessed_at": "2026-09-17T10:36:51Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-digitalocean-startups",
       "source_type": "Official programme page",
       "title": "DigitalOcean Startups",
@@ -99,16 +129,6 @@
       "claim": "Google identifies Start as the working-MVP route and Scale as the VC-funded route; programme credits can reach USD 200,000, or USD 350,000 for Scale-tier AI startups.",
       "accessed_at": "2026-09-10T12:07:20Z",
       "relation": "supports",
-      "publication_basis": "linked-summary"
-    },
-    {
-      "evidence_id": "pub-cloudflare-startups",
-      "source_type": "Official provider page",
-      "title": "Cloudflare for Startups",
-      "source_url": "https://www.cloudflare.com/startups/",
-      "claim": "Cloudflare presents USD 10,000 Tier 3 for a bootstrapped or self-funded startup under USD 1 million raised, but its general qualification list also says a startup must be funded within the last 12 months; the page does not reconcile those statements.",
-      "accessed_at": "2026-09-10T12:07:20Z",
-      "relation": "unresolved",
       "publication_basis": "linked-summary"
     },
     {
