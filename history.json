@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:ab16b4b9-4443-46eb-8491-d83aa355234f",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-18T10:30:00Z",
+      "completed_at": "2026-09-18T10:43:15Z",
+      "title": "Microsoft says USD 200. Its other page says USD 1,000.",
+      "summary": "Refreshed Microsoft for Startups after two official no-referral guides gave different starter-credit amounts; the direct balance is now Unknown and the USD 150,000 ceiling, review, and billing boundaries are separated from it.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-18-microsoft-starter-credit-conflict",
+      "entrypoint": "research/2026-09-18-microsoft-starter-credit-conflict/index.html"
+    },
+    {
       "run_id": "run:7d548211-bf01-4f0b-881c-145e5d077902",
       "status": "completed",
       "answer_change": "meaningful_change",

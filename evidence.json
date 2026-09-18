@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-microsoft-startups-activation-2026-09-18",
+      "source_type": "Official activation documentation",
+      "title": "Microsoft Learn: Activate Azure Credits",
+      "source_url": "https://learn.microsoft.com/en-us/startups/build/azure-getting-started/activate",
+      "claim": "Microsoft’s activation guide describes the same no-referral route but says it provides USD 1,000 in starter Azure credits, conflicting with the USD 200 figure in its application guide. It says country or region selection controls availability and payment information is required.",
+      "accessed_at": "2026-09-18T10:42:09Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-microsoft-startups-overview-2026-09-18",
+      "source_type": "Official programme documentation",
+      "title": "Microsoft Learn: What is Microsoft for Startups?",
+      "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview",
+      "claim": "Microsoft says eligible privately held, for-profit software startups in supported Azure countries may apply directly, and can unlock up to USD 150,000 in Startup credits over time based on verified progress, service adoption, and sustained Azure usage. Investor Network backing may unlock benefits earlier; the ceiling is not an entry entitlement.",
+      "accessed_at": "2026-09-18T10:42:09Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-otf-internet-freedom-fund",
       "source_type": "Official funder page",
       "title": "Open Technology Fund: Internet Freedom Fund",
@@ -173,12 +193,12 @@
     },
     {
       "evidence_id": "pub-microsoft-startups",
-      "source_type": "Official provider documentation",
-      "title": "How to Apply to Microsoft for Startups",
+      "source_type": "Official application documentation",
+      "title": "Microsoft Learn: Microsoft for Startups application process",
       "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
-      "claim": "Microsoft documents a no-referral application path with USD 200 starter credits and says approved startups can unlock expanded credits up to USD 150,000.",
-      "accessed_at": "2026-09-09T12:25:00Z",
-      "relation": "supports",
+      "claim": "Microsoft documents a no-referral route that continues to Azure account creation and says its direct starter balance is USD 200. It says a submitted application is reviewed within three business days, requests account and payment details, and says sponsorship moves to pay-as-you-go after credit use or expiry. Its own activation guide shows a conflicting USD 1,000 direct starter balance.",
+      "accessed_at": "2026-09-18T10:42:09Z",
+      "relation": "unresolved",
       "publication_basis": "linked-summary"
     },
     {

@@ -1,27 +1,28 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Open Technology Fund’s Internet Freedom Fund is a rolling global route for a defined internet-freedom project: individuals can apply, and published awards range from USD 10,000 to USD 900,000 for up to 24 months. This is not a general personal grant: the work must fit the fund, awards are performance-based contracts, and applicants in sanctioned jurisdictions are excluded. Separately, Cloudflare now publishes a typical review estimate, product caps, exclusions, and automatic-billing terms for its startup credits, but its Tier 3 still says both “self-funded” and “funded within the last 12 months.”",
+  "current_answer": "Microsoft for Startups documents a direct path without an investor referral code, but its current official pages do not agree on the direct starter credit: the application guide says USD 200 and the activation guide says USD 1,000. Do not plan spending from either number until the account flow shows it. Eligible startups may unlock up to USD 150,000 over time, but that is a staged ceiling, not an entry award; Investor Network backing may unlock benefits earlier.",
   "catalogue_card": {
-    "question": "A USD 10,000–900,000 grant is open to individuals. Is your project actually in scope?",
-    "text": "Open Technology Fund accepts rolling applications globally for defined internet-freedom work. The range is real; a general personal grant is not. Check scope, sanctions restrictions, and the deliverables-based contract before you draft."
+    "question": "Microsoft says USD 200. Its other page says USD 1,000. Which starter credit is real?",
+    "text": "The direct Microsoft for Startups route is real. Its public starter amount is not: one official guide says USD 200 and another says USD 1,000. Treat the balance as Unknown, then check the account flow, credit term, and billing boundary before you build around it."
   },
   "summary": [
-    "Open Technology Fund’s Internet Freedom Fund accepts rolling applications from individuals and organisations for defined internet-freedom projects.",
-    "OTF publishes awards of USD 10,000–900,000 for up to 24 months; its stated ideal request is USD 50,000–200,000 for six to 12 months.",
-    "Applicants first submit a Concept Note. OTF says it replies in about 6–8 weeks; competitive applicants are invited to a full proposal.",
-    "Awards are performance-based contracts paid against deliverables, not unrestricted personal funding.",
-    "Cloudflare now publishes review, cap, exclusion, and billing terms, but its self-funded Tier 3 and recent-funding condition remain unresolved."
+    "Microsoft documents a direct Microsoft for Startups path without an Investor Network referral code.",
+    "Its application guide says USD 200 in direct starter credits, while its activation guide says USD 1,000 for the same no-referral route.",
+    "The direct starter amount stays Unknown until Microsoft reconciles its documents or the account flow shows the balance.",
+    "Microsoft says eligible startups may unlock up to USD 150,000 over time as they show verified progress, service adoption, and sustained Azure usage.",
+    "Investor Network backing may unlock benefits earlier, but the USD 150,000 figure is not an entry or partner guarantee.",
+    "Microsoft says applications are typically reviewed within three business days; the application guide says sponsorship converts to pay-as-you-go after use or expiry."
   ],
   "uncertainty": [
-    "Open Technology Fund is not general personal support: only a defined internet-freedom project within its remit can compete, and its published award range is not a promised or typical award.",
-    "Open Technology Fund excludes applicants in countries subject to applicable United States trade restrictions or export sanctions.",
+    "Microsoft’s current direct-path documentation conflicts on the starter amount: the application guide says USD 200, while the activation guide says USD 1,000. The issuer has not published a reconciliation, so the direct starter amount is Unknown until the account flow shows it.",
+    "The USD 150,000 Microsoft figure is a staged ceiling. The reviewed overview does not publish an allocation schedule or direct-route validity period.",
     "Cloudflare Tier 3 still pairs “bootstrapped or self-funded” with a programme-wide “funded within the last 12 months” condition; the issuer has not reconciled the terms.",
     "Cloudflare’s review estimate is not an approval promise, and credits can have product caps, exclusions, overages, and post-expiry billing.",
     "DigitalOcean does not publish a fixed direct-applicant award, country-availability map, review time, or applicant-specific GPU-credit outcome.",
     "Individual-grant coverage is still narrow and not a worldwide inventory."
   ],
-  "checked_at": "2026-09-17T10:36:51Z",
-  "meaningfully_updated_at": "2026-09-17T10:36:51Z",
-  "freshness_note": "Open Technology Fund and Cloudflare were checked on 2026-09-17. DigitalOcean was checked on 2026-09-16; UKRI on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet and Google Start on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
+  "checked_at": "2026-09-18T10:42:09Z",
+  "meaningfully_updated_at": "2026-09-18T10:42:09Z",
+  "freshness_note": "Microsoft’s overview, application guide, and activation guide were checked on 2026-09-18. Open Technology Fund and Cloudflare were checked on 2026-09-17; DigitalOcean on 2026-09-16; UKRI on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet and Google Start on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
 }

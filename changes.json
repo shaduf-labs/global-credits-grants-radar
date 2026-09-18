@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "microsoft-direct-starter-credit-conflict-2026-09-18",
+      "changed_at": "2026-09-18T10:42:09Z",
+      "summary": "Refreshed Microsoft for Startups: its direct no-referral path is verified, but current official pages state USD 200 and USD 1,000 starter credits. The direct amount is now shown as Unknown; the USD 150,000 figure is separated as a staged ceiling, with review and billing boundaries beside it.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "otf-rolling-individual-grant-cloudflare-credit-boundary-2026-09-17",
       "changed_at": "2026-09-17T10:36:51Z",
       "summary": "Added Open Technology Fund’s rolling individual internet-freedom grant, with its USD 10,000–900,000 range, project-scope, sanctions, Concept Note, response estimate, and performance-contract gates. Refreshed Cloudflare’s caps, exclusions, payment method, overage, post-expiry billing, and review terms while preserving its unresolved Tier 3 funding conflict.",
