@@ -260,6 +260,36 @@
       "accessed_at": "2026-09-13T12:07:16Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:oracle-free-tier-overview",
+      "source_type": "Official issuer page",
+      "title": "Oracle Cloud Universal Credits",
+      "source_url": "https://www.oracle.com/cloud/universal-credits/",
+      "claim": "Oracle advertises US$300 in free credits for 30 days and more than 20 Always Free services.",
+      "accessed_at": "2026-09-19T10:42:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:oracle-free-tier-signup",
+      "source_type": "Official issuer documentation",
+      "title": "Sign Up for the Free Oracle Cloud Promotion",
+      "source_url": "https://docs.oracle.com/en-us/iaas/Content/GSG/Tasks/signingup_topic-Sign_Up_for_Free_Oracle_Cloud_Promotion.htm",
+      "claim": "Oracle documents country, contact and payment verification, one account per email, and an irreversible Home Region choice.",
+      "accessed_at": "2026-09-19T10:42:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:oracle-free-tier-expiry",
+      "source_type": "Official issuer documentation",
+      "title": "What Happens When the Promotion Expires",
+      "source_url": "https://docs.oracle.com/en-us/iaas/Content/GSG/Tasks/signingup_topic-What_Happens_When_the_Promotion_Expires.htm",
+      "claim": "Oracle documents a 30-day-or-consumption end point for the promotion and the treatment of paid and Always Free resources afterward.",
+      "accessed_at": "2026-09-19T10:42:30Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

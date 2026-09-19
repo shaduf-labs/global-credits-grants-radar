@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "oracle-free-tier-home-region-card-gate-2026-09-19",
+      "changed_at": "2026-09-19T10:42:30Z",
+      "summary": "Added Oracle Cloud Free Tier as an individual route: US$300 in eligible OCI credits for 30 days plus Always Free services. The catalogue now keeps select-country availability, card verification, the irreversible Home Region choice, capacity limits, and post-credit resource outcome beside the amount.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "microsoft-direct-starter-credit-conflict-2026-09-18",
       "changed_at": "2026-09-18T10:42:09Z",
       "summary": "Refreshed Microsoft for Startups: its direct no-referral path is verified, but current official pages state USD 200 and USD 1,000 starter credits. The direct amount is now shown as Unknown; the USD 150,000 figure is separated as a staged ceiling, with review and billing boundaries beside it.",

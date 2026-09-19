@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Microsoft for Startups documents a direct path without an investor referral code, but its current official pages do not agree on the direct starter credit: the application guide says USD 200 and the activation guide says USD 1,000. Do not plan spending from either number until the account flow shows it. Eligible startups may unlock up to USD 150,000 over time, but that is a staged ceiling, not an entry award; Investor Network backing may unlock benefits earlier.",
+  "current_answer": "Oracle Cloud Free Tier adds a current individual credit route: US$300 for eligible OCI services over 30 days, plus Always Free services. The credit is limited to select countries. Sign-up requires a payment-verification card and an irreversible Home Region choice, so check country availability, resource capacity, and the intended workload before treating the trial as build runway.",
   "catalogue_card": {
-    "question": "Microsoft says USD 200. Its other page says USD 1,000. Which starter credit is real?",
-    "text": "The direct Microsoft for Startups route is real. Its public starter amount is not: one official guide says USD 200 and another says USD 1,000. Treat the balance as Unknown, then check the account flow, credit term, and billing boundary before you build around it."
+    "question": "US$300 for 30 days. One Oracle region choice is permanent.",
+    "text": "Oracle Cloud Free Tier adds US$300 in credits for eligible services, plus Always Free resources. It is not a universal or frictionless trial: the credit is limited to select countries, sign-up needs payment verification, and your Home Region cannot be changed. Check those gates before you build around it."
   },
   "summary": [
-    "Microsoft documents a direct Microsoft for Startups path without an Investor Network referral code.",
-    "Its application guide says USD 200 in direct starter credits, while its activation guide says USD 1,000 for the same no-referral route.",
-    "The direct starter amount stays Unknown until Microsoft reconciles its documents or the account flow shows the balance.",
-    "Microsoft says eligible startups may unlock up to USD 150,000 over time as they show verified progress, service adoption, and sustained Azure usage.",
-    "Investor Network backing may unlock benefits earlier, but the USD 150,000 figure is not an entry or partner guarantee.",
-    "Microsoft says applications are typically reviewed within three business days; the application guide says sponsorship converts to pay-as-you-go after use or expiry."
+    "Oracle Cloud Free Tier adds a current individual cloud-credit route: US$300 for eligible OCI services over 30 days, plus Always Free services.",
+    "Oracle says the US$300 credit is available in select countries, while exact Free Tier availability can differ during sign-up.",
+    "Oracle requires one cloud account per email address, country selection, contact verification, and a payment-verification card; it says the card is not charged unless the account is upgraded.",
+    "The selected Oracle Home Region cannot be changed after sign-up.",
+    "The credit ends after 30 days or when spent. Without an upgrade, paid resources are reclaimed after the grace period; Always Free resources can remain while the account stays active.",
+    "Capacity limits can still stop a particular resource from being available in the selected region."
   ],
   "uncertainty": [
-    "Microsoft’s current direct-path documentation conflicts on the starter amount: the application guide says USD 200, while the activation guide says USD 1,000. The issuer has not published a reconciliation, so the direct starter amount is Unknown until the account flow shows it.",
-    "The USD 150,000 Microsoft figure is a staged ceiling. The reviewed overview does not publish an allocation schedule or direct-route validity period.",
-    "Cloudflare Tier 3 still pairs “bootstrapped or self-funded” with a programme-wide “funded within the last 12 months” condition; the issuer has not reconciled the terms.",
-    "Cloudflare’s review estimate is not an approval promise, and credits can have product caps, exclusions, overages, and post-expiry billing.",
+    "Oracle makes the US$300 trial available only in select countries, and exact Free Tier availability can differ during sign-up.",
+    "Oracle Cloud Free Tier capacity limits can prevent a particular resource from being provisioned in the chosen Home Region.",
+    "Microsoft’s direct no-referral guides still conflict on USD 200 versus USD 1,000 starter credits.",
+    "Cloudflare Tier 3’s self-funded and recent-funding wording remains unresolved.",
     "DigitalOcean does not publish a fixed direct-applicant award, country-availability map, review time, or applicant-specific GPU-credit outcome.",
     "Individual-grant coverage is still narrow and not a worldwide inventory."
   ],
-  "checked_at": "2026-09-18T10:42:09Z",
-  "meaningfully_updated_at": "2026-09-18T10:42:09Z",
-  "freshness_note": "Microsoft’s overview, application guide, and activation guide were checked on 2026-09-18. Open Technology Fund and Cloudflare were checked on 2026-09-17; DigitalOcean on 2026-09-16; UKRI on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet and Google Start on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
+  "checked_at": "2026-09-19T10:42:30Z",
+  "meaningfully_updated_at": "2026-09-19T10:42:30Z",
+  "freshness_note": "Oracle Free Tier terms, sign-up requirements, and expiry behaviour were checked on 2026-09-19. Microsoft was checked on 2026-09-18; Open Technology Fund and Cloudflare on 2026-09-17; DigitalOcean on 2026-09-16; UKRI on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet and Google Start on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
 }

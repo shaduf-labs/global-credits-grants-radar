@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:93a6ab97-9313-4945-a682-d82f8b488fd9",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-19T10:30:00Z",
+      "completed_at": "2026-09-19T10:43:03Z",
+      "title": "Oracle’s US$300 credit lasts 30 days. Its Home Region choice lasts longer.",
+      "summary": "Added Oracle Cloud Free Tier as a source-verified individual route and kept the select-country, payment-verification, permanent-Home-Region, capacity, expiry, and resource-reclamation gates beside the US$300 trial.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-19-oracle-free-tier-home-region",
+      "entrypoint": "research/2026-09-19-oracle-free-tier-home-region/index.html"
+    },
+    {
       "run_id": "run:ab16b4b9-4443-46eb-8491-d83aa355234f",
       "status": "completed",
       "answer_change": "meaningful_change",
