@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:b5ceb9b2-9022-42f7-b912-a55bde5461cf",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-20T10:30:00Z",
+      "completed_at": "2026-09-20T10:48:00Z",
+      "title": "USD 13 a month on Heroku is listed for students. Verification is the gate.",
+      "summary": "Added GitHub Student Developer Pack’s current Heroku credit route and separated its USD 13 monthly amount from student verification, no-repeat or no-stack limits, change risk, and missing plan, country, rollover, and billing terms.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-20-github-student-pack-heroku-credit",
+      "entrypoint": "research/2026-09-20-github-student-pack-heroku-credit/index.html"
+    },
+    {
       "run_id": "run:93a6ab97-9313-4945-a682-d82f8b488fd9",
       "status": "completed",
       "answer_change": "meaningful_change",

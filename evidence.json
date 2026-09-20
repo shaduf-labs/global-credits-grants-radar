@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-github-student-pack-heroku-2026-09-20",
+      "source_type": "Official programme listing",
+      "title": "GitHub Student Developer Pack",
+      "source_url": "https://education.github.com/pack",
+      "claim": "GitHub’s current Student Developer Pack lists a Heroku offer of USD 13 in credit per month for 24 months.",
+      "accessed_at": "2026-09-20T10:37:06Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-github-education-application-2026-09-20",
+      "source_type": "Official application documentation",
+      "title": "GitHub Docs: Apply to GitHub Education as a student",
+      "source_url": "https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student",
+      "claim": "GitHub says a student applicant must be enrolled in a degree- or diploma-granting programme, prove current student status, own a personal GitHub account, and be at least 13 years old.",
+      "accessed_at": "2026-09-20T10:37:06Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-github-student-pack-terms-2026-09-20",
+      "source_type": "Official programme terms",
+      "title": "GitHub Docs: Student Developer Pack terms",
+      "source_url": "https://docs.github.com/en/education/about-github-education/github-education-for-students/github-terms-and-conditions-for-the-student-developer-pack",
+      "claim": "GitHub says student validation lasts two years, partner offers may not be redeemed more than once or stacked with a partner free trial, and partner offers can change.",
+      "accessed_at": "2026-09-20T10:37:06Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-microsoft-startups-activation-2026-09-18",
       "source_type": "Official activation documentation",
       "title": "Microsoft Learn: Activate Azure Credits",

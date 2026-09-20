@@ -1,28 +1,29 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Oracle Cloud Free Tier adds a current individual credit route: US$300 for eligible OCI services over 30 days, plus Always Free services. The credit is limited to select countries. Sign-up requires a payment-verification card and an irreversible Home Region choice, so check country availability, resource capacity, and the intended workload before treating the trial as build runway.",
+  "current_answer": "GitHub's Student Developer Pack adds a current individual hosting-credit route for verified students: USD 13 in Heroku credit each month for 24 months. A qualifying applicant needs a personal GitHub account, current enrollment in a degree- or diploma-granting programme, proof of student status, and age 13 or older. It is a service credit, not USD 312 in cash: the public listing does not state country coverage, plan coverage, monthly-credit rollover, or post-credit billing.",
   "catalogue_card": {
-    "question": "US$300 for 30 days. One Oracle region choice is permanent.",
-    "text": "Oracle Cloud Free Tier adds US$300 in credits for eligible services, plus Always Free resources. It is not a universal or frictionless trial: the credit is limited to select countries, sign-up needs payment verification, and your Home Region cannot be changed. Check those gates before you build around it."
+    "question": "Student? USD 13 a month on Heroku is listed for 24 months.",
+    "text": "GitHub lists USD 13 in Heroku credit every month for 24 months in its Student Developer Pack. Current student verification is the gate. The public listing does not state country coverage, plan coverage, rollover, or the bill after the credit, so claim it only for a workload that survives those unknowns."
   },
   "summary": [
-    "Oracle Cloud Free Tier adds a current individual cloud-credit route: US$300 for eligible OCI services over 30 days, plus Always Free services.",
-    "Oracle says the US$300 credit is available in select countries, while exact Free Tier availability can differ during sign-up.",
-    "Oracle requires one cloud account per email address, country selection, contact verification, and a payment-verification card; it says the card is not charged unless the account is upgraded.",
-    "The selected Oracle Home Region cannot be changed after sign-up.",
-    "The credit ends after 30 days or when spent. Without an upgrade, paid resources are reclaimed after the grace period; Always Free resources can remain while the account stays active.",
-    "Capacity limits can still stop a particular resource from being available in the selected region."
+    "GitHub's current Student Developer Pack lists USD 13 in Heroku credit each month for 24 months.",
+    "GitHub says a student applicant needs current enrollment in a degree- or diploma-granting programme, proof of current status, a personal GitHub account, and an age of at least 13.",
+    "The Pack can limit repeated redemption or stacking with a partner free trial, and GitHub says partner offers can change.",
+    "The public entry does not publish country coverage, Heroku plan coverage, monthly-credit rollover, a card requirement, or post-credit billing.",
+    "Oracle remains a US$300, 30-day individual trial with select-country, payment-verification, capacity, and permanent-Home-Region gates."
   ],
   "uncertainty": [
+    "Heroku's public Student Developer Pack entry does not publish country availability, plan coverage, monthly-credit rollover, a card requirement, or the price after credits.",
+    "GitHub says partner offers can change and some offers cannot be stacked or redeemed more than once; check the live Pack entry before claiming.",
     "Oracle makes the US$300 trial available only in select countries, and exact Free Tier availability can differ during sign-up.",
     "Oracle Cloud Free Tier capacity limits can prevent a particular resource from being provisioned in the chosen Home Region.",
-    "Microsoft’s direct no-referral guides still conflict on USD 200 versus USD 1,000 starter credits.",
-    "Cloudflare Tier 3’s self-funded and recent-funding wording remains unresolved.",
+    "Microsoft's current direct-path documentation conflicts on the starter amount: the application guide says USD 200, while the activation guide says USD 1,000. The issuer has not published a reconciliation, so the direct starter amount is Unknown until the account flow shows it.",
+    "Cloudflare Tier 3 still pairs “bootstrapped or self-funded” with a programme-wide “funded within the last 12 months” condition; the issuer has not reconciled the terms.",
     "DigitalOcean does not publish a fixed direct-applicant award, country-availability map, review time, or applicant-specific GPU-credit outcome.",
     "Individual-grant coverage is still narrow and not a worldwide inventory."
   ],
-  "checked_at": "2026-09-19T10:42:30Z",
-  "meaningfully_updated_at": "2026-09-19T10:42:30Z",
-  "freshness_note": "Oracle Free Tier terms, sign-up requirements, and expiry behaviour were checked on 2026-09-19. Microsoft was checked on 2026-09-18; Open Technology Fund and Cloudflare on 2026-09-17; DigitalOcean on 2026-09-16; UKRI on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet and Google Start on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
+  "checked_at": "2026-09-20T10:37:06Z",
+  "meaningfully_updated_at": "2026-09-20T10:37:06Z",
+  "freshness_note": "GitHub Student Developer Pack, GitHub Education eligibility, and Pack terms were checked on 2026-09-20. Oracle was checked on 2026-09-19; Microsoft on 2026-09-18; Open Technology Fund and Cloudflare on 2026-09-17; DigitalOcean on 2026-09-16; UKRI on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet and Google Start on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
 }

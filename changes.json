@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "github-student-pack-heroku-credit-verification-2026-09-20",
+      "changed_at": "2026-09-20T10:37:06Z",
+      "summary": "Added GitHub Student Developer Pack’s current Heroku route for verified students: USD 13 in credit per month for 24 months. The catalogue now keeps enrollment proof, personal-account and age gates, non-stacking or repeat-claim limits, changing partner terms, and missing Heroku billing details beside the amount.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "oracle-free-tier-home-region-card-gate-2026-09-19",
       "changed_at": "2026-09-19T10:42:30Z",
       "summary": "Added Oracle Cloud Free Tier as an individual route: US$300 in eligible OCI credits for 30 days plus Always Free services. The catalogue now keeps select-country availability, card verification, the irreversible Home Region choice, capacity limits, and post-credit resource outcome beside the amount.",
