@@ -1,29 +1,30 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "GitHub's Student Developer Pack adds a current individual hosting-credit route for verified students: USD 13 in Heroku credit each month for 24 months. A qualifying applicant needs a personal GitHub account, current enrollment in a degree- or diploma-granting programme, proof of student status, and age 13 or older. It is a service credit, not USD 312 in cash: the public listing does not state country coverage, plan coverage, monthly-credit rollover, or post-credit billing.",
+  "current_answer": "GitHub's Student Developer Pack now provides a second current individual credit route for verified students: USD 25 in Stripe credits to offset fees on products including Stripe Payments and Billing. This is not USD 25 in cash and is separate from the Pack's USD 13 monthly Heroku hosting credit. A reader must first qualify for GitHub Education; the public Pack listing does not publish Stripe country or account eligibility, covered-fee detail, redemption steps, expiry, or post-credit fees.",
   "catalogue_card": {
-    "question": "Student? USD 13 a month on Heroku is listed for 24 months.",
-    "text": "GitHub lists USD 13 in Heroku credit every month for 24 months in its Student Developer Pack. Current student verification is the gate. The public listing does not state country coverage, plan coverage, rollover, or the bill after the credit, so claim it only for a workload that survives those unknowns."
+    "question": "Student? GitHub lists USD 25 in Stripe fee credits.",
+    "text": "GitHub’s Student Developer Pack lists USD 25 in Stripe credits for products including Payments and Billing. Current student verification is the gate. The public listing does not state Stripe country or account eligibility, exact fee coverage, expiry, or the fees after credit, so check the live claim before building a payment flow around it."
   },
   "summary": [
-    "GitHub's current Student Developer Pack lists USD 13 in Heroku credit each month for 24 months.",
+    "GitHub’s current Student Developer Pack lists USD 25 in Stripe credits to offset fees on products including Stripe Payments and Billing.",
     "GitHub says a student applicant needs current enrollment in a degree- or diploma-granting programme, proof of current status, a personal GitHub account, and an age of at least 13.",
-    "The Pack can limit repeated redemption or stacking with a partner free trial, and GitHub says partner offers can change.",
-    "The public entry does not publish country coverage, Heroku plan coverage, monthly-credit rollover, a card requirement, or post-credit billing.",
-    "Oracle remains a US$300, 30-day individual trial with select-country, payment-verification, capacity, and permanent-Home-Region gates."
+    "The USD 25 is a fee offset, not cash. The Pack listing does not publish Stripe country or account eligibility, exact fee coverage, redemption steps, expiry, or post-credit fees.",
+    "GitHub says partner offers have their own terms, can change, and may be limited by prior redemption or a partner free trial.",
+    "The same Pack separately lists USD 13 in Heroku credit each month for 24 months; do not combine the two offers into one student budget."
   ],
   "uncertainty": [
-    "Heroku's public Student Developer Pack entry does not publish country availability, plan coverage, monthly-credit rollover, a card requirement, or the price after credits.",
-    "GitHub says partner offers can change and some offers cannot be stacked or redeemed more than once; check the live Pack entry before claiming.",
+    "GitHub’s public Stripe Pack entry does not publish Stripe country or account eligibility, exact covered fees and products, redemption steps, expiry, or fees after the USD 25 credit.",
+    "GitHub says third-party Pack offers may change and some may not be repeated or stacked with a partner free trial; check the live Stripe claim before setting up payments.",
+    "Heroku’s public Student Developer Pack entry does not publish country availability, plan coverage, monthly-credit rollover, a card requirement, or the price after credits.",
     "Oracle makes the US$300 trial available only in select countries, and exact Free Tier availability can differ during sign-up.",
     "Oracle Cloud Free Tier capacity limits can prevent a particular resource from being provisioned in the chosen Home Region.",
-    "Microsoft's current direct-path documentation conflicts on the starter amount: the application guide says USD 200, while the activation guide says USD 1,000. The issuer has not published a reconciliation, so the direct starter amount is Unknown until the account flow shows it.",
+    "Microsoft’s current direct-path documentation conflicts on the starter amount: the application guide says USD 200, while the activation guide says USD 1,000. The issuer has not published a reconciliation, so the direct starter amount is Unknown until the account flow shows it.",
     "Cloudflare Tier 3 still pairs “bootstrapped or self-funded” with a programme-wide “funded within the last 12 months” condition; the issuer has not reconciled the terms.",
     "DigitalOcean does not publish a fixed direct-applicant award, country-availability map, review time, or applicant-specific GPU-credit outcome.",
     "Individual-grant coverage is still narrow and not a worldwide inventory."
   ],
-  "checked_at": "2026-09-20T10:37:06Z",
-  "meaningfully_updated_at": "2026-09-20T10:37:06Z",
-  "freshness_note": "GitHub Student Developer Pack, GitHub Education eligibility, and Pack terms were checked on 2026-09-20. Oracle was checked on 2026-09-19; Microsoft on 2026-09-18; Open Technology Fund and Cloudflare on 2026-09-17; DigitalOcean on 2026-09-16; UKRI on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet and Google Start on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
+  "checked_at": "2026-09-21T10:38:02Z",
+  "meaningfully_updated_at": "2026-09-21T10:38:02Z",
+  "freshness_note": "GitHub Student Developer Pack, GitHub Education eligibility, and Pack terms were checked on 2026-09-21. Heroku was checked again through the same Pack listing on 2026-09-21; Oracle on 2026-09-19; Microsoft on 2026-09-18; Open Technology Fund and Cloudflare on 2026-09-17; DigitalOcean on 2026-09-16; UKRI on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet and Google Start on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
 }

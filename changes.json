@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "github-student-pack-stripe-fee-credit-2026-09-21",
+      "changed_at": "2026-09-21T10:38:02Z",
+      "summary": "Added GitHub Student Developer Pack’s current USD 25 Stripe fee-credit route for verified students. The catalogue keeps the student-verification gate, separate payment-fee purpose, partner-controlled and changing terms, and missing Stripe account, country, coverage, expiry, and post-credit-fee details beside the amount.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "github-student-pack-heroku-credit-verification-2026-09-20",
       "changed_at": "2026-09-20T10:37:06Z",
       "summary": "Added GitHub Student Developer Pack’s current Heroku route for verified students: USD 13 in credit per month for 24 months. The catalogue now keeps enrollment proof, personal-account and age gates, non-stacking or repeat-claim limits, changing partner terms, and missing Heroku billing details beside the amount.",

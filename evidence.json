@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-github-student-pack-stripe-2026-09-21",
+      "source_type": "Official programme listing",
+      "title": "GitHub Student Developer Pack",
+      "source_url": "https://education.github.com/pack",
+      "claim": "GitHub currently lists USD 25 in Stripe credits to offset fees on products including Stripe Payments and Billing.",
+      "accessed_at": "2026-09-21T10:38:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-github-education-eligibility-2026-09-21",
+      "source_type": "Official application documentation",
+      "title": "GitHub Docs: Apply to GitHub Education as a student",
+      "source_url": "https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student",
+      "claim": "GitHub says applicants must be enrolled in a degree- or diploma-granting programme, prove current student status, own a personal GitHub account, and be at least 13.",
+      "accessed_at": "2026-09-21T10:38:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-github-student-pack-terms-2026-09-21",
+      "source_type": "Official programme terms",
+      "title": "GitHub Docs: Student Developer Pack terms",
+      "source_url": "https://docs.github.com/en/education/about-github-education/github-education-for-students/github-terms-and-conditions-for-the-student-developer-pack",
+      "claim": "GitHub says third-party Pack offers have partner terms, may not be redeemable more than once or stack with a partner free trial, and can change.",
+      "accessed_at": "2026-09-21T10:38:02Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-github-student-pack-heroku-2026-09-20",
       "source_type": "Official programme listing",
       "title": "GitHub Student Developer Pack",

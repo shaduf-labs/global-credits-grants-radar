@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:258bf971-eb3f-493c-a0d4-481a043e3fbd",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-21T10:30:00Z",
+      "completed_at": "2026-09-21T10:52:57Z",
+      "title": "USD 25 off Stripe fees is listed for students. The usable fee is still unknown.",
+      "summary": "Added GitHub Student Developer Pack’s current USD 25 Stripe fee-credit route and separated its student-verification gate from its unpublished country or account eligibility, fee coverage, redemption, expiry, and post-credit terms.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-21-github-student-pack-stripe-fee-credit",
+      "entrypoint": "research/2026-09-21-github-student-pack-stripe-fee-credit/index.html"
+    },
+    {
       "run_id": "run:b5ceb9b2-9022-42f7-b912-a55bde5461cf",
       "status": "completed",
       "answer_change": "meaningful_change",
