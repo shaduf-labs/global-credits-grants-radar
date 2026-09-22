@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-awesome-foundation-home-2026-09-22",
+      "source_type": "Official foundation homepage",
+      "title": "The Awesome Foundation",
+      "source_url": "https://www.awesomefoundation.org/",
+      "claim": "The Awesome Foundation says it awards USD 1,000 grants every month, takes no stake in an idea, and currently lists 70 autonomous chapters in 11 countries.",
+      "accessed_at": "2026-09-22T10:42:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-awesome-foundation-dc-2026-09-22",
+      "source_type": "Official chapter page",
+      "title": "Awesome Foundation DC",
+      "source_url": "https://www.awesomefoundation.org/en/chapters/dc",
+      "claim": "Awesome Foundation DC presents an application route and says it awards monthly USD 1,000 grants. It weighs direct benefit to Washington, DC, whether USD 1,000 will have an actual impact, and whether a project is immediately actionable; it says it usually selects winners at the end of each month.",
+      "accessed_at": "2026-09-22T10:42:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-awesome-foundation-faq-2026-09-22",
+      "source_type": "Official foundation FAQ",
+      "title": "Awesome Foundation FAQ",
+      "source_url": "https://blog.awesomefoundation.org/faq/",
+      "claim": "The Foundation FAQ says all people and organisations may apply for a no-strings-attached grant, not a loan or investment, while chapters set their own timing, award, requirements, and logistics. It says personal purchases and vague applications are generally less likely to be funded.",
+      "accessed_at": "2026-09-22T10:42:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-github-student-pack-stripe-2026-09-21",
       "source_type": "Official programme listing",
       "title": "GitHub Student Developer Pack",

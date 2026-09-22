@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:e2114abf-9da7-4b87-ae29-b41cb6b849fe",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-22T10:30:00Z",
+      "completed_at": "2026-09-22T10:52:00Z",
+      "title": "This USD 1,000 DC grant is cash. It is not a startup budget.",
+      "summary": "Added Awesome Foundation DC’s local USD 1,000 cash-grant route and separated its published Washington, DC, concrete-impact, near-term-project, and discretionary-selection gates from a general personal or startup-funding promise.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-22-awesome-foundation-dc-cash-grant",
+      "entrypoint": "research/2026-09-22-awesome-foundation-dc-cash-grant/index.html"
+    },
+    {
       "run_id": "run:258bf971-eb3f-493c-a0d4-481a043e3fbd",
       "status": "completed",
       "answer_change": "meaningful_change",
