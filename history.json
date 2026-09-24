@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:69b35c2a-bcf8-4b17-bd6d-79b3322ff38c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-24T10:30:00Z",
+      "completed_at": "2026-09-24T10:39:44Z",
+      "title": "A global USD 500 grant is open. It will not fund your salary.",
+      "summary": "Added The Pollination Project’s global individual seed-grant route and separated its USD 500 cap from the project-size, volunteer, unpaid-work, payment, month-end completeness, reporting, and no-guarantee conditions.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-24-pollination-project-global-seed-grant",
+      "entrypoint": "research/2026-09-24-pollination-project-global-seed-grant/index.html"
+    },
+    {
       "run_id": "run:e2114abf-9da7-4b87-ae29-b41cb6b849fe",
       "status": "completed",
       "answer_change": "meaningful_change",

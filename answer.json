@@ -1,31 +1,27 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Awesome Foundation DC presents a local cash-grant route for individual project applicants: USD 1,000 no-strings-attached awards, usually selected monthly. The DC chapter says a project must directly benefit Washington, DC, make a real difference with USD 1,000, and be ready to act soon. It is a discretionary project grant, not a general startup budget or personal-expense payment; the reviewed page does not publish a precise current submission cutoff, residency rule, selection rate, or award guarantee.",
+  "current_answer": "The Pollination Project accepts rolling applications for one-time seed funding up to USD 500 from individuals, informal groups, and registered not-for-profit organisations worldwide. The route is for an early-stage volunteer project under USD 10,000, with no paid staff or personal-profit purpose. It cannot pay the applicant or a family member for time or services; complete applications submitted by month-end are reviewed in the following month, and selected grantees report spending and submit receipts.",
   "catalogue_card": {
-    "question": "Have a DC project? This USD 1,000 grant needs a near-term outcome.",
-    "text": "Awesome Foundation DC shows a monthly USD 1,000 cash-grant application for projects that directly benefit Washington, DC. The chapter wants a project USD 1,000 can materially advance soon. Its page does not publish a precise current cutoff, residency rule, selection rate, or award guarantee, so check the live form before applying."
+    "question": "A global USD 500 grant is open. It will not fund your salary.",
+    "text": "The Pollination Project accepts rolling applications for one-time seed funding up to USD 500 from individuals worldwide. The project must be early-stage, volunteer-led, non-profit, and under USD 10,000. The grant cannot pay the applicant or a family member for time or services; complete applications received by month-end are reviewed next month. Funding is not guaranteed."
   },
   "summary": [
-    "Awesome Foundation DC currently shows an application route for a USD 1,000 no-strings-attached local project grant.",
-    "The chapter says it weighs direct benefit to Washington, DC, whether USD 1,000 makes an actual impact, and whether the project is immediately actionable, generally within one or two months.",
-    "The chapter says it focuses on individuals and small groups with new, small projects and usually selects winners at the end of each month.",
-    "This is a discretionary project grant, not a general startup budget or payment for personal expenses. The reviewed page does not publish a precise current cutoff, residency rule, selection rate, or award guarantee.",
-    "GitHub’s Student Developer Pack Stripe and Heroku offers remain separate student routes; neither turns a fee or hosting credit into cash."
+    "The Pollination Project currently shows a rolling global application for one-time seed funding up to USD 500.",
+    "Individuals, informal groups, and registered not-for-profit organisations may apply if their project is early-stage, volunteer-led, non-profit, and under USD 10,000.",
+    "The grant cannot pay the applicant or a family member for time or services. Selected applicants report results and spending and submit receipts.",
+    "A complete application received by month-end is reviewed in the following month; international applicants need a submitted reference.",
+    "The page does not publish a selection rate, award guarantee, or country-by-country eligibility map."
   ],
   "uncertainty": [
-    "Awesome Foundation DC does not publish an exact current application closing time, residency requirement, selection rate, or award guarantee; it says winners are usually selected at the end of each month.",
-    "GitHub's public Stripe Pack entry does not publish Stripe country or account eligibility, exact covered fees and products, redemption steps, expiry, or fees after the USD 25 credit.",
-    "GitHub says third-party Pack offers may change and some may not be repeated or stacked with a partner free trial; check the live Stripe claim before setting up payments.",
-    "Heroku's public Student Developer Pack entry does not publish country availability, plan coverage, monthly-credit rollover, a card requirement, or the price after credits.",
-    "Oracle makes the US$300 trial available only in select countries, and exact Free Tier availability can differ during sign-up.",
-    "Oracle Cloud Free Tier capacity limits can prevent a particular resource from being provisioned in the chosen Home Region.",
-    "Microsoft's current direct-path documentation conflicts on the starter amount: the application guide says USD 200, while the activation guide says USD 1,000. The issuer has not published a reconciliation, so the direct starter amount is Unknown until the account flow shows it.",
-    "Cloudflare Tier 3 still pairs “bootstrapped or self-funded” with a programme-wide “funded within the last 12 months” condition; the issuer has not reconciled the terms.",
-    "DigitalOcean does not publish a fixed direct-applicant award, country-availability map, review time, or applicant-specific GPU-credit outcome.",
-    "Individual-grant coverage is still narrow and not a worldwide inventory."
+    "The Pollination Project does not publish a selection rate, award guarantee, or country-by-country eligibility map.",
+    "Awesome Foundation DC does not publish an exact current application closing time, residency requirement, selection rate, or award guarantee.",
+    "GitHub’s public Stripe and Heroku Pack listings still omit material partner eligibility and post-credit terms.",
+    "Microsoft’s direct-path pages still conflict on a USD 200 versus USD 1,000 starter balance.",
+    "Cloudflare’s Tier 3 wording still conflicts with its programme-wide recent-funding condition.",
+    "Individual-grant coverage is still not a worldwide inventory."
   ],
-  "checked_at": "2026-09-22T10:42:00Z",
-  "meaningfully_updated_at": "2026-09-22T10:42:00Z",
-  "freshness_note": "Awesome Foundation, Awesome Foundation DC, and the Foundation FAQ were checked on 2026-09-22. GitHub Student Developer Pack, GitHub Education eligibility, and Pack terms were checked on 2026-09-21; Oracle on 2026-09-19; Microsoft on 2026-09-18; Open Technology Fund and Cloudflare on 2026-09-17; DigitalOcean on 2026-09-16; UKRI on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet and Google Start on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
+  "checked_at": "2026-09-24T10:36:00Z",
+  "meaningfully_updated_at": "2026-09-24T10:36:00Z",
+  "freshness_note": "The Pollination Project application page was checked on 2026-09-24. Awesome Foundation was checked on 2026-09-22; GitHub Student Developer Pack on 2026-09-21; Oracle on 2026-09-19; Microsoft on 2026-09-18; Open Technology Fund and Cloudflare on 2026-09-17; DigitalOcean on 2026-09-16; UKRI on 2026-09-15; MongoDB on 2026-09-14; AWS on 2026-09-13; Azure on 2026-09-12; Vercel on 2026-09-11; NLnet and Google Start on 2026-09-10; other unchanged issuer rows on 2026-09-09. Check the official source again immediately before applying."
 }

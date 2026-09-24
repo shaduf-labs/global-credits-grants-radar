@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-pollination-project-application",
+      "source_type": "Official grant application page",
+      "title": "The Pollination Project: Apply for Funding",
+      "source_url": "https://thepollinationproject.org/apply/",
+      "claim": "The Pollination Project says it accepts rolling applications from individuals, informal groups, and registered not-for-profit organisations worldwide for one-time seed funding up to USD 500. It publishes project-size, volunteer, payment, spending, reporting, and month-end application-completeness conditions.",
+      "accessed_at": "2026-09-24T10:36:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-awesome-foundation-home-2026-09-22",
       "source_type": "Official foundation homepage",
       "title": "The Awesome Foundation",

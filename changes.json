@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pollination-project-global-seed-grant-2026-09-24",
+      "changed_at": "2026-09-24T10:36:00Z",
+      "summary": "Added The Pollination Project’s rolling global seed-grant route for individual project applicants, with its USD 500 ceiling, project-size and unpaid-work limits, payment and reporting duties, month-end completeness rule, and missing selection or country-map terms beside the offer.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "awesome-foundation-dc-local-cash-grant-2026-09-22",
       "changed_at": "2026-09-22T10:42:00Z",
       "summary": "Added Awesome Foundation DC’s current USD 1,000 local cash-grant route for individual projects. The catalogue keeps the Washington, DC benefit, near-term project, tangible-impact, and discretionary-selection gates beside the award and marks the current cutoff, residency rule, selection rate, and award guarantee as unknown.",
