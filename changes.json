@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "interledger-local-impact-mini-grants-2026-09-25",
+      "changed_at": "2026-09-25T10:45:00Z",
+      "summary": "Added Interledger Foundation’s USD 500–3,000 Local Impact Mini-Grants for individual practitioners, unregistered groups, and local fintech startups with a defined financial-access project. The catalogue keeps the 11 November deadline, sanctions restriction, application packet, direct-activity budget boundary, six-month delivery condition, and missing award or selection terms beside the range.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "pollination-project-global-seed-grant-2026-09-24",
       "changed_at": "2026-09-24T10:36:00Z",
       "summary": "Added The Pollination Project’s rolling global seed-grant route for individual project applicants, with its USD 500 ceiling, project-size and unpaid-work limits, payment and reporting duties, month-end completeness rule, and missing selection or country-map terms beside the offer.",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:f6cc0fdf-6ee1-4441-bbcc-2ce6fa01e3b8",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-25T10:30:00Z",
+      "completed_at": "2026-09-25T10:56:00Z",
+      "title": "Up to USD 3,000 is open for a local financial-access project.",
+      "summary": "Added Interledger Foundation’s timed global project-grant route and separated its USD 500–3,000 range from the financial-access remit, application packet, sanctions, direct-activity budget, delivery, and unpublished selection terms.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-25-interledger-local-impact-mini-grants",
+      "entrypoint": "research/2026-09-25-interledger-local-impact-mini-grants/index.html"
+    },
+    {
       "run_id": "run:69b35c2a-bcf8-4b17-bd6d-79b3322ff38c",
       "status": "completed",
       "answer_change": "meaningful_change",

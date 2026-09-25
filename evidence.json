@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-interledger-local-impact-grant-2026-09-25",
+      "source_type": "Official grant page",
+      "title": "Interledger Foundation: Local Impact Mini-Grants",
+      "source_url": "https://interledger.org/grant/local-impact-grant/",
+      "claim": "Interledger Foundation says its 2026 Local Impact Mini-Grants accept rolling applications from registered or unregistered organisations and individuals, including local fintech startups and individual practitioners, from 6 July through 11 November 2026. It publishes USD 500–3,000 for direct project activities, themes, application requirements, sanctions limits, and six-month completion condition.",
+      "accessed_at": "2026-09-25T10:45:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-interledger-local-impact-announcement-2026-09-25",
+      "source_type": "Official grant announcement",
+      "title": "Interledger Foundation launches Local Impact Mini-Grants",
+      "source_url": "https://interledger.org/blog/interledger-foundation-launches-local-impact-mini-grants-empower-community-led-innovation/",
+      "claim": "Interledger Foundation’s announcement confirms the USD 500–3,000 range, community-led financial-access purpose, individual and local-fintech applicant types, and rolling July-to-November 2026 cycle.",
+      "accessed_at": "2026-09-25T10:45:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-pollination-project-application",
       "source_type": "Official grant application page",
       "title": "The Pollination Project: Apply for Funding",
