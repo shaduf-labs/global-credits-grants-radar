@@ -1,26 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "GitHub lists USD 10,000 in Enterprise-platform credits for a startup affiliated with a GitHub for Startups partner and funded from outside through Series B or earlier. The programme does not fit a bootstrapped team without those gates. Credits are applied to the submitted Enterprise account for up to 12 months; a valid payment method is required, and active products move to standard paid billing when the credit ends.",
+  "current_answer": "NLnet’s Open Internet Stack call is open to suitable technical projects until 3 November 2026 at 12:00 CET. A first grant request is EUR 5,000–50,000, but applicants must fit an active fund, release results under open licences, and meet the European-dimension rule where applicable. Restack generally excludes AI-related projects. NLnet’s current policy permits disclosed GenAI assistance in an application with a prompt log, but the issuer advises intended LLM users to wait for a revised policy before submitting.",
   "catalogue_card": {
-    "question": "USD 10,000 in GitHub credits? Funding and partner proof come first.",
-    "text": "GitHub lists USD 10,000 in Enterprise-platform credits for eligible startups for up to 12 months. The team needs outside funding through Series B or earlier, a GitHub for Startups partner, and a clean Enterprise and prior-benefit history. The credit ends on use or expiry; active products then move to standard paid billing. Country coverage, the full eligible-usage list, and post-credit prices are not published."
+    "question": "NLnet’s EUR 5,000–50,000 call is open. Will your project fit?",
+    "text": "First Open Internet Stack grant requests are due 3 November 2026 at 12:00 CET. The project must fit a fund and open-licence rules. Restack generally excludes AI-related projects. If you plan LLM use in the application, NLnet advises waiting for its revised GenAI policy before submitting."
   },
   "summary": [
-    "GitHub lists USD 10,000 in credits for up to 12 months on an eligible startup's Enterprise account.",
-    "The published gates are a GitHub for Startups partner, outside funding through Series B or earlier, no Enterprise plan in the last six months, and no previous GitHub credits or Enterprise licences.",
-    "The credits cover Enterprise licence costs and eligible add-ons, including Copilot, Advanced Security, and other metered offerings.",
-    "A valid payment method is required. Credits end when consumed or after 12 months, and active products then move to standard paid billing.",
-    "GitHub does not support Enterprises with data residency in this programme. Country coverage, a complete eligible-usage list, post-credit prices, and an approval decision time are not published."
+    "NLnet’s next deadline is 3 November 2026 at 12:00 CET; first grant requests are EUR 5,000–50,000.",
+    "Applicants need a defined technical project, an active fund fit, open-licensed results, and a European dimension for EU-supported funding.",
+    "The current policy allows disclosed GenAI help with a prompt log, but excludes purely AI-generated funded work. NLnet advises intended LLM users to wait for a revised policy.",
+    "Restack generally excludes AI-related projects; its published exception needs more than one million active human users and direct relevance to the stack."
   ],
   "uncertainty": [
-    "GitHub does not publish country coverage, a fixed list of every eligible add-on or metered service, or the standard price after credits end on the reviewed page.",
-    "GitHub states an onboarding email arrives within 24 hours after approval; it does not publish an approval decision time.",
-    "Individual-grant coverage is still not a worldwide inventory.",
-    "Microsoft’s direct-path pages still conflict on a USD 200 versus USD 1,000 starter balance.",
-    "Cloudflare’s Tier 3 wording still conflicts with its programme-wide recent-funding condition."
+    "NLnet has not published the revised GenAI policy; applicants planning LLM use should check it before submission.",
+    "Fund choice, project fit, and European dimension remain applicant-specific.",
+    "Individual-grant coverage is not a worldwide inventory.",
+    "Microsoft and Cloudflare contradictions remain unresolved."
   ],
-  "checked_at": "2026-09-26T10:37:05Z",
-  "meaningfully_updated_at": "2026-09-26T10:37:05Z",
-  "freshness_note": "GitHub for Startups was checked on 2026-09-26. Its programme terms state the amount, funded-partner gate, prior-benefit rules, 12-month limit, payment-method requirement, automatic billing transition, and data-residency exclusion. Check the live partner route and Enterprise billing configuration before applying."
+  "checked_at": "2026-09-27T10:34:00Z",
+  "meaningfully_updated_at": "2026-09-27T10:34:00Z",
+  "freshness_note": "NLnet’s application, September call, Restack scope, and current GenAI policy were checked on 2026-09-27. The forthcoming policy has not been published; verify it before using LLMs in a proposal."
 }
