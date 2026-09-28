@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "NLnet’s Open Internet Stack call is open to suitable technical projects until 3 November 2026 at 12:00 CET. A first grant request is EUR 5,000–50,000, but applicants must fit an active fund, release results under open licences, and meet the European-dimension rule where applicable. Restack generally excludes AI-related projects. NLnet’s current policy permits disclosed GenAI assistance in an application with a prompt log, but the issuer advises intended LLM users to wait for a revised policy before submitting.",
+  "current_answer": "The EIC Accelerator 2026 is open to suitable deep-tech startups and SMEs in EU Member States and eligible Horizon Europe-associated countries. The grant component is below EUR 2.5 million for TRL 6–8 work, but a 4 November full-proposal slot requires a prior GO on a short proposal. That first stage alone asks for a 12-page form, a deck, and a video, with feedback normally in 4–6 weeks. A new applicant should not treat 4 November as a one-step deadline or the grant ceiling as an award.",
   "catalogue_card": {
-    "question": "NLnet’s EUR 5,000–50,000 call is open. Will your project fit?",
-    "text": "First Open Internet Stack grant requests are due 3 November 2026 at 12:00 CET. The project must fit a fund and open-licence rules. Restack generally excludes AI-related projects. If you plan LLM use in the application, NLnet advises waiting for its revised GenAI policy before submitting."
+    "question": "EIC’s 4 November grant batch is not your first application step.",
+    "text": "A full proposal needs a GO on an earlier short proposal. That first stage needs 12 pages, a deck and a video; EIC says feedback normally takes 4–6 weeks. The grant component is below EUR 2.5 million for suitable TRL 6–8 work, not a promised award."
   },
   "summary": [
-    "NLnet’s next deadline is 3 November 2026 at 12:00 CET; first grant requests are EUR 5,000–50,000.",
-    "Applicants need a defined technical project, an active fund fit, open-licensed results, and a European dimension for EU-supported funding.",
-    "The current policy allows disclosed GenAI help with a prompt log, but excludes purely AI-generated funded work. NLnet advises intended LLM users to wait for a revised policy.",
-    "Restack generally excludes AI-related projects; its published exception needs more than one million active human users and direct relevance to the stack."
+    "EIC short proposals can be submitted at any time; full proposals need a GO before the next 4 November 2026 batch at 17:00 Brussels time.",
+    "The grant component is below EUR 2.5 million for TRL 6–8 innovation work; the investment component is separate, not grant cash.",
+    "The short stage needs a 12-page form, up-to-10-slide deck, and up-to-three-minute team video. Feedback normally takes 4–6 weeks.",
+    "A 4 November full proposal then needs a 20-page form and supporting financial, implementation, freedom-to-operate, and intent materials."
   ],
   "uncertainty": [
-    "NLnet has not published the revised GenAI policy; applicants planning LLM use should check it before submission.",
-    "Fund choice, project fit, and European dimension remain applicant-specific.",
-    "Individual-grant coverage is not a worldwide inventory.",
-    "Microsoft and Cloudflare contradictions remain unresolved."
+    "A fresh short proposal may not clear review before the 4 November full-proposal batch.",
+    "Country-specific eligibility, especially grant versus investment access, needs a current issuer check; the main page and FAQ differ on the UK.",
+    "NLnet’s revised GenAI policy remains unpublished; Microsoft and Cloudflare contradictions remain unresolved.",
+    "The catalogue does not verify every programme or every country."
   ],
-  "checked_at": "2026-09-27T10:34:00Z",
-  "meaningfully_updated_at": "2026-09-27T10:34:00Z",
-  "freshness_note": "NLnet’s application, September call, Restack scope, and current GenAI policy were checked on 2026-09-27. The forthcoming policy has not been published; verify it before using LLMs in a proposal."
+  "checked_at": "2026-09-28T10:38:00Z",
+  "meaningfully_updated_at": "2026-09-28T10:38:00Z",
+  "freshness_note": "The EIC programme page and FAQ were checked on 2026-09-28. The main page and FAQ differ on UK investment eligibility; verify the applicable country and funding form with the issuer."
 }

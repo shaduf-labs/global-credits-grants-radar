@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:eic-accelerator-2026",
+      "source_type": "official-program-page",
+      "source_url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "title": "EIC Accelerator 2026",
+      "claim": "The 4 November full-proposal batch needs a preceding short-stage GO; the grant is below EUR 2.5 million for eligible TRL 6–8 work.",
+      "accessed_at": "2026-09-28T10:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:eic-accelerator-faq",
+      "source_type": "official-program-faq",
+      "source_url": "https://eic.ec.europa.eu/eic-frequently-asked-questions/faqs-eic-accelerator_en",
+      "title": "EIC Accelerator FAQ",
+      "claim": "The short and full stages have separate eligibility, timing, and preparation rules; UK investment eligibility is not safely resolved by the summary page alone.",
+      "accessed_at": "2026-09-28T10:38:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:nlnet-restack-scope",
       "source_type": "official-funder-page",
       "source_url": "https://nlnet.nl/restack/",

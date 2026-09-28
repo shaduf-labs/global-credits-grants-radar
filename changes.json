@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "eic-accelerator-preflight-2026-09-28",
+      "changed_at": "2026-09-28T10:38:00Z",
+      "summary": "Added the EIC Accelerator 2026 route with the 4 November full-proposal batch, prior short-stage GO, first-stage packet, 4–6-week normal feedback, grant-versus-investment distinction, and country uncertainty.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "nlnet-open-internet-stack-genai-gate-2026-09-27",
       "changed_at": "2026-09-27T10:34:00Z",
       "summary": "Rechecked NLnet’s 3 November Open Internet Stack call, EUR 5,000–50,000 first-grant range, Restack AI-project exclusion, and current GenAI disclosure rule. The announced policy revision remains unknown.",

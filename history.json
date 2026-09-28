@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:63de9b03-b8d1-45a5-a0ef-eaa7e881a95d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-28T10:30:00Z",
+      "completed_at": "2026-09-28T10:45:19Z",
+      "title": "EIC’s 4 November batch needs a short-proposal GO first.",
+      "summary": "Verified the EIC Accelerator 2026 grant, applicant and country gates, first-stage packet, feedback timing, and full-proposal batch.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-28-eic-accelerator-short-stage-gate",
+      "entrypoint": "research/2026-09-28-eic-accelerator-short-stage-gate/index.html"
+    },
+    {
       "run_id": "run:ca4093bf-d501-45bf-83d8-8f5ea03a7e28",
       "status": "completed",
       "answer_change": "meaningful_change",
