@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "interledger-application-pause-2026-09-29",
+      "changed_at": "2026-09-29T10:35:00Z",
+      "summary": "Changed the Interledger Local Impact Mini-Grants from an announced 11 November rolling window to paused after the current programme page and application form posted a pause. Kept historical terms, award limits, and official links; no reopening date is published.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "eic-accelerator-preflight-2026-09-28",
       "changed_at": "2026-09-28T10:38:00Z",
       "summary": "Added the EIC Accelerator 2026 route with the 4 November full-proposal batch, prior short-stage GO, first-stage packet, 4–6-week normal feedback, grant-versus-investment distinction, and country uncertainty.",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:955d645a-0bd8-4d9c-8d62-69b0067e2fcd",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-29T10:30:00Z",
+      "completed_at": "2026-09-29T10:36:00Z",
+      "title": "Interledger applications are paused despite the November date.",
+      "summary": "Checked the issuer programme page and application form; both now say the Local Impact Mini-Grant route is paused with no reopening date.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-09-29-interledger-applications-paused",
+      "entrypoint": "research/2026-09-29-interledger-applications-paused/index.html"
+    },
+    {
       "run_id": "run:63de9b03-b8d1-45a5-a0ef-eaa7e881a95d",
       "status": "completed",
       "answer_change": "meaningful_change",

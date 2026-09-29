@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The EIC Accelerator 2026 is open to suitable deep-tech startups and SMEs in EU Member States and eligible Horizon Europe-associated countries. The grant component is below EUR 2.5 million for TRL 6–8 work, but a 4 November full-proposal slot requires a prior GO on a short proposal. That first stage alone asks for a 12-page form, a deck, and a video, with feedback normally in 4–6 weeks. A new applicant should not treat 4 November as a one-step deadline or the grant ceiling as an award.",
+  "current_answer": "Interledger Foundation has paused applications for its 2026 Local Impact Mini-Grants. Its earlier announcement advertised rolling submissions through 11 November, but the current programme page and application form both say applications are paused. Individuals, community groups, and local fintech startups should not spend time preparing a submission for this cycle unless the issuer reopens it; the USD 500–3,000 project grant remains described, but the application route is unavailable now.",
   "catalogue_card": {
-    "question": "EIC’s 4 November grant batch is not your first application step.",
-    "text": "A full proposal needs a GO on an earlier short proposal. That first stage needs 12 pages, a deck and a video; EIC says feedback normally takes 4–6 weeks. The grant component is below EUR 2.5 million for suitable TRL 6–8 work, not a promised award."
+    "question": "Interledger’s 11 November date no longer means you can apply.",
+    "text": "The foundation’s current programme page and form say its USD 500–3,000 Local Impact Mini-Grant applications are paused. Its July announcement still says rolling applications through 11 November. Wait for an issuer reopening notice before preparing the two-page concept note."
   },
   "summary": [
-    "EIC short proposals can be submitted at any time; full proposals need a GO before the next 4 November 2026 batch at 17:00 Brussels time.",
-    "The grant component is below EUR 2.5 million for TRL 6–8 innovation work; the investment component is separate, not grant cash.",
-    "The short stage needs a 12-page form, up-to-10-slide deck, and up-to-three-minute team video. Feedback normally takes 4–6 weeks.",
-    "A 4 November full proposal then needs a 20-page form and supporting financial, implementation, freedom-to-operate, and intent materials."
+    "Interledger’s current programme page and application form say applications are paused. The form cites more than 600 applications from more than 60 countries.",
+    "The earlier 11 November 2026 end date is historical guidance, not current access to the form.",
+    "The USD 500–3,000 grant is for direct local financial-access project activities, not operating costs or an award guarantee.",
+    "No reopening date is published; check the current issuer page before starting an application."
   ],
   "uncertainty": [
-    "A fresh short proposal may not clear review before the 4 November full-proposal batch.",
-    "Country-specific eligibility, especially grant versus investment access, needs a current issuer check; the main page and FAQ differ on the UK.",
+    "Interledger has not published a reopening date or new cutoff; the form did not establish whether drafts can still be completed.",
+    "The grant range is not an award guarantee, and sanctions and project-purpose restrictions still apply if applications reopen.",
     "NLnet’s revised GenAI policy remains unpublished; Microsoft and Cloudflare contradictions remain unresolved.",
     "The catalogue does not verify every programme or every country."
   ],
-  "checked_at": "2026-09-28T10:38:00Z",
-  "meaningfully_updated_at": "2026-09-28T10:38:00Z",
-  "freshness_note": "The EIC programme page and FAQ were checked on 2026-09-28. The main page and FAQ differ on UK investment eligibility; verify the applicable country and funding form with the issuer."
+  "checked_at": "2026-09-29T10:35:00Z",
+  "meaningfully_updated_at": "2026-09-29T10:35:00Z",
+  "freshness_note": "Interledger’s programme page, application form, and earlier announcement were checked on 2026-09-29. The current pause controls over the older 11 November window."
 }

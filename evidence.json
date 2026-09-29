@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-interledger-pause-landing-2026-09-29",
+      "source_type": "Official grant programme page",
+      "title": "Interledger Local Impact Mini-Grants",
+      "source_url": "https://interledger.org/grant/local-impact-grant/",
+      "claim": "The current programme page says USD 500–3,000 applications are paused and gives no reopening date. It continues to describe applicant types, project rules, sanctions, and application requirements.",
+      "accessed_at": "2026-09-29T10:35:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-interledger-pause-form-2026-09-29",
+      "source_type": "Official application form",
+      "title": "2026 Interledger Local Impact Mini-Grant",
+      "source_url": "https://submit.interledger.org/submit/356649/2026-interledger-local-impact-mini-grant",
+      "claim": "The issuer application form says Local Impact applications are paused after more than 600 applications from more than 60 countries; it does not give a reopening date.",
+      "accessed_at": "2026-09-29T10:35:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:eic-accelerator-2026",
       "source_type": "official-program-page",
       "source_url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
