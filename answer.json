@@ -1,24 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Interledger Foundation has paused applications for its 2026 Local Impact Mini-Grants. Its earlier announcement advertised rolling submissions through 11 November, but the current programme page and application form both say applications are paused. Individuals, community groups, and local fintech startups should not spend time preparing a submission for this cycle unless the issuer reopens it; the USD 500–3,000 project grant remains described, but the application route is unavailable now.",
+  "current_answer": "Google’s published Scale rule excludes startups that have received more than USD 5,000 in Google Cloud credits. Taking the Start tier’s up-to-USD 2,000 credit therefore does not, by that rule alone, bar a later Scale application. Scale still requires qualifying venture funding, company and round-age limits, evidence, and Google’s approval; no automatic upgrade or future award is promised.",
   "catalogue_card": {
-    "question": "Interledger’s 11 November date no longer means you can apply.",
-    "text": "The foundation’s current programme page and form say its USD 500–3,000 Local Impact Mini-Grant applications are paused. Its July announcement still says rolling applications through 11 November. Wait for an issuer reopening notice before preparing the two-page concept note."
+    "question": "Will Google’s USD 2,000 Start credit block Scale later?",
+    "text": "Google’s published Scale rule excludes startups with more than USD 5,000 in prior Google Cloud credits, so a Start award at its USD 2,000 maximum does not itself cross that line. Scale still needs qualifying VC funding, round timing, and approval; there is no promised upgrade."
   },
   "summary": [
-    "Interledger’s current programme page and application form say applications are paused. The form cites more than 600 applications from more than 60 countries.",
-    "The earlier 11 November 2026 end date is historical guidance, not current access to the form.",
-    "The USD 500–3,000 grant is for direct local financial-access project activities, not operating costs or an award guarantee.",
-    "No reopening date is published; check the current issuer page before starting an application."
+    "Start offers up to USD 2,000 in Google Cloud credits for one year to eligible pre-funded startups.",
+    "Scale’s prior-credit gate is more than USD 5,000; Start at its published maximum is below it.",
+    "Scale still needs qualifying venture funding, company and round-age checks, funding proof, and discretionary approval.",
+    "Scale’s second year covers 20% of eligible usage up to an additional USD 100,000, not a second immediate cash balance.",
+    "Interledger applications remain paused; NLnet’s current form still lists 3 November 2026, 12:00 CET."
   ],
   "uncertainty": [
-    "Interledger has not published a reopening date or new cutoff; the form did not establish whether drafts can still be completed.",
-    "The grant range is not an award guarantee, and sanctions and project-purpose restrictions still apply if applications reopen.",
-    "NLnet’s revised GenAI policy remains unpublished; Microsoft and Cloudflare contradictions remain unresolved.",
-    "The catalogue does not verify every programme or every country."
+    "Google does not publish an automatic Start-to-Scale upgrade process or guarantee that prior Start participants will receive Scale credits; ask Google about the applicant-specific transition.",
+    "Google’s Scale page does not establish country-by-country coverage or an applicant-specific credit allocation.",
+    "Interledger Local Impact applications remain paused with no published reopening date; NLnet’s revised GenAI policy remains unpublished.",
+    "Microsoft and Cloudflare issuer-term conflicts remain unresolved. Pool analytics are unavailable."
   ],
-  "checked_at": "2026-09-29T10:35:00Z",
-  "meaningfully_updated_at": "2026-09-29T10:35:00Z",
-  "freshness_note": "Interledger’s programme page, application form, and earlier announcement were checked on 2026-09-29. The current pause controls over the older 11 November window."
+  "checked_at": "2026-09-30T11:30:00Z",
+  "meaningfully_updated_at": "2026-09-30T11:30:00Z",
+  "freshness_note": "Google tier rules, FAQ and pre-funded page were checked on 2026-09-30. Interledger and NLnet current pages were rechecked; other programme rows retain their earlier verified dates."
 }

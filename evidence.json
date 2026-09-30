@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-google-start-scale-benefits-2026-09-30",
+      "source_type": "Official tier and benefits page",
+      "title": "Google for Startups Cloud Program eligibility and benefits",
+      "source_url": "https://cloud.google.com/startup/benefits",
+      "claim": "Start is up to USD 2,000 for one year; Scale requires qualifying VC funding, company and round ages, and no more than USD 5,000 in prior Google Cloud credits. Scale maxima are split into year-one 100% and year-two 20% coverage.",
+      "accessed_at": "2026-09-30T11:30:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-google-start-scale-faq-2026-09-30",
+      "source_type": "Official programme FAQ",
+      "title": "Google for Startups Cloud Program FAQ",
+      "source_url": "https://cloud.google.com/startup/faq",
+      "claim": "Funding proof, application details, discretionary review, and exclusion of third-party services and models limit the use of Scale credits; the FAQ does not promise an automatic Start-to-Scale upgrade.",
+      "accessed_at": "2026-09-30T11:30:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-interledger-pause-landing-2026-09-29",
       "source_type": "Official grant programme page",
       "title": "Interledger Local Impact Mini-Grants",
