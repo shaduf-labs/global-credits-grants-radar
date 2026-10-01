@@ -1,25 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Google’s published Scale rule excludes startups that have received more than USD 5,000 in Google Cloud credits. Taking the Start tier’s up-to-USD 2,000 credit therefore does not, by that rule alone, bar a later Scale application. Scale still requires qualifying venture funding, company and round-age limits, evidence, and Google’s approval; no automatic upgrade or future award is promised.",
+  "current_answer": "Stripe Atlas’s USD 2,500 credit is a one-year offset against eligible Stripe product fees for companies incorporated through Atlas on or after 16 October 2025. It does not pay the USD 500 Atlas setup fee or later registered-agent renewal. A founder should choose the Delaware incorporation route on its own merits, then judge whether eligible Stripe fees during the first year can use the credit; it is not cash or a free formation grant.",
   "catalogue_card": {
-    "question": "Will Google’s USD 2,000 Start credit block Scale later?",
-    "text": "Google’s published Scale rule excludes startups with more than USD 5,000 in prior Google Cloud credits, so a Start award at its USD 2,000 maximum does not itself cross that line. Scale still needs qualifying VC funding, round timing, and approval; there is no promised upgrade."
+    "question": "Can Stripe Atlas’s USD 2,500 credit pay the USD 500 incorporation fee?",
+    "text": "No. The credit offsets eligible Stripe product fees after Atlas incorporation, not the USD 500 setup fee or later registered-agent renewal. It expires after one year or when used; check entity and Stripe-account fit before paying."
   },
   "summary": [
-    "Start offers up to USD 2,000 in Google Cloud credits for one year to eligible pre-funded startups.",
-    "Scale’s prior-credit gate is more than USD 5,000; Start at its published maximum is below it.",
-    "Scale still needs qualifying venture funding, company and round-age checks, funding proof, and discretionary approval.",
-    "Scale’s second year covers 20% of eligible usage up to an additional USD 100,000, not a second immediate cash balance.",
-    "Interledger applications remain paused; NLnet’s current form still lists 3 November 2026, 12:00 CET."
+    "Stripe Atlas offers USD 2,500 in fee credits to companies incorporated through Atlas on or after 16 October 2025.",
+    "Credits activate automatically on incorporation and expire after 365 days or when used. They are account-bound and not cash.",
+    "Atlas setup costs USD 500, with USD 100 annual registered-agent renewal after the first year; fee credits cannot pay those charges.",
+    "Eligible fee uses include Payments, Connect, Billing, Tax, and Sigma; the issuer lists further exclusions.",
+    "Interledger Local Impact applications remain paused; NLnet’s form still lists 3 November 2026, 12:00 CET."
   ],
   "uncertainty": [
-    "Google does not publish an automatic Start-to-Scale upgrade process or guarantee that prior Start participants will receive Scale credits; ask Google about the applicant-specific transition.",
-    "Google’s Scale page does not establish country-by-country coverage or an applicant-specific credit allocation.",
-    "Interledger Local Impact applications remain paused with no published reopening date; NLnet’s revised GenAI policy remains unpublished.",
-    "Microsoft and Cloudflare issuer-term conflicts remain unresolved. Pool analytics are unavailable."
+    "The reviewed Atlas credit pages do not establish whether incorporation and a payments account fit every founder’s country, entity, or tax position.",
+    "The full value depends on eligible Stripe fees incurred before the one-year expiry; the USD 2,500 is not cash.",
+    "Interledger Local Impact applications remain paused, NLnet’s revised GenAI policy remains unpublished, and Microsoft and Cloudflare term conflicts remain unresolved.",
+    "Pool analytics are unavailable."
   ],
-  "checked_at": "2026-09-30T11:30:00Z",
-  "meaningfully_updated_at": "2026-09-30T11:30:00Z",
-  "freshness_note": "Google tier rules, FAQ and pre-funded page were checked on 2026-09-30. Interledger and NLnet current pages were rechecked; other programme rows retain their earlier verified dates."
+  "checked_at": "2026-10-01T11:59:00Z",
+  "meaningfully_updated_at": "2026-10-01T11:59:00Z",
+  "freshness_note": "Stripe Atlas and its issuer fee-credit FAQ checked on 2026-10-01. Interledger and NLnet current pages rechecked; other programme rows retain their earlier verified dates."
 }

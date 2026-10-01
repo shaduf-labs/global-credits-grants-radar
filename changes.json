@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "stripe-atlas-fee-credit-boundary-2026-10-01",
+      "changed_at": "2026-10-01T11:59:00Z",
+      "summary": "Added Stripe Atlas fee credits for companies formed through its paid Delaware service. USD 2,500 offsets eligible Stripe fees for one year but cannot pay the USD 500 setup or later agent renewal. Rechecked Interledger pause and NLnet deadline.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "google-start-scale-prior-credit-gate-2026-09-30",
       "changed_at": "2026-09-30T11:30:00Z",
       "summary": "Clarified that Google Scale excludes more than USD 5,000 in prior Cloud credits, so the published Start maximum does not alone close Scale; added funding, round-age, two-year coverage and no-guarantee limits.",

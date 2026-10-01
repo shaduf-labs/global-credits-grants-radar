@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-stripe-atlas-credit-2026-10-01",
+      "source_type": "Official issuer product page",
+      "title": "Stripe Atlas",
+      "source_url": "https://stripe.com/atlas",
+      "claim": "USD 2,500 in first-year Stripe product credits; USD 500 one-time Atlas setup and USD 100 annual registered-agent renewal after year one.",
+      "accessed_at": "2026-10-01T11:59:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-stripe-atlas-fee-faq-2026-10-01",
+      "source_type": "Official issuer fee-credit FAQ",
+      "title": "Atlas Fee Credits FAQ",
+      "source_url": "https://support.stripe.com/questions/atlas-fee-credits-faq?locale=en-GB",
+      "claim": "Atlas companies incorporated on or after 16 October 2025 receive an automatic, account-bound USD 2,500 fee credit for 365 days or until used. Atlas and registered-agent charges are excluded.",
+      "accessed_at": "2026-10-01T11:59:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-interledger-still-paused-2026-10-01",
+      "source_type": "Official grant programme page",
+      "title": "Interledger Local Impact Mini-Grants",
+      "source_url": "https://interledger.org/grant/local-impact-grant/",
+      "claim": "The current page still says applications are paused and gives no reopening date.",
+      "accessed_at": "2026-10-01T11:59:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-nlnet-deadline-2026-10-01",
+      "source_type": "Official grant form",
+      "title": "NLnet application form",
+      "source_url": "https://nlnet.nl/propose/",
+      "claim": "The current form lists 3 November 2026 at 12:00 CET as the next deadline.",
+      "accessed_at": "2026-10-01T11:59:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-google-start-scale-benefits-2026-09-30",
       "source_type": "Official tier and benefits page",
       "title": "Google for Startups Cloud Program eligibility and benefits",

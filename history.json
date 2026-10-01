@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:b92c6854-124e-418b-8b36-46105c4381b4",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-01T10:30:00Z",
+      "completed_at": "2026-10-01T12:08:01Z",
+      "title": "Stripe Atlas’s USD 2,500 fee credit does not pay the Atlas fee.",
+      "summary": "Verified the paid formation gate, covered Stripe fees, one-year clock, excluded Atlas charges, and non-cash boundary.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-01-stripe-atlas-fee-credit-not-formation-grant",
+      "entrypoint": "research/2026-10-01-stripe-atlas-fee-credit-not-formation-grant/index.html"
+    },
+    {
       "run_id": "run:36f52a54-5b06-41e0-b15f-9c63e142cf26",
       "status": "completed",
       "answer_change": "meaningful_change",
