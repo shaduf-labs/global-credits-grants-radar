@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:40ca9d88-ea90-44d5-8a89-dc56138a7828",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-02T10:30:00Z",
+      "completed_at": "2026-10-02T10:48:12Z",
+      "title": "PostHog startup credits exclude five named AI tools.",
+      "summary": "Verified company gates, application route, 12-month credit, AI-tool exclusions, and remaining clock and region gaps.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-02-posthog-startup-credit-ai-exclusion",
+      "entrypoint": "research/2026-10-02-posthog-startup-credit-ai-exclusion/index.html"
+    },
+    {
       "run_id": "run:b92c6854-124e-418b-8b36-46105c4381b4",
       "status": "completed",
       "answer_change": "meaningful_change",

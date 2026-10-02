@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run:40ca9d88-ea90-44d5-8a89-dc56138a7828/evidence:posthog-program",
+      "source_type": "official-program-page",
+      "source_url": "https://posthog.com/startups",
+      "title": "PostHog for Startups",
+      "claim": "USD 50,000 for 12 months, company age and funding gates, application steps, and named AI-tool exclusions from 14 September 2026.",
+      "accessed_at": "2026-10-02T10:42:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-stripe-atlas-credit-2026-10-01",
       "source_type": "Official issuer product page",
       "title": "Stripe Atlas",

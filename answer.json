@@ -1,25 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Stripe Atlas’s USD 2,500 credit is a one-year offset against eligible Stripe product fees for companies incorporated through Atlas on or after 16 October 2025. It does not pay the USD 500 Atlas setup fee or later registered-agent renewal. A founder should choose the Delaware incorporation route on its own merits, then judge whether eligible Stripe fees during the first year can use the credit; it is not cash or a free formation grant.",
+  "current_answer": "PostHog offers USD 50,000 in startup credits for 12 months to qualifying companies under two years old with under USD 5 million raised. A company-domain account and paid usage plan are required before applying. Since 14 September 2026, credits exclude PostHog Desktop, the Slack app, Replay Vision, PostHog AI, and Inbox. A founder should compare expected analytics use with the free allowances and budget AI-tool charges separately; the USD 50,000 is not cash or a general AI budget.",
   "catalogue_card": {
-    "question": "Can Stripe Atlas’s USD 2,500 credit pay the USD 500 incorporation fee?",
-    "text": "No. The credit offsets eligible Stripe product fees after Atlas incorporation, not the USD 500 setup fee or later registered-agent renewal. It expires after one year or when used; check entity and Stripe-account fit before paying."
+    "question": "Can PostHog’s USD 50,000 startup credit pay for its AI tools?",
+    "text": "No for five named AI tools since 14 September 2026: Desktop, the Slack app, Replay Vision, PostHog AI, and Inbox. Eligible companies can get 12 months of credits for other covered products, but must meet the age, funding, domain, and account gates."
   },
   "summary": [
-    "Stripe Atlas offers USD 2,500 in fee credits to companies incorporated through Atlas on or after 16 October 2025.",
-    "Credits activate automatically on incorporation and expire after 365 days or when used. They are account-bound and not cash.",
-    "Atlas setup costs USD 500, with USD 100 annual registered-agent renewal after the first year; fee credits cannot pay those charges.",
-    "Eligible fee uses include Payments, Connect, Billing, Tax, and Sigma; the issuer lists further exclusions.",
-    "Interledger Local Impact applications remain paused; NLnet’s form still lists 3 November 2026, 12:00 CET."
+    "PostHog offers USD 50,000 in eligible product credits for 12 months to companies under two years old with under USD 5 million raised.",
+    "A company-domain PostHog account signed up on or after 1 January 2023 and a paid usage plan precede the startup form.",
+    "Since 14 September 2026, five named AI tools cannot be paid with startup credits; AI observability and the context warehouse remain covered.",
+    "Interledger Local Impact remains paused; NLnet lists 3 November 2026, 12:00 CET."
   ],
   "uncertainty": [
-    "The reviewed Atlas credit pages do not establish whether incorporation and a payments account fit every founder’s country, entity, or tax position.",
-    "The full value depends on eligible Stripe fees incurred before the one-year expiry; the USD 2,500 is not cash.",
-    "Interledger Local Impact applications remain paused, NLnet’s revised GenAI policy remains unpublished, and Microsoft and Cloudflare term conflicts remain unresolved.",
-    "Pool analytics are unavailable."
+    "Country-by-country applicant availability is not published on the reviewed page.",
+    "The page says 12 months but does not state the exact start event for an accepted applicant.",
+    "Any usage outside covered products, and usage after credits end, needs a billing check.",
+    "Interledger Local Impact remains paused. NLnet lists 3 November 2026, 12:00 CET. Microsoft and Cloudflare issuer conflicts remain unresolved. Pool analytics are unavailable."
   ],
-  "checked_at": "2026-10-01T11:59:00Z",
-  "meaningfully_updated_at": "2026-10-01T11:59:00Z",
-  "freshness_note": "Stripe Atlas and its issuer fee-credit FAQ checked on 2026-10-01. Interledger and NLnet current pages rechecked; other programme rows retain their earlier verified dates."
+  "checked_at": "2026-10-02T10:42:29Z",
+  "meaningfully_updated_at": "2026-10-02T10:42:29Z",
+  "freshness_note": "PostHog programme checked on 2026-10-02. Interledger and NLnet current pages rechecked. Other programme rows retain earlier verification dates."
 }

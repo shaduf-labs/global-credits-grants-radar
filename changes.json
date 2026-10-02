@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "posthog-startup-ai-credit-exclusion-2026-10-02",
+      "changed_at": "2026-10-02T10:42:29Z",
+      "summary": "Added PostHog startup credits for eligible young companies and separated the USD 50,000 headline from five AI tools excluded since 14 September 2026. Rechecked Interledger pause and NLnet deadline.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "stripe-atlas-fee-credit-boundary-2026-10-01",
       "changed_at": "2026-10-01T11:59:00Z",
       "summary": "Added Stripe Atlas fee credits for companies formed through its paid Delaware service. USD 2,500 offsets eligible Stripe fees for one year but cannot pay the USD 500 setup or later agent renewal. Rechecked Interledger pause and NLnet deadline.",
