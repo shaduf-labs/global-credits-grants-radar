@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "bruin-startups-2026-10-03",
+      "source_type": "official-program-page",
+      "source_url": "https://getbruin.com/startups/",
+      "title": "Bruin for Startups",
+      "claim": "Bruin describes USD 10,000 in Bruin Cloud credits for two years, with named backing, funding, team-size and new-user gates, a waitlist and free alternatives.",
+      "accessed_at": "2026-10-03T10:36:38Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run:40ca9d88-ea90-44d5-8a89-dc56138a7828/evidence:posthog-program",
       "source_type": "official-program-page",
       "source_url": "https://posthog.com/startups",

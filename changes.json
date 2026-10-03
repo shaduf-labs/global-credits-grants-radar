@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "bruin-partner-credit-gate-2026-10-03",
+      "changed_at": "2026-10-03T10:36:38Z",
+      "summary": "Added Bruin’s USD 10,000 Cloud credit for YC-, Techstars-, or Antler-backed teams; separated the two-year product credit from free tools and a waitlist for nonqualifying founders. Rechecked Interledger pause and NLnet deadline.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "posthog-startup-ai-credit-exclusion-2026-10-02",
       "changed_at": "2026-10-02T10:42:29Z",
       "summary": "Added PostHog startup credits for eligible young companies and separated the USD 50,000 headline from five AI tools excluded since 14 September 2026. Rechecked Interledger pause and NLnet deadline.",

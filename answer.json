@@ -1,24 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "PostHog offers USD 50,000 in startup credits for 12 months to qualifying companies under two years old with under USD 5 million raised. A company-domain account and paid usage plan are required before applying. Since 14 September 2026, credits exclude PostHog Desktop, the Slack app, Replay Vision, PostHog AI, and Inbox. A founder should compare expected analytics use with the free allowances and budget AI-tool charges separately; the USD 50,000 is not cash or a general AI budget.",
+  "current_answer": "Bruin advertises USD 10,000 in Bruin Cloud credits for two years, but the credit route is for new Bruin users backed by Y Combinator, Techstars, or Antler, with under USD 5 million institutional funding and fewer than 20 people. A self-funded team can use Bruin’s open-source CLI or free Cloud tier and may join the credit waitlist, but should not budget the USD 10,000. The issuer says no card or automatic charge; country eligibility and the application form details remain unverified.",
   "catalogue_card": {
-    "question": "Can PostHog’s USD 50,000 startup credit pay for its AI tools?",
-    "text": "No for five named AI tools since 14 September 2026: Desktop, the Slack app, Replay Vision, PostHog AI, and Inbox. Eligible companies can get 12 months of credits for other covered products, but must meet the age, funding, domain, and account gates."
+    "question": "Can a bootstrapped startup use Bruin’s USD 10,000 credit?",
+    "text": "Not on the published credit route: Bruin requires backing by YC, Techstars, or Antler, under USD 5 million institutional funding, fewer than 20 people, and first-time use. Others can join a waitlist or use the free tools; the credit covers Bruin Cloud, not general cloud bills."
   },
   "summary": [
-    "PostHog offers USD 50,000 in eligible product credits for 12 months to companies under two years old with under USD 5 million raised.",
-    "A company-domain PostHog account signed up on or after 1 January 2023 and a paid usage plan precede the startup form.",
-    "Since 14 September 2026, five named AI tools cannot be paid with startup credits; AI observability and the context warehouse remain covered.",
-    "Interledger Local Impact remains paused; NLnet lists 3 November 2026, 12:00 CET."
+    "Bruin lists USD 10,000 in Bruin Cloud credits, active for two years from grant, for qualifying backed startups.",
+    "The named backing gate is YC, Techstars, or Antler; the team must be under 20 people and under USD 5 million raised from institutional investors.",
+    "Nonqualifying teams may join a waitlist or use the open-source CLI and Cloud free tier; waitlisting is not credit eligibility.",
+    "Interledger remains paused; NLnet lists 3 November 2026, 12:00 CET."
   ],
   "uncertainty": [
-    "Country-by-country applicant availability is not published on the reviewed page.",
-    "The page says 12 months but does not state the exact start event for an accepted applicant.",
-    "Any usage outside covered products, and usage after credits end, needs a billing check.",
-    "Interledger Local Impact remains paused. NLnet lists 3 November 2026, 12:00 CET. Microsoft and Cloudflare issuer conflicts remain unresolved. Pool analytics are unavailable."
+    "Bruin country coverage, application cutoff, and live form questions were not verified.",
+    "Bruin’s 1–2-year usage estimate is not a guaranteed duration of usable credit; unused balance expires two years from grant.",
+    "Interledger remains paused; NLnet still lists 3 November 2026, 12:00 CET. Microsoft and Cloudflare issuer conflicts remain unresolved. Pool analytics are unavailable."
   ],
-  "checked_at": "2026-10-02T10:42:29Z",
-  "meaningfully_updated_at": "2026-10-02T10:42:29Z",
-  "freshness_note": "PostHog programme checked on 2026-10-02. Interledger and NLnet current pages rechecked. Other programme rows retain earlier verification dates."
+  "checked_at": "2026-10-03T10:36:38Z",
+  "meaningfully_updated_at": "2026-10-03T10:36:38Z",
+  "freshness_note": "Bruin programme, Interledger pause, and NLnet deadline checked on 2026-10-03. Other programme rows retain earlier verification dates."
 }
