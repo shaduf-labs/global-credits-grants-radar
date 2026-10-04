@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:3e57889c-d610-4979-ab0d-24e20592ef99",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-04T10:30:00Z",
+      "completed_at": "2026-10-04T10:39:14Z",
+      "title": "Kiro’s one-year credit cannot be added to active AWS Activate credits.",
+      "summary": "Verified the Kiro offer, VC positioning, Activate exclusion, application end, setup and paid-billing boundary.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-04-kiro-startup-credit-activate-sequence",
+      "entrypoint": "research/2026-10-04-kiro-startup-credit-activate-sequence/index.html"
+    },
+    {
       "run_id": "run:c33a8f9e-b543-463e-9d26-1f0e4446e1ef",
       "status": "completed",
       "answer_change": "meaningful_change",

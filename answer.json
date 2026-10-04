@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Bruin advertises USD 10,000 in Bruin Cloud credits for two years, but the credit route is for new Bruin users backed by Y Combinator, Techstars, or Antler, with under USD 5 million institutional funding and fewer than 20 people. A self-funded team can use Bruin’s open-source CLI or free Cloud tier and may join the credit waitlist, but should not budget the USD 10,000. The issuer says no card or automatic charge; country eligibility and the application form details remain unverified.",
+  "current_answer": "Kiro offers up to one year of Pro+ credits to selected early-stage through Series A teams, but its public page specifies VC backing. An active AWS Activate balance disqualifies a startup from the separate Kiro promotion; Activate credits can instead cover Kiro. A team that receives Kiro credits may later apply for Activate if eligible. The Kiro offer closes 31 December 2026; credits start on issuance and switch to standard billing when spent or expired. Exact VC proof and package allocation are unknown.",
   "catalogue_card": {
-    "question": "Can a bootstrapped startup use Bruin’s USD 10,000 credit?",
-    "text": "Not on the published credit route: Bruin requires backing by YC, Techstars, or Antler, under USD 5 million institutional funding, fewer than 20 people, and first-time use. Others can join a waitlist or use the free tools; the credit covers Bruin Cloud, not general cloud bills."
+    "question": "Can you add Kiro’s one-year credits to AWS Activate?",
+    "text": "No. Kiro’s separate Pro+ startup promotion excludes active AWS Activate credit holders. Activate credits may cover Kiro instead. Kiro targets early-stage to Series A VC-backed teams; apply by 31 December 2026, and plan for standard Pro+ billing after its one-year credit ends."
   },
   "summary": [
-    "Bruin lists USD 10,000 in Bruin Cloud credits, active for two years from grant, for qualifying backed startups.",
-    "The named backing gate is YC, Techstars, or Antler; the team must be under 20 people and under USD 5 million raised from institutional investors.",
-    "Nonqualifying teams may join a waitlist or use the open-source CLI and Cloud free tier; waitlisting is not credit eligibility.",
-    "Interledger remains paused; NLnet lists 3 November 2026, 12:00 CET."
+    "Kiro lists up to one year of Pro+ credits for selected early-stage to Series A VC-backed startups, with 2-, 10- and 30-user packages.",
+    "Active AWS Activate credits exclude the separate Kiro promotion; Activate credits can cover Kiro. A Kiro recipient may later apply for Activate if eligible.",
+    "Application ends 31 December 2026; Kiro credit starts at issuance, expires one year later, and switches to standard billing when used or expired.",
+    "Interledger Local Impact remains paused and NLnet still lists 3 November 2026, 12:00 CET."
   ],
   "uncertainty": [
-    "Bruin country coverage, application cutoff, and live form questions were not verified.",
-    "Bruin’s 1–2-year usage estimate is not a guaranteed duration of usable credit; unused balance expires two years from grant.",
-    "Interledger remains paused; NLnet still lists 3 November 2026, 12:00 CET. Microsoft and Cloudflare issuer conflicts remain unresolved. Pool analytics are unavailable."
+    "Kiro landing page says VC-backed; its terms do not specify VC proof or threshold. The AWS-gated form was not inspected.",
+    "Kiro is a product-specific promotional credit, not cash or a general AWS credit. Approval and applicant-specific package are unknown.",
+    "Interledger Local Impact remains paused; NLnet still lists 3 November 2026, 12:00 CET. Pool analytics are unavailable."
   ],
-  "checked_at": "2026-10-03T10:36:38Z",
-  "meaningfully_updated_at": "2026-10-03T10:36:38Z",
-  "freshness_note": "Bruin programme, Interledger pause, and NLnet deadline checked on 2026-10-03. Other programme rows retain earlier verification dates."
+  "checked_at": "2026-10-04T10:37:33Z",
+  "meaningfully_updated_at": "2026-10-04T10:37:33Z",
+  "freshness_note": "Kiro programme, terms and setup, AWS Activate sequence, Interledger pause and NLnet deadline checked on 2026-10-04. Other rows retain earlier verification dates."
 }

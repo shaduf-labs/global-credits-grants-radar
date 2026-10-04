@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "kiro-startup-credit-sequence-2026-10-04",
+      "changed_at": "2026-10-04T10:37:33Z",
+      "summary": "Added Kiro’s one-year Pro+ credit for selected VC-backed teams, its 31 December application end, country and account gates, Activate exclusion, setup steps and post-credit billing. Rechecked Interledger pause and NLnet deadline.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "bruin-partner-credit-gate-2026-10-03",
       "changed_at": "2026-10-03T10:36:38Z",
       "summary": "Added Bruin’s USD 10,000 Cloud credit for YC-, Techstars-, or Antler-backed teams; separated the two-year product credit from free tools and a waitlist for nonqualifying founders. Rechecked Interledger pause and NLnet deadline.",

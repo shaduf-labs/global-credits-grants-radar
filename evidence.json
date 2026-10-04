@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "nlnet-2026-10-04",
+      "source_type": "official issuer page",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "NLnet application",
+      "claim": "The application page still lists 3 November 2026, 12:00 CET as the next deadline.",
+      "accessed_at": "2026-10-04T10:37:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "interledger-pause-2026-10-04",
+      "source_type": "official issuer page",
+      "source_url": "https://interledger.org/grant/local-impact-grant/",
+      "title": "Local Impact Mini Grants",
+      "claim": "The current issuer page says applications are paused and gives no reopening date.",
+      "accessed_at": "2026-10-04T10:37:33Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-kiro-2026-10-04",
+      "source_type": "official issuer page",
+      "source_url": "https://aws.amazon.com/startups/credits/",
+      "title": "AWS Activate Credits",
+      "claim": "AWS links the Kiro offer and says active Activate credits can cover Kiro rather than qualify for separate Kiro credits.",
+      "accessed_at": "2026-10-04T10:37:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "kiro-onboarding-2026-10-04",
+      "source_type": "official issuer page",
+      "source_url": "https://kiro.dev/startups/onboarding/",
+      "title": "Using startup credits",
+      "claim": "IAM Identity Center, Pro+ subscription assignment and organisational sign-in are needed to redeem.",
+      "accessed_at": "2026-10-04T10:37:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "kiro-terms-2026-10-04",
+      "source_type": "official issuer page",
+      "source_url": "https://kiro.dev/startups/terms/",
+      "title": "Kiro promotional terms",
+      "claim": "31 December 2026 application end, account and country gates, one-year expiry and automatic standard billing.",
+      "accessed_at": "2026-10-04T10:37:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "kiro-program-2026-10-04",
+      "source_type": "official issuer page",
+      "source_url": "https://kiro.dev/startups/",
+      "title": "Kiro for startups",
+      "claim": "VC-backed positioning, Pro+ package sizes, Activate exclusion and one-year benefit.",
+      "accessed_at": "2026-10-04T10:37:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "bruin-startups-2026-10-03",
       "source_type": "official-program-page",
       "source_url": "https://getbruin.com/startups/",
