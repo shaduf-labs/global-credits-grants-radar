@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "microsoft-faq-2026-10-05",
+      "source_type": "official-program-faq",
+      "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/mfs-faqs",
+      "title": "Microsoft for Startups FAQ",
+      "claim": "Investor code, new-to-Azure USD 1,000 plus conditional USD 4,000, no extension or transfer, and account or service causes of charges.",
+      "accessed_at": "2026-10-05T10:36:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "microsoft-application-conflict-2026-10-05",
+      "source_type": "official-application-documentation",
+      "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
+      "title": "How to apply to Microsoft for Startups",
+      "claim": "The no-code application guide still shows USD 200 starter credits.",
+      "accessed_at": "2026-10-05T10:36:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "microsoft-overview-stage-2026-10-05",
+      "source_type": "official-program-documentation",
+      "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview",
+      "title": "What is Microsoft for Startups?",
+      "claim": "The overview excludes Series C funding or later, while the current application guide describes pre-seed through Series C.",
+      "accessed_at": "2026-10-05T10:40:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "microsoft-activation-conflict-2026-10-05",
+      "source_type": "official-activation-documentation",
+      "source_url": "https://learn.microsoft.com/en-us/startups/build/azure-getting-started/activate",
+      "title": "Activate Azure credits",
+      "claim": "The no-code activation guide still shows USD 1,000 starter credits.",
+      "accessed_at": "2026-10-05T10:36:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "interledger-pause-2026-10-05",
+      "source_type": "official-issuer-page",
+      "source_url": "https://interledger.org/grant/local-impact-grant/",
+      "title": "Local Impact Mini Grants",
+      "claim": "Applications remain paused with no reopening date.",
+      "accessed_at": "2026-10-05T10:36:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-deadline-2026-10-05",
+      "source_type": "official-issuer-page",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "NLnet application",
+      "claim": "The page still lists 3 November 2026, 12:00 CET.",
+      "accessed_at": "2026-10-05T10:36:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "nlnet-2026-10-04",
       "source_type": "official issuer page",
       "source_url": "https://nlnet.nl/propose/",

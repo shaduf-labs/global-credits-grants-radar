@@ -1,23 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Kiro offers up to one year of Pro+ credits to selected early-stage through Series A teams, but its public page specifies VC backing. An active AWS Activate balance disqualifies a startup from the separate Kiro promotion; Activate credits can instead cover Kiro. A team that receives Kiro credits may later apply for Activate if eligible. The Kiro offer closes 31 December 2026; credits start on issuance and switch to standard billing when spent or expired. Exact VC proof and package allocation are unknown.",
+  "current_answer": "An expiring Microsoft for Startups balance is not an automatic path to more Azure credits. Microsoft says its credits cannot be extended or transferred, and use outside covered services or in another billing profile can still generate charges. The investor offer needs an affiliated organisation’s referral code. A separate new-to-Azure startup offer lists USD 1,000 for 90 days and another USD 4,000 for 180 days after business verification; it is not a top-up for existing recipients. Microsoft’s no-code application pages still conflict on a USD 200 versus USD 1,000 starter balance, so check the live account before planning spend.",
   "catalogue_card": {
-    "question": "Can you add Kiro’s one-year credits to AWS Activate?",
-    "text": "No. Kiro’s separate Pro+ startup promotion excludes active AWS Activate credit holders. Activate credits may cover Kiro instead. Kiro targets early-stage to Series A VC-backed teams; apply by 31 December 2026, and plan for standard Pro+ billing after its one-year credit ends."
+    "question": "Can you renew expiring Microsoft startup credits without an investor code?",
+    "text": "If your Microsoft startup credits are nearly gone, a new-to-Azure offer is not a top-up. Microsoft says existing credits cannot be extended or transferred; investor benefits require a referral code. Two issuer guides still disagree on the no-code starter amount, so check your account balance and billing profile before planning spend."
   },
   "summary": [
-    "Kiro lists up to one year of Pro+ credits for selected early-stage to Series A VC-backed startups, with 2-, 10- and 30-user packages.",
-    "Active AWS Activate credits exclude the separate Kiro promotion; Activate credits can cover Kiro. A Kiro recipient may later apply for Activate if eligible.",
-    "Application ends 31 December 2026; Kiro credit starts at issuance, expires one year later, and switches to standard billing when used or expired.",
-    "Interledger Local Impact remains paused and NLnet still lists 3 November 2026, 12:00 CET."
+    "Microsoft says its startup credits cannot be extended or transferred, and uncovered use or a different billing profile may generate charges.",
+    "A new-to-Azure startup can seek USD 1,000 for 90 days and another USD 4,000 for 180 days after business verification; this is not an existing-recipient top-up.",
+    "The Investor Network offer needs a referral code. The no-code guides still conflict on USD 200 versus USD 1,000 starting credit.",
+    "Interledger Local Impact remains paused; NLnet still lists 3 November 2026, 12:00 CET."
   ],
   "uncertainty": [
-    "Kiro landing page says VC-backed; its terms do not specify VC proof or threshold. The AWS-gated form was not inspected.",
-    "Kiro is a product-specific promotional credit, not cash or a general AWS credit. Approval and applicant-specific package are unknown.",
-    "Interledger Local Impact remains paused; NLnet still lists 3 November 2026, 12:00 CET. Pool analytics are unavailable."
+    "Microsoft has not published a general top-up route for an existing recipient without an investor referral in the reviewed documents.",
+    "Two current Microsoft no-code guides still conflict on the starter amount.",
+    "The India founder account is self-reported and does not establish typical approval, credit policy, or support outcomes.",
+    "Microsoft’s overview and application guide disagree about Series C eligibility."
   ],
-  "checked_at": "2026-10-04T10:37:33Z",
-  "meaningfully_updated_at": "2026-10-04T10:37:33Z",
-  "freshness_note": "Kiro programme, terms and setup, AWS Activate sequence, Interledger pause and NLnet deadline checked on 2026-10-04. Other rows retain earlier verification dates."
+  "checked_at": "2026-10-05T10:36:00Z",
+  "meaningfully_updated_at": "2026-10-05T10:36:00Z",
+  "freshness_note": "Checked 5 October 2026; each older catalogue row retains its own verification date."
 }

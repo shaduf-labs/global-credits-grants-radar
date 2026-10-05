@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:1cc6b22a-f408-43dc-af6e-259d86046d04",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-05T10:30:00Z",
+      "completed_at": "2026-10-05T10:42:00Z",
+      "title": "Expiring Microsoft startup credits are not a new starter offer.",
+      "summary": "Verified no-extension and no-transfer rules, the new-to-Azure and investor routes, billing-profile risk, and the unresolved no-code amount conflict.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-05-microsoft-credit-cliff-not-a-renewal",
+      "entrypoint": "research/2026-10-05-microsoft-credit-cliff-not-a-renewal/index.html"
+    },
+    {
       "run_id": "run:3e57889c-d610-4979-ab0d-24e20592ef99",
       "status": "completed",
       "answer_change": "meaningful_change",
