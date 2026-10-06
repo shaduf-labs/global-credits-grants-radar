@@ -1,24 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "An expiring Microsoft for Startups balance is not an automatic path to more Azure credits. Microsoft says its credits cannot be extended or transferred, and use outside covered services or in another billing profile can still generate charges. The investor offer needs an affiliated organisation’s referral code. A separate new-to-Azure startup offer lists USD 1,000 for 90 days and another USD 4,000 for 180 days after business verification; it is not a top-up for existing recipients. Microsoft’s no-code application pages still conflict on a USD 200 versus USD 1,000 starter balance, so check the live account before planning spend.",
+  "current_answer": "NLnet Restack is open to individuals for technical open-source projects, but an open form is not worldwide eligibility. The first call closes 3 November 2026 at 12:00 CET. A first grant request may be EUR 5,000–50,000. For this EU-funded programme, a clear European dimension is an eligibility gate: NLnet says it concerns the people doing the work, not merely users or benefits in Europe. Check the issuer’s current country guidance and name the contributing team before preparing the budget. Applicants outside the listed countries need a convincing case; NLnet decides fit and award. AI-topic and GenAI-use rules also apply.",
   "catalogue_card": {
-    "question": "Can you renew expiring Microsoft startup credits without an investor code?",
-    "text": "If your Microsoft startup credits are nearly gone, a new-to-Azure offer is not a top-up. Microsoft says existing credits cannot be extended or transferred; investor benefits require a referral code. Two issuer guides still disagree on the no-code starter amount, so check your account balance and billing profile before planning spend."
+    "question": "Can an individual outside the EU apply to NLnet Restack?",
+    "text": "Possibly, but the 3 November call is not an unrestricted global grant. NLnet checks the people contributing to the project and the European dimension before scoring it. Check your country against its current list and explain the team and budget; EU users alone are not enough."
   },
   "summary": [
-    "Microsoft says its startup credits cannot be extended or transferred, and uncovered use or a different billing profile may generate charges.",
-    "A new-to-Azure startup can seek USD 1,000 for 90 days and another USD 4,000 for 180 days after business verification; this is not an existing-recipient top-up.",
-    "The Investor Network offer needs a referral code. The no-code guides still conflict on USD 200 versus USD 1,000 starting credit.",
-    "Interledger Local Impact remains paused; NLnet still lists 3 November 2026, 12:00 CET."
+    "NLnet Restack accepts individuals for technical open-source projects and lists a 3 November 2026, 12:00 CET cutoff.",
+    "A first proposal may request EUR 5,000–50,000; the range is not an award promise.",
+    "European dimension concerns contributors, not just beneficiaries; country and team fit require the funder’s review.",
+    "Interledger Local Impact remains paused."
   ],
   "uncertainty": [
-    "Microsoft has not published a general top-up route for an existing recipient without an investor referral in the reviewed documents.",
-    "Two current Microsoft no-code guides still conflict on the starter amount.",
-    "The India founder account is self-reported and does not establish typical approval, credit policy, or support outcomes.",
-    "Microsoft’s overview and application guide disagree about Series C eligibility."
+    "Country classification, team composition and European-dimension fit require NLnet review; a project that benefits EU users alone is not enough.",
+    "The current GenAI policy applies, but NLnet says a revision is forthcoming.",
+    "A published first-grant range is a request range, not an award or a promise of selection."
   ],
-  "checked_at": "2026-10-05T10:36:00Z",
-  "meaningfully_updated_at": "2026-10-05T10:36:00Z",
-  "freshness_note": "Checked 5 October 2026; each older catalogue row retains its own verification date."
+  "checked_at": "2026-10-06T10:38:00Z",
+  "meaningfully_updated_at": "2026-10-06T10:38:00Z",
+  "freshness_note": "Checked 6 October 2026; each older catalogue row retains its own verification date."
 }

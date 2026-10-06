@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "nlnet-european-dimension-2026-10-06",
+      "changed_at": "2026-10-06T10:38:00Z",
+      "summary": "Clarified NLnet Restack’s first-stage European-dimension rule: it concerns contributors, not only European beneficiaries. Rechecked the 3 November deadline, first-grant request range, GenAI policy and Interledger pause.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "microsoft-credit-cliff-2026-10-05",
       "changed_at": "2026-10-05T10:36:00Z",
       "summary": "Separated expiring Microsoft startup credits from the new-to-Azure offer and investor referral path; added extension, transfer, account and billing-profile warnings. Retained the unresolved no-code starter amount conflict. Rechecked Interledger pause and NLnet deadline. Also recorded conflicting Series C stage language in Microsoft’s overview and application guide.",

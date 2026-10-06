@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "nlnet-officehour-20261006",
+      "source_type": "official-funder-page",
+      "source_url": "https://nlnet.nl/officehour/",
+      "title": "NLnet Office Hour",
+      "claim": "NLnet answers applicant questions about contributors, country eligibility, grant share, and why European users alone are usually insufficient.",
+      "accessed_at": "2026-10-06T10:38:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-application-20261006",
+      "source_type": "official-funder-page",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "NLnet live application",
+      "claim": "The form lists 3 November 2026 at 12:00 CET and a EUR 5,000–50,000 first-grant request range.",
+      "accessed_at": "2026-10-06T10:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-restack-eligibility-20261006",
+      "source_type": "official-funder-page",
+      "source_url": "https://nlnet.nl/restack/eligibility/",
+      "title": "Restack eligibility",
+      "claim": "Individuals are not categorically excluded; EU and Horizon Europe-associated applicants have priority, with an exceptional route elsewhere subject to a European dimension.",
+      "accessed_at": "2026-10-06T10:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-restack-guide-20261006",
+      "source_type": "official-funder-page",
+      "source_url": "https://nlnet.nl/restack/guideforapplicants/",
+      "title": "Restack applicant guide",
+      "claim": "The European dimension is a first-stage eligibility rule, and first proposals may request at most EUR 50,000.",
+      "accessed_at": "2026-10-06T10:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-eu-dimension-20261006",
+      "source_type": "official-funder-page",
+      "source_url": "https://nlnet.nl/NGI0/eu-dimension/",
+      "title": "NLnet European dimension",
+      "claim": "The European dimension concerns project contributors, not merely European beneficiaries; the issuer provides a country list and defers to the European Commission list.",
+      "accessed_at": "2026-10-06T10:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "microsoft-faq-2026-10-05",
       "source_type": "official-program-faq",
       "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/mfs-faqs",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:8c4fdeda-0e17-430d-8957-f20af98a78ca",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-06T10:30:00Z",
+      "completed_at": "2026-10-06T10:38:05Z",
+      "title": "NLnet Restack: check the people behind the project before 3 November",
+      "summary": "Checked the current Restack form, eligibility guide, European-dimension guidance, applicant Q&A and GenAI policy; separated individual eligibility from geographic fit.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-06-nlnet-european-dimension-grant-gate",
+      "entrypoint": "research/2026-10-06-nlnet-european-dimension-grant-gate/index.html"
+    },
+    {
       "run_id": "run:1cc6b22a-f408-43dc-af6e-259d86046d04",
       "status": "completed",
       "answer_change": "meaningful_change",
