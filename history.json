@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:93fe8a88-2b79-4ad1-ba9d-99892019fa57",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-07T10:30:00Z",
+      "completed_at": "2026-10-07T10:36:20Z",
+      "title": "Claude Startups: USD 1,000 is first-party API credit, not partner cash",
+      "summary": "Verified the new bootstrapped route, six-month API credit, domain and jurisdiction gates, Team and partner boundaries, and discretionary review.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-07-claude-startups-api-credit-six-month-boundary",
+      "entrypoint": "research/2026-10-07-claude-startups-api-credit-six-month-boundary/index.html"
+    },
+    {
       "run_id": "run:8c4fdeda-0e17-430d-8957-f20af98a78ca",
       "status": "completed",
       "answer_change": "meaningful_change",

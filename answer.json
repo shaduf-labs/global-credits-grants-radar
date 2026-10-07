@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "NLnet Restack is open to individuals for technical open-source projects, but an open form is not worldwide eligibility. The first call closes 3 November 2026 at 12:00 CET. A first grant request may be EUR 5,000–50,000. For this EU-funded programme, a clear European dimension is an eligibility gate: NLnet says it concerns the people doing the work, not merely users or benefits in Europe. Check the issuer’s current country guidance and name the contributing team before preparing the budget. Applicants outside the listed countries need a convincing case; NLnet decides fit and award. AI-topic and GenAI-use rules also apply.",
+  "current_answer": "Claude Startups now offers approved bootstrapped as well as funded companies USD 1,000 in first-party Claude API credits, expiring six months after grant. A company must be founded within five years or funded within two, apply with a Claude Console account and a company-domain email matching its website, and pass Anthropic review. New Claude Team customers may also claim one free year for up to five Premium seats. The separate up-to-USD 45,000 partner stack is third-party offer value, not Claude credit or cash. The API credit does not cover Claude through AWS Bedrock or Google Vertex AI. Check the account route and country exclusions before planning spend.",
   "catalogue_card": {
-    "question": "Can an individual outside the EU apply to NLnet Restack?",
-    "text": "Possibly, but the 3 November call is not an unrestricted global grant. NLnet checks the people contributing to the project and the European dimension before scoring it. Check your country against its current list and explain the team and budget; EU users alone are not enough."
+    "question": "Can a bootstrapped startup get Claude API credits?",
+    "text": "It may apply for USD 1,000 in first-party Claude API credits, but approval is discretionary. Check the company-domain gate, country exclusions and six-month expiry. The USD 45,000 partner stack is separate offer value, not API credit or cash."
   },
   "summary": [
-    "NLnet Restack accepts individuals for technical open-source projects and lists a 3 November 2026, 12:00 CET cutoff.",
-    "A first proposal may request EUR 5,000–50,000; the range is not an award promise.",
-    "European dimension concerns contributors, not just beneficiaries; country and team fit require the funder’s review.",
-    "Interledger Local Impact remains paused."
+    "Claude Startups now accepts bootstrapped applications and offers approved companies USD 1,000 in first-party API credits for six months.",
+    "A matching company-domain email, Claude Console account and review are required; a website and email alone do not guarantee approval.",
+    "New Team organisations may receive one free year for up to five Premium seats; third-party partner offers are separate.",
+    "NLnet’s 3 November form remains open; Interledger Local Impact remains paused."
   ],
   "uncertainty": [
-    "Country classification, team composition and European-dimension fit require NLnet review; a project that benefits EU users alone is not enough.",
-    "The current GenAI policy applies, but NLnet says a revision is forthcoming.",
-    "A published first-grant range is a request range, not an award or a promise of selection."
+    "Anthropic has not published an application cutoff or a full supported-country map on the pages checked.",
+    "The sign-in-gated form and account-specific billing after the six-month credit were not inspected.",
+    "One applicant reported rejection despite basic credentials; that is an individual report, not a program-wide approval rate."
   ],
-  "checked_at": "2026-10-06T10:38:00Z",
-  "meaningfully_updated_at": "2026-10-06T10:38:00Z",
-  "freshness_note": "Checked 6 October 2026; each older catalogue row retains its own verification date."
+  "checked_at": "2026-10-07T10:35:00Z",
+  "meaningfully_updated_at": "2026-10-07T10:35:00Z",
+  "freshness_note": "Checked 7 October 2026; older catalogue rows retain their own verification dates."
 }

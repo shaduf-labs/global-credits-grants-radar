@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "anthropic-startup-addendum-20261007",
+      "source_type": "official-program-addendum",
+      "source_url": "https://www.anthropic.com/legal/startup-program-addendum",
+      "title": "Claude Startups Additional Benefits Addendum",
+      "claim": "Third-party partner offers are governed by providers, have no cash value and are not guaranteed by Anthropic.",
+      "accessed_at": "2026-10-07T10:35:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-startup-terms-20261007",
+      "source_type": "official-program-terms",
+      "source_url": "https://www.anthropic.com/startup-program-official-terms",
+      "title": "Anthropic Startup Program Official Terms",
+      "claim": "Eligibility is discretionary; the terms list excluded jurisdictions and apply benefits to the company account.",
+      "accessed_at": "2026-10-07T10:35:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "claude-startups-20261007",
+      "source_type": "official-program-page",
+      "source_url": "https://claude.com/programs/startups",
+      "title": "Claude Startups programme",
+      "claim": "Bootstrapped and funded companies may apply; approved companies receive USD 1,000 first-party API credit for six months, with distinct Team and partner benefits.",
+      "accessed_at": "2026-10-07T10:35:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "reddit-claude-startups-20261007",
+      "source_type": "firsthand-community-report",
+      "source_url": "https://www.reddit.com/r/claude/comments/1wz93z6/claude_for_startups_1000_claude_api_credits_a/",
+      "title": "r/claude applicant report",
+      "claim": "One poster reported rejection despite a company email and website; the reason and broader approval rate are unknown.",
+      "accessed_at": "2026-10-07T10:35:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "nlnet-officehour-20261006",
       "source_type": "official-funder-page",
       "source_url": "https://nlnet.nl/officehour/",

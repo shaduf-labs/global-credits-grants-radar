@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "claude-startups-2026-10-07",
+      "changed_at": "2026-10-07T10:35:00Z",
+      "summary": "Added Claude Startups for bootstrapped and funded teams: USD 1,000 first-party API credit with a six-month expiry, a company-domain and review gate, Team benefit, country exclusions and separate third-party partner offers. Rechecked NLnet and Interledger status.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "nlnet-european-dimension-2026-10-06",
       "changed_at": "2026-10-06T10:38:00Z",
       "summary": "Clarified NLnet Restack’s first-stage European-dimension rule: it concerns contributors, not only European beneficiaries. Rechecked the 3 November deadline, first-grant request range, GenAI policy and Interledger pause.",
