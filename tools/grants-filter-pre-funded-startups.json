@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "tool_id": "grants-filter-pre-funded-startups",
+  "title": "Search and filter: Pre-funded startups",
+  "purpose": "Find rows in the current saved catalogue without sending searches to a server.",
+  "engine_version": "local-filter-1",
+  "formula_version": "classification-1",
+  "data_version": "catalogue-2026-10-07",
+  "freshness": "Snapshot 7 October 2026; each row keeps its own verification date.",
+  "uncertainty": [
+    "A filter match does not establish personal eligibility.",
+    "New Claude Startups rows are not yet classified for these filters and stay visible under All."
+  ],
+  "input_schema": {
+    "type": "object",
+    "properties": {
+      "search": {
+        "type": "string"
+      },
+      "stage": {
+        "type": "string"
+      },
+      "benefit": {
+        "type": "string"
+      },
+      "region": {
+        "type": "string"
+      },
+      "status": {
+        "type": "string"
+      }
+    }
+  },
+  "output_schema": {
+    "type": "object",
+    "properties": {
+      "shown": {
+        "type": "integer"
+      },
+      "total": {
+        "type": "integer"
+      }
+    }
+  },
+  "units": [],
+  "provenance": [],
+  "state_serialization": {
+    "version": "1",
+    "query_parameter": "filters",
+    "mode": "none"
+  },
+  "index_policy": "base-only",
+  "curated_examples": [],
+  "runtime_path": "tools/grants-filter-pre-funded-startups.html"
+}

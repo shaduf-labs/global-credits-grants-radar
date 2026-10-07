@@ -33,7 +33,12 @@
       "redirects": [],
       "visibility": "public",
       "indexable": true,
-      "tools": []
+      "tools": [
+        {
+          "id": "grants-filter-opportunities",
+          "manifest_path": "tools/grants-filter-opportunities.json"
+        }
+      ]
     },
     {
       "id": "individual-credits",
@@ -48,7 +53,12 @@
       "redirects": [],
       "visibility": "public",
       "indexable": true,
-      "tools": []
+      "tools": [
+        {
+          "id": "grants-filter-individual-credits",
+          "manifest_path": "tools/grants-filter-individual-credits.json"
+        }
+      ]
     },
     {
       "id": "pre-funded-startups",
@@ -63,7 +73,12 @@
       "redirects": [],
       "visibility": "public",
       "indexable": true,
-      "tools": []
+      "tools": [
+        {
+          "id": "grants-filter-pre-funded-startups",
+          "manifest_path": "tools/grants-filter-pre-funded-startups.json"
+        }
+      ]
     },
     {
       "id": "funded-startups",
@@ -78,7 +93,12 @@
       "redirects": [],
       "visibility": "public",
       "indexable": true,
-      "tools": []
+      "tools": [
+        {
+          "id": "grants-filter-funded-startups",
+          "manifest_path": "tools/grants-filter-funded-startups.json"
+        }
+      ]
     },
     {
       "id": "agent-briefing",
