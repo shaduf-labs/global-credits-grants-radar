@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:3b06be59-2bb8-49e8-b1c4-f7284b2c3b80",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-08T10:30:00Z",
+      "completed_at": "2026-10-08T10:36:00Z",
+      "title": "Cloudflare credit increases do not extend your year",
+      "summary": "Verified the old-cap member upgrade route, unchanged cohort clock, current tiers, product exclusions and remaining Tier 3 eligibility conflict.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-08-cloudflare-upgrade-does-not-extend-year",
+      "entrypoint": "research/2026-10-08-cloudflare-upgrade-does-not-extend-year/index.html"
+    },
+    {
       "run_id": "run:93fe8a88-2b79-4ad1-ba9d-99892019fa57",
       "status": "completed",
       "answer_change": "meaningful_change",

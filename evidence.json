@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "cloudflare-upgrade-20261008",
+      "source_type": "official-program-page",
+      "source_url": "https://www.cloudflare.com/startups/",
+      "title": "Cloudflare for Startups",
+      "claim": "Active previous-cap members approaching their limit may request a discretionary upgrade; original 12-month expiry does not reset.",
+      "accessed_at": "2026-10-08T10:34:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "cloudflare-tier-conflict-20261008",
+      "source_type": "official-program-page",
+      "source_url": "https://www.cloudflare.com/startups/",
+      "title": "Cloudflare for Startups",
+      "claim": "Tier 3 self-funded wording and the all-applicant recent-funding checklist still conflict.",
+      "accessed_at": "2026-10-08T10:34:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "anthropic-startup-addendum-20261007",
       "source_type": "official-program-addendum",
       "source_url": "https://www.anthropic.com/legal/startup-program-addendum",

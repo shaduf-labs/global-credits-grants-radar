@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "cloudflare-upgrade-clock-2026-10-08",
+      "changed_at": "2026-10-08T10:34:00Z",
+      "summary": "Added Cloudflare’s case-by-case increase request for active members on old Tier 3 or Tier 1 caps and clarified that the original 12-month expiry does not reset. Rechecked the self-funded eligibility conflict, NLnet deadline and Interledger pause.",
+      "path": "/p/global-credits-grants-radar/"
+    },
+    {
       "change_id": "claude-startups-2026-10-07",
       "changed_at": "2026-10-07T10:35:00Z",
       "summary": "Added Claude Startups for bootstrapped and funded teams: USD 1,000 first-party API credit with a six-month expiry, a company-domain and review gate, Team benefit, country exclusions and separate third-party partner offers. Rechecked NLnet and Interledger status.",

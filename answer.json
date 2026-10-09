@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Claude Startups now offers approved bootstrapped as well as funded companies USD 1,000 in first-party Claude API credits, expiring six months after grant. A company must be founded within five years or funded within two, apply with a Claude Console account and a company-domain email matching its website, and pass Anthropic review. New Claude Team customers may also claim one free year for up to five Premium seats. The separate up-to-USD 45,000 partner stack is third-party offer value, not Claude credit or cash. The API credit does not cover Claude through AWS Bedrock or Google Vertex AI. Check the account route and country exclusions before planning spend.",
+  "current_answer": "Cloudflare says active members on its older USD 5,000 Tier 3 or USD 250,000 Tier 1 cap may ask for a case-by-case evaluation when approaching the cap. An approved increase does not reset the original 12-month expiry. The current public tiers are USD 10,000, USD 100,000, and USD 350,000 in eligible Cloudflare credits, not cash; product caps, exclusions, payment method and post-credit billing still matter. For new self-funded Tier 3 applicants, the page still conflicts: the tier says no minimum funding, while its general checklist asks for funding within 12 months. NLnet still lists 3 November; Interledger Local Impact remains paused.",
   "catalogue_card": {
-    "question": "Can a bootstrapped startup get Claude API credits?",
-    "text": "It may apply for USD 1,000 in first-party Claude API credits, but approval is discretionary. Check the company-domain gate, country exclusions and six-month expiry. The USD 45,000 partner stack is separate offer value, not API credit or cash."
+    "question": "Can an existing Cloudflare startup member get more credits?",
+    "text": "Some active members on the old USD 5,000 or USD 250,000 cap may request a case-by-case increase when nearing the cap. Approval is not automatic, and the original 12-month expiry does not reset. New self-funded Tier 3 applicants still face conflicting eligibility wording."
   },
   "summary": [
-    "Claude Startups now accepts bootstrapped applications and offers approved companies USD 1,000 in first-party API credits for six months.",
-    "A matching company-domain email, Claude Console account and review are required; a website and email alone do not guarantee approval.",
-    "New Team organisations may receive one free year for up to five Premium seats; third-party partner offers are separate.",
+    "Cloudflare allows active older-cap members nearing their limit to request an individual upgrade review; it does not extend their original year.",
+    "Current tiers are USD 10,000, USD 100,000 and USD 350,000 in eligible service credits, subject to product caps and exclusions.",
+    "The self-funded Tier 3 line still conflicts with Cloudflare’s general recent-funding checklist.",
     "NLnet’s 3 November form remains open; Interledger Local Impact remains paused."
   ],
   "uncertainty": [
-    "Anthropic has not published an application cutoff or a full supported-country map on the pages checked.",
-    "The sign-in-gated form and account-specific billing after the six-month credit were not inspected.",
-    "One applicant reported rejection despite basic credentials; that is an individual report, not a program-wide approval rate."
+    "Cloudflare does not publish a numerical upgrade test or decision time; no existing member outcome was verified.",
+    "Cloudflare has not reconciled the Tier 3 self-funded line with its all-applicant recent-funding line.",
+    "Country coverage and account-specific billing are not established from the public page."
   ],
-  "checked_at": "2026-10-07T10:35:00Z",
-  "meaningfully_updated_at": "2026-10-07T10:35:00Z",
-  "freshness_note": "Checked 7 October 2026; older catalogue rows retain their own verification dates."
+  "checked_at": "2026-10-08T10:34:00Z",
+  "meaningfully_updated_at": "2026-10-08T10:34:00Z",
+  "freshness_note": "Checked 8 October 2026; older catalogue rows retain their own verification dates."
 }
