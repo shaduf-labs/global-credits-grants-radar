@@ -2,6 +2,39 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:manual:1ba6cc08a85226188ba8f4d84179bcd8",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-12T07:24:56.645Z",
+      "completed_at": "2026-10-12T07:29:14Z",
+      "title": "The 9–10 October credit checks are now in the catalogue",
+      "summary": "Published saved Google and AWS research, preserving their original reports and source-check dates; no new issuer research was done.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-12-saved-research-publication",
+      "entrypoint": "research/2026-10-12-saved-research-publication/index.html"
+    },
+    {
+      "run_id": "run:e90fa8cb-cff6-440a-af57-675ebac32818",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-10T10:30:00Z",
+      "completed_at": "2026-10-10T10:36:16Z",
+      "title": "AWS Activate may cover a Bedrock model; check your awarded credit",
+      "summary": "Compared AWS terms with Google exclusions and published an account-level AWS Billing check.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-10-aws-bedrock-credit-check",
+      "entrypoint": "research/2026-10-10-aws-bedrock-credit-check/index.html"
+    },
+    {
+      "run_id": "run:6fd78143-c48f-4d55-b5ee-b64c6775925e",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-09T10:30:00Z",
+      "completed_at": "2026-10-09T10:36:12Z",
+      "title": "Google startup credits do not pay every Model Garden bill",
+      "summary": "Verified the ordinary credit exclusion, separate possible Scale partner-model credit, older issuer wording and billing check.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-09-google-partner-model-credit-is-separate",
+      "entrypoint": "research/2026-10-09-google-partner-model-credit-is-separate/index.html"
+    },
+    {
       "run_id": "run:3b06be59-2bb8-49e8-b1c4-f7284b2c3b80",
       "status": "completed",
       "answer_change": "meaningful_change",

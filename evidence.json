@@ -2,6 +2,86 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "aws-activate-terms-2026-10-10",
+      "source_type": "official-program-terms",
+      "source_url": "https://aws.amazon.com/activate/terms/",
+      "title": "AWS Activate terms",
+      "claim": "Activate credits may offset eligible third-party Bedrock model spend through AWS Marketplace; actual credit configuration still matters.",
+      "accessed_at": "2026-10-10T10:35:46Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-billing-credit-details-2026-10-10",
+      "source_type": "official-documentation",
+      "source_url": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/useconsolidatedbilling-credits.html",
+      "title": "AWS credit application documentation",
+      "claim": "A credit detail record shows status, expiry, applicable products and application history.",
+      "accessed_at": "2026-10-10T10:35:46Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "google-faq-model-exclusion-2026-10-09",
+      "source_type": "official-program-faq",
+      "source_url": "https://cloud.google.com/startup/faq",
+      "title": "Google for Startups Cloud Program FAQ",
+      "claim": "Ordinary programme credits exclude third-party services and models, including Marketplace offerings.",
+      "accessed_at": "2026-10-09T10:33:57Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "google-perks-partner-credit-2026-10-09",
+      "source_type": "official-program-perks",
+      "source_url": "https://cloud.google.com/startup/perks",
+      "title": "Google Startup Perks",
+      "claim": "Qualifying Scale and Scale AI members may receive USD 10,000 in separate partner-model credits and should ask their Account Executive for access.",
+      "accessed_at": "2026-10-09T10:33:57Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "google-perks-older-pdf-2026-10-09",
+      "source_type": "official-program-pdf",
+      "source_url": "https://services.google.com/fh/files/misc/startup_perks_partner_models.pdf",
+      "title": "Google Startup Perks partner models",
+      "claim": "Older issuer PDF uses broader automatic-allocation wording; current Perks page is used for the public qualification.",
+      "accessed_at": "2026-10-09T10:33:57Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "reddit-google-model-bill-2026-10-09",
+      "source_type": "applicant-community-report",
+      "source_url": "https://www.reddit.com/r/googlecloud/comments/1ri3uwb/student_founder_hit_with_a_4000_google_cloud_bill/",
+      "title": "Student founder reports Google Marketplace model charge",
+      "claim": "The author reports a GBP 4,000 charge for Claude through Google Cloud Marketplace despite holding startup credits; the invoice and outcome were not verified.",
+      "accessed_at": "2026-10-09T10:33:57Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-live-2026-10-09",
+      "source_type": "official-application-page",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "NLnet proposal form",
+      "claim": "Current form lists 3 November 2026, 12:00 CET.",
+      "accessed_at": "2026-10-09T10:33:57Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "interledger-paused-2026-10-09",
+      "source_type": "official-program-page",
+      "source_url": "https://interledger.org/grant/local-impact-grant/",
+      "title": "Interledger Local Impact Mini-Grants",
+      "claim": "Applications remain paused with no reopening date.",
+      "accessed_at": "2026-10-09T10:33:57Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "cloudflare-upgrade-20261008",
       "source_type": "official-program-page",
       "source_url": "https://www.cloudflare.com/startups/",

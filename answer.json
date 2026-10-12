@@ -1,23 +1,22 @@
 {
   "schema_version": "1.0.0",
-  "status": "current",
-  "current_answer": "Cloudflare says active members on its older USD 5,000 Tier 3 or USD 250,000 Tier 1 cap may ask for a case-by-case evaluation when approaching the cap. An approved increase does not reset the original 12-month expiry. The current public tiers are USD 10,000, USD 100,000, and USD 350,000 in eligible Cloudflare credits, not cash; product caps, exclusions, payment method and post-credit billing still matter. For new self-funded Tier 3 applicants, the page still conflicts: the tier says no minimum funding, while its general checklist asks for funding within 12 months. NLnet still lists 3 November; Interledger Local Impact remains paused.",
+  "status": "stale",
+  "current_answer": "AWS Activate terms permit eligible credits to offset third-party foundation-model charges on Amazon Bedrock, including some AWS Marketplace spend. That is not proof that a particular awarded credit covers a particular model. Before use, check Billing > Credits for applicable products, expiry and application history, then verify a small model charge. Google ordinary startup Cloud credits exclude third-party Model Garden models; a separate partner-model perk may be available to qualifying Scale members. NLnet still lists 3 November at 12:00 CET; Interledger Local Impact remains paused.",
   "catalogue_card": {
-    "question": "Can an existing Cloudflare startup member get more credits?",
-    "text": "Some active members on the old USD 5,000 or USD 250,000 cap may request a case-by-case increase when nearing the cap. Approval is not automatic, and the original 12-month expiry does not reset. New self-funded Tier 3 applicants still face conflicting eligibility wording."
+    "question": "Will AWS Activate credits pay for Claude on Bedrock?",
+    "text": "AWS terms allow eligible credits for third-party Bedrock model charges, but do not prove your awarded credit covers a particular model. Check Applicable products and Application history in AWS Billing before substantial use."
   },
   "summary": [
-    "Cloudflare allows active older-cap members nearing their limit to request an individual upgrade review; it does not extend their original year.",
-    "Current tiers are USD 10,000, USD 100,000 and USD 350,000 in eligible service credits, subject to product caps and exclusions.",
-    "The self-funded Tier 3 line still conflicts with Cloudflare’s general recent-funding checklist.",
-    "NLnet’s 3 November form remains open; Interledger Local Impact remains paused."
+    "AWS Activate terms allow eligible credits to offset third-party Bedrock model spend, but each awarded credit has its own applicable products and expiry.",
+    "Check AWS Billing > Credits and application history before scaling a model workload; provider-level wording alone cannot verify a bill.",
+    "Google ordinary startup Cloud credits exclude third-party models; NLnet’s 3 November form remains live and Interledger Local Impact remains paused."
   ],
   "uncertainty": [
-    "Cloudflare does not publish a numerical upgrade test or decision time; no existing member outcome was verified.",
-    "Cloudflare has not reconciled the Tier 3 self-funded line with its all-applicant recent-funding line.",
-    "Country coverage and account-specific billing are not established from the public page."
+    "AWS does not publish a complete public model-SKU or credit-configuration coverage matrix; one unverified applicant report describes uncovered Claude charges.",
+    "Account-specific credit allocation, expiry and country coverage remain unknown.",
+    "Google does not guarantee every Scale member a separate partner-model credit."
   ],
-  "checked_at": "2026-10-08T10:34:00Z",
-  "meaningfully_updated_at": "2026-10-08T10:34:00Z",
-  "freshness_note": "Checked 8 October 2026; older catalogue rows retain their own verification dates."
+  "checked_at": "2026-10-12T07:29:14Z",
+  "meaningfully_updated_at": "2026-10-10T10:35:46Z",
+  "freshness_note": "Issuer sources were last checked 10 October 2026. The saved 9 and 10 October findings were published on 12 October without a new source check; older rows retain their own dates."
 }
