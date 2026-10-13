@@ -2,6 +2,28 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:848f1cab-959d-4f12-ad2d-47e5db02e7fb",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-13T10:30:00Z",
+      "completed_at": "2026-10-13T10:37:30Z",
+      "title": "AWS provider code needs verification",
+      "summary": "Checked the Portfolio Org ID, email and affiliation requirements, and corrected an Azure source link.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-13-aws-provider-id-application-check",
+      "entrypoint": "research/2026-10-13-aws-provider-id-application-check/index.html"
+    },
+    {
+      "run_id": "run:380bd04d-e706-4146-b180-5b06f091efde",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-12T18:53:40Z",
+      "completed_at": "2026-10-12T18:59:24Z",
+      "title": "Interledger’s open grant needs an institutional applicant",
+      "summary": "Verified the open NextGen institutional gate and first-stage documents; the founder Accelerator is closed and Local Impact remains paused.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-12-interledger-nextgen-institution-gate",
+      "entrypoint": "research/2026-10-12-interledger-nextgen-institution-gate/index.html"
+    },
+    {
       "run_id": "run:manual:1ba6cc08a85226188ba8f4d84179bcd8",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -2,6 +2,86 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "aws-activate-guide-2026-10-13",
+      "source_type": "official-application-guide",
+      "source_url": "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/",
+      "title": "AWS Activate application guide",
+      "claim": "Portfolio needs a provider Org ID; the code is case-sensitive. Applicants should use a business email matching the company domain in the profile and application.",
+      "accessed_at": "2026-10-13T10:36:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-provider-requirements-2026-10-13",
+      "source_type": "official-provider-requirements",
+      "source_url": "https://aws.amazon.com/activate/portfolio-detail/requirements/",
+      "title": "AWS Activate Provider requirements",
+      "claim": "Providers verify member startup affiliation and may reject unaffiliated applications.",
+      "accessed_at": "2026-10-13T10:36:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nextgen-program-2026-10-12",
+      "source_type": "official-grant-page",
+      "source_url": "https://interledger.org/grant/education/nextgen/",
+      "title": "Interledger NextGen programme",
+      "claim": "Phase 1 is open through 14 December 2026 for accredited higher education institutions; selected institutions may receive up to USD 50,000.",
+      "accessed_at": "2026-10-12T18:55:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nextgen-faq-2026-10-12",
+      "source_type": "official-grant-faq",
+      "source_url": "https://interledger.org/grant/education/nextgen/faq/",
+      "title": "Interledger NextGen FAQ",
+      "claim": "Student clubs cannot apply directly; an eligible institution must submit and manage the application.",
+      "accessed_at": "2026-10-12T18:55:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nextgen-form-2026-10-12",
+      "source_type": "official-application-listing",
+      "source_url": "https://submit.interledger.org/submit",
+      "title": "Interledger application manager",
+      "claim": "The live call asks for an institutional letter of intent on letterhead signed by an authorized representative.",
+      "accessed_at": "2026-10-12T18:55:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "accelerator-closed-2026-10-12",
+      "source_type": "official-grant-page",
+      "source_url": "https://interledger.org/grant/innovation/accelerator/",
+      "title": "Open Payments Accelerator",
+      "claim": "The USD 50,000 founder-targeted accelerator says applications are closed for 2026.",
+      "accessed_at": "2026-10-12T18:55:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "local-impact-paused-2026-10-12",
+      "source_type": "official-grant-page",
+      "source_url": "https://interledger.org/grant/local-impact-grant/",
+      "title": "Local Impact Mini-Grants",
+      "claim": "The individual-eligible Local Impact programme says applications are paused.",
+      "accessed_at": "2026-10-12T18:55:15Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-form-live-2026-10-12",
+      "source_type": "official-application-page",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "NLnet live application",
+      "claim": "The form remains live and lists 3 November 2026 at 12:00 CET.",
+      "accessed_at": "2026-10-12T18:55:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "aws-activate-terms-2026-10-10",
       "source_type": "official-program-terms",
       "source_url": "https://aws.amazon.com/activate/terms/",

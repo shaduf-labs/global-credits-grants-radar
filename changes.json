@@ -2,9 +2,21 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "aws-provider-verification-2026-10-13",
+      "changed_at": "2026-10-13T10:36:35Z",
+      "summary": "Added the AWS provider-issued Org ID, matching business email and provider verification checks; corrected an Azure source link that pointed to a student offer.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-13-aws-provider-id-application-check"
+    },
+    {
+      "change_id": "interledger-nextgen-institution-gate-2026-10-12",
+      "changed_at": "2026-10-12T18:55:15Z",
+      "summary": "Distinguished Interledger’s open institutional NextGen call from its closed founder Accelerator and paused Local Impact route; kept NextGen outside the individual and startup catalogue. Rechecked NLnet’s live form.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-12-interledger-nextgen-institution-gate"
+    },
+    {
       "change_id": "saved-research-publication-2026-10-12",
-      "changed_at": "2026-10-12T07:29:14Z",
-      "summary": "Published the completed 9 and 10 October Google and AWS credit checks, retaining their original dated reports. No issuer terms were rechecked on 12 October.",
+      "changed_at": "2026-10-12T08:13:43Z",
+      "summary": "Released the completed 9 and 10 October Google and AWS credit checks, retaining their original dated reports. No issuer terms were rechecked on 12 October.",
       "path": "/p/global-credits-grants-radar/research/"
     },
     {
