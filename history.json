@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "runs": [
     {
-      "run_id": "run:848f1cab-959d-4f12-ad2d-47e5db02e7fb",
+      "run_id": "report-c6b9e00fc865f718a384dacf",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-13T10:30:00Z",
@@ -13,7 +13,7 @@
       "entrypoint": "research/2026-10-13-aws-provider-id-application-check/index.html"
     },
     {
-      "run_id": "run:380bd04d-e706-4146-b180-5b06f091efde",
+      "run_id": "report-e8b4a47aac7541fb09a094a2",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-12T18:53:40Z",
@@ -24,7 +24,7 @@
       "entrypoint": "research/2026-10-12-interledger-nextgen-institution-gate/index.html"
     },
     {
-      "run_id": "run:manual:1ba6cc08a85226188ba8f4d84179bcd8",
+      "run_id": "report-9d5565f07e7bf5d9439d7ea8",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-12T07:24:56.645Z",
@@ -35,7 +35,7 @@
       "entrypoint": "research/2026-10-12-saved-research-publication/index.html"
     },
     {
-      "run_id": "run:e90fa8cb-cff6-440a-af57-675ebac32818",
+      "run_id": "report-b23a88fa98b89291c02280cb",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-10T10:30:00Z",
@@ -46,7 +46,7 @@
       "entrypoint": "research/2026-10-10-aws-bedrock-credit-check/index.html"
     },
     {
-      "run_id": "run:6fd78143-c48f-4d55-b5ee-b64c6775925e",
+      "run_id": "report-dc295ca21d3e92986c5224ad",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-09T10:30:00Z",
@@ -57,7 +57,7 @@
       "entrypoint": "research/2026-10-09-google-partner-model-credit-is-separate/index.html"
     },
     {
-      "run_id": "run:3b06be59-2bb8-49e8-b1c4-f7284b2c3b80",
+      "run_id": "report-f01caa193444e6498dfa72a7",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-08T10:30:00Z",
@@ -68,7 +68,7 @@
       "entrypoint": "research/2026-10-08-cloudflare-upgrade-does-not-extend-year/index.html"
     },
     {
-      "run_id": "run:93fe8a88-2b79-4ad1-ba9d-99892019fa57",
+      "run_id": "report-fc49d9a3a14e193c3b7d9f14",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-07T10:30:00Z",
@@ -79,7 +79,7 @@
       "entrypoint": "research/2026-10-07-claude-startups-api-credit-six-month-boundary/index.html"
     },
     {
-      "run_id": "run:8c4fdeda-0e17-430d-8957-f20af98a78ca",
+      "run_id": "report-5fa6f7dd6ee4df3c7ca4defd",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-06T10:30:00Z",
@@ -90,7 +90,7 @@
       "entrypoint": "research/2026-10-06-nlnet-european-dimension-grant-gate/index.html"
     },
     {
-      "run_id": "run:1cc6b22a-f408-43dc-af6e-259d86046d04",
+      "run_id": "report-f532f0e415d8bc91f1b84e04",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-05T10:30:00Z",
@@ -101,7 +101,7 @@
       "entrypoint": "research/2026-10-05-microsoft-credit-cliff-not-a-renewal/index.html"
     },
     {
-      "run_id": "run:3e57889c-d610-4979-ab0d-24e20592ef99",
+      "run_id": "report-0373195373c9d7ddf0925282",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-04T10:30:00Z",
@@ -112,7 +112,7 @@
       "entrypoint": "research/2026-10-04-kiro-startup-credit-activate-sequence/index.html"
     },
     {
-      "run_id": "run:c33a8f9e-b543-463e-9d26-1f0e4446e1ef",
+      "run_id": "report-0d575c51dcdfc6de1ee02c10",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-03T10:30:00Z",
@@ -123,7 +123,7 @@
       "entrypoint": "research/2026-10-03-bruin-credit-partner-gate/index.html"
     },
     {
-      "run_id": "run:40ca9d88-ea90-44d5-8a89-dc56138a7828",
+      "run_id": "report-ab9a565fe2ee6eb5f17373e9",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-02T10:30:00Z",
@@ -134,7 +134,7 @@
       "entrypoint": "research/2026-10-02-posthog-startup-credit-ai-exclusion/index.html"
     },
     {
-      "run_id": "run:b92c6854-124e-418b-8b36-46105c4381b4",
+      "run_id": "report-98368097b06b98bfb01686d0",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-01T10:30:00Z",
@@ -145,7 +145,7 @@
       "entrypoint": "research/2026-10-01-stripe-atlas-fee-credit-not-formation-grant/index.html"
     },
     {
-      "run_id": "run:36f52a54-5b06-41e0-b15f-9c63e142cf26",
+      "run_id": "report-ad23527997ece1f1538e4a7b",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-30T10:30:00Z",
@@ -156,7 +156,7 @@
       "entrypoint": "research/2026-09-30-google-start-to-scale-prior-credit-gate/index.html"
     },
     {
-      "run_id": "run:955d645a-0bd8-4d9c-8d62-69b0067e2fcd",
+      "run_id": "report-729906f8fb491537af589619",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-29T10:30:00Z",
@@ -167,7 +167,7 @@
       "entrypoint": "research/2026-09-29-interledger-applications-paused/index.html"
     },
     {
-      "run_id": "run:63de9b03-b8d1-45a5-a0ef-eaa7e881a95d",
+      "run_id": "report-43068a2fccd98a7af94b9635",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-28T10:30:00Z",
@@ -178,7 +178,7 @@
       "entrypoint": "research/2026-09-28-eic-accelerator-short-stage-gate/index.html"
     },
     {
-      "run_id": "run:ca4093bf-d501-45bf-83d8-8f5ea03a7e28",
+      "run_id": "report-d6c8115c40771463f5f695d9",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-27T10:30:00Z",
@@ -189,7 +189,7 @@
       "entrypoint": "research/2026-09-27-nlnet-open-internet-stack-ai-rule/index.html"
     },
     {
-      "run_id": "run:166929a6-4256-43b1-9363-5e4784aad559",
+      "run_id": "report-e1649617f78cceee0d8f86bc",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-26T10:30:00Z",
@@ -200,7 +200,7 @@
       "entrypoint": "research/2026-09-26-github-startups-partner-billing-gate/index.html"
     },
     {
-      "run_id": "run:f6cc0fdf-6ee1-4441-bbcc-2ce6fa01e3b8",
+      "run_id": "report-45679efd8c206d21daf3fa6f",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-25T10:30:00Z",
@@ -211,7 +211,7 @@
       "entrypoint": "research/2026-09-25-interledger-local-impact-mini-grants/index.html"
     },
     {
-      "run_id": "run:69b35c2a-bcf8-4b17-bd6d-79b3322ff38c",
+      "run_id": "report-92405d0c16d4d56afc3b1e8d",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-24T10:30:00Z",
@@ -222,7 +222,7 @@
       "entrypoint": "research/2026-09-24-pollination-project-global-seed-grant/index.html"
     },
     {
-      "run_id": "run:e2114abf-9da7-4b87-ae29-b41cb6b849fe",
+      "run_id": "report-9ef69be8f2cd294700cdafd6",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-22T10:30:00Z",
@@ -233,7 +233,7 @@
       "entrypoint": "research/2026-09-22-awesome-foundation-dc-cash-grant/index.html"
     },
     {
-      "run_id": "run:258bf971-eb3f-493c-a0d4-481a043e3fbd",
+      "run_id": "report-3917e80b2e501e6f11c3e344",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-21T10:30:00Z",
@@ -244,7 +244,7 @@
       "entrypoint": "research/2026-09-21-github-student-pack-stripe-fee-credit/index.html"
     },
     {
-      "run_id": "run:b5ceb9b2-9022-42f7-b912-a55bde5461cf",
+      "run_id": "report-6a0ca00957b7c746c7e63c9a",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-20T10:30:00Z",
@@ -255,7 +255,7 @@
       "entrypoint": "research/2026-09-20-github-student-pack-heroku-credit/index.html"
     },
     {
-      "run_id": "run:93a6ab97-9313-4945-a682-d82f8b488fd9",
+      "run_id": "report-066c9f10bbd7114cd951ba7c",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-19T10:30:00Z",
@@ -266,7 +266,7 @@
       "entrypoint": "research/2026-09-19-oracle-free-tier-home-region/index.html"
     },
     {
-      "run_id": "run:ab16b4b9-4443-46eb-8491-d83aa355234f",
+      "run_id": "report-6990179512a7121d08ce6b88",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-18T10:30:00Z",
@@ -277,7 +277,7 @@
       "entrypoint": "research/2026-09-18-microsoft-starter-credit-conflict/index.html"
     },
     {
-      "run_id": "run:7d548211-bf01-4f0b-881c-145e5d077902",
+      "run_id": "report-dc50250b474c9aa11edbac4d",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-17T10:30:00Z",
@@ -288,7 +288,7 @@
       "entrypoint": "research/2026-09-17-otf-rolling-grant-cloudflare-credit-boundary/index.html"
     },
     {
-      "run_id": "run:d60e2f58-2686-4c81-9755-036ac53b26b7",
+      "run_id": "report-aeb8ecea004585c2a1ff8a5a",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-16T10:30:00Z",
@@ -299,7 +299,7 @@
       "entrypoint": "research/2026-09-16-digitalocean-direct-application-unpublished-credit/index.html"
     },
     {
-      "run_id": "run:60947627-bb22-4bff-8693-d1ae7ad99d2c",
+      "run_id": "report-0de6935576584507a77be9c2",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-15T10:30:00Z",
@@ -310,7 +310,7 @@
       "entrypoint": "research/2026-09-15-ukri-sustainable-ai-host-gate/index.html"
     },
     {
-      "run_id": "run:ad7c49b0-a96f-45a6-af80-1ab369c1fc3e",
+      "run_id": "report-1635911ff3a4d7513f544200",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-14T10:30:00Z",
@@ -321,7 +321,7 @@
       "entrypoint": "research/2026-09-14-mongodb-direct-route-unpublished-credit-size/index.html"
     },
     {
-      "run_id": "run:bc98c439-0a0b-4f0c-a31c-425f6903e259",
+      "run_id": "report-0b05a81c94c87eb4f8877bf0",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-13T12:00:00Z",
@@ -332,7 +332,7 @@
       "entrypoint": "research/2026-09-13-aws-activate-website-gate/index.html"
     },
     {
-      "run_id": "run:1a2b7b9c-953c-4fdb-8af1-456e8b596112",
+      "run_id": "report-108de211f2771dafa6c24199",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-12T12:00:00Z",
@@ -343,7 +343,7 @@
       "entrypoint": "research/2026-09-12-azure-credit-clocks/index.html"
     },
     {
-      "run_id": "run:cc4ecaa4-f49f-4123-866a-589c8af148c8",
+      "run_id": "report-b2cfa0b553d862a6a96bb6ac",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-11T12:00:00Z",
@@ -354,7 +354,7 @@
       "entrypoint": "research/2026-09-11-vercel-partner-proof-and-credit-cliff/index.html"
     },
     {
-      "run_id": "run:5a8300e3-c2ff-4f83-853d-bfb54f95f624",
+      "run_id": "report-6b6f0d8c53a325762f412765",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-10T12:00:00Z",
@@ -365,7 +365,7 @@
       "entrypoint": "research/2026-09-10-individual-grant-and-start-tier/index.html"
     },
     {
-      "run_id": "run:fb30ed28-7933-4fe8-8117-6f8cdb2b6cf5",
+      "run_id": "report-ed34d3a5184f088a0d1efe6d",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-09T12:12:00Z",
