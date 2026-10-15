@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "AWS Activate Portfolio needs a provider-issued, case-sensitive Org ID and provider verification; it is not an automatic USD 200,000 award. Use a company-domain email consistently in the Activate profile and application. Self-funded founders use the separate Founders route, which starts at USD 1,000 if approved. Microsoft startup credits cannot be extended, and its new-to-Azure offer is not a renewal. NLnet still lists a live 3 November, 12:00 CET form; Interledger Local Impact remains paused.",
+  "current_answer": "Microsoft’s updated application guide excludes Series C or later and shows USD 200 at no-code entry versus USD 1,000 with an Investor Network code. Its older live activation guide still says USD 1,000 without a code. Confirm the actual no-code balance and account eligibility before planning Azure spend; credits are not cash.",
   "catalogue_card": {
-    "question": "Have an AWS Activate provider code?",
-    "text": "Portfolio can reach USD 200,000, but a provider must issue the case-sensitive Org ID and verify your affiliation. Self-funded founders use the separate USD 1,000-starting route; neither amount is an automatic award."
+    "question": "Is the Microsoft no-code startup credit USD 200 or USD 1,000?",
+    "text": "The newer application guide says USD 200 without an investor code, but an older live activation guide still says USD 1,000. The newer guide also excludes Series C and asks for a personal Microsoft account with no prior Azure account. Check your actual balance before deployment."
   },
   "summary": [
-    "AWS Portfolio needs a provider-issued, case-sensitive Org ID, matching business email and provider affiliation verification before an award decision.",
-    "AWS Founders is the direct self-funded route; it starts at USD 1,000 if approved, with up to USD 5,000 only for selected participants.",
-    "Microsoft credits cannot be extended. NLnet lists a live 3 November form; Interledger Local Impact remains paused."
+    "The 9 October application guide lists pre-seed through Series B; Microsoft’s overview also excludes Series C or later.",
+    "The newer guide shows USD 200 without an investor code and USD 1,000 with one; the older activation guide still says USD 1,000 without a code.",
+    "The guide asks applicants to prepare a personal Microsoft account with no prior Azure account and payment details; sponsorship converts to pay-as-you-go after use or expiry."
   ],
   "uncertainty": [
-    "AWS does not publish every provider verification step or applicant-specific Portfolio allocation.",
-    "The reviewed AWS pages do not settle country availability or awarded-credit validity.",
-    "Microsoft no-code starter guides still conflict on USD 200 versus USD 1,000; verify the live account before spending."
+    "Two live Microsoft guides still disagree on the no-code starter amount and do not establish an applicant-specific credit validity period.",
+    "The no-prior-Azure-account preparation line does not establish every account-history exception or guarantee approval.",
+    "Older programme rows keep their dated verification limits."
   ],
-  "checked_at": "2026-10-13T10:36:35Z",
-  "meaningfully_updated_at": "2026-10-13T10:36:35Z",
-  "freshness_note": "AWS application guide, provider requirements and programme tiers checked 13 October 2026. Microsoft FAQ and NLnet form rechecked; other catalogue rows retain their own verification dates."
+  "checked_at": "2026-10-15T11:09:00Z",
+  "meaningfully_updated_at": "2026-10-15T11:09:00Z",
+  "freshness_note": "Microsoft application, activation and overview pages checked 15 October 2026. Other catalogue entries retain their dated checks."
 }

@@ -2,6 +2,86 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "microsoft-application-route-2026-10-15",
+      "source_type": "official-guide",
+      "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
+      "title": "How to Apply to Microsoft for Startups",
+      "claim": "The 9 October guide targets pre-seed through Series B, lists no prior Azure account in preparation, shows USD 200 without a code and USD 1,000 with a code, and says sponsorship converts to pay-as-you-go after use or expiry.",
+      "accessed_at": "2026-10-15T11:09:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "microsoft-activation-conflict-2026-10-15",
+      "source_type": "official-guide",
+      "source_url": "https://learn.microsoft.com/en-us/startups/build/azure-getting-started/activate",
+      "title": "Activate Azure Credits",
+      "claim": "The older live activation guide still states USD 1,000 for the no-code route, conflicting with the newer application guide.",
+      "accessed_at": "2026-10-15T11:09:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "microsoft-overview-stage-2026-10-15",
+      "source_type": "official-programme",
+      "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview",
+      "title": "What is Microsoft for Startups?",
+      "claim": "Microsoft’s overview excludes startups that have raised Series C or later and describes up to USD 150,000 over time as conditional.",
+      "accessed_at": "2026-10-15T11:09:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "codesupply-program-2026-10-14",
+      "source_type": "official-programme",
+      "source_url": "https://nlnet.nl/codesupply/",
+      "title": "NLnet CodeSupply",
+      "claim": "First call closes 3 November 2026 at 12:00 CET; first project requests are EUR 5,000–50,000 and must serve open software supply-chain goals.",
+      "accessed_at": "2026-10-14T10:55:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "codesupply-eligibility-2026-10-14",
+      "source_type": "official-eligibility",
+      "source_url": "https://nlnet.nl/codesupply/eligibility/",
+      "title": "CodeSupply eligibility",
+      "claim": "Individuals may apply, but a strong European dimension is required; the usual path allocates at least 60% to eligible-country contributors, with an exceptional route.",
+      "accessed_at": "2026-10-14T10:55:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "codesupply-guide-2026-10-14",
+      "source_type": "official-application-guide",
+      "source_url": "https://nlnet.nl/codesupply/guideforapplicants/",
+      "title": "CodeSupply applicant guide",
+      "claim": "A first grant request is capped at EUR 50,000; applicants face two-stage competitive review and open-licence duties.",
+      "accessed_at": "2026-10-14T10:55:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "codesupply-faq-2026-10-14",
+      "source_type": "official-faq",
+      "source_url": "https://nlnet.nl/codesupply/faq/",
+      "title": "CodeSupply FAQ",
+      "claim": "Individuals need no company; review is estimated at three to five months after cutoff, payment follows milestones and pre-selection work is not reimbursed.",
+      "accessed_at": "2026-10-14T10:55:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-form-2026-10-14",
+      "source_type": "official-application-form",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "NLnet live application",
+      "claim": "The live form lists 3 November 2026 at 12:00 CET and asks for a project summary, budget and task breakdown.",
+      "accessed_at": "2026-10-14T10:55:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "aws-activate-guide-2026-10-13",
       "source_type": "official-application-guide",
       "source_url": "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/",

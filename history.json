@@ -2,6 +2,28 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-240507d62d34ab5cdb70361d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-15T10:30:00Z",
+      "completed_at": "2026-10-15T11:11:22Z",
+      "title": "Microsoft’s no-code guide says USD 200; the older guide still says USD 1,000",
+      "summary": "The updated application guide now excludes Series C, lists USD 200 without a code and asks for no prior Azure account; an older live guide still conflicts on the no-code amount.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-15-microsoft-no-code-account-gate",
+      "entrypoint": "research/2026-10-15-microsoft-no-code-account-gate/index.html"
+    },
+    {
+      "run_id": "report-2dd5300ff280ec77ed6e477b",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-14T10:30:00Z",
+      "completed_at": "2026-10-14T10:56:04Z",
+      "title": "CodeSupply grant pays after milestones",
+      "summary": "Verified the individual route, European-dimension rule, deadline and payment timing.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-14-codesupply-individual-grant-milestone-gate",
+      "entrypoint": "research/2026-10-14-codesupply-individual-grant-milestone-gate/index.html"
+    },
+    {
       "run_id": "report-c6b9e00fc865f718a384dacf",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "microsoft-route-and-account-gate-2026-10-15",
+      "changed_at": "2026-10-15T11:09:00Z",
+      "summary": "Updated Microsoft stage, account-history and route-specific starter-credit checks; the no-code amount remains inconsistent across live issuer guides.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-15-microsoft-no-code-account-gate"
+    },
+    {
+      "change_id": "codesupply-milestone-gate-2026-10-14",
+      "changed_at": "2026-10-14T10:55:29Z",
+      "summary": "Added the individual-eligible NLnet CodeSupply call with its scope, 3 November cutoff, European-dimension rule, review delay and post-milestone payment gate.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-14-codesupply-individual-grant-milestone-gate"
+    },
+    {
       "change_id": "aws-provider-verification-2026-10-13",
       "changed_at": "2026-10-13T10:36:35Z",
       "summary": "Added the AWS provider-issued Org ID, matching business email and provider verification checks; corrected an Azure source link that pointed to a student offer.",
