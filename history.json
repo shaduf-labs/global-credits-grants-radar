@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-d509ed1892b7fa25f3db5924",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-16T10:30:00Z",
+      "completed_at": "2026-10-16T11:28:45Z",
+      "title": "Google Start billing ID: India prepayment is not always a hold",
+      "summary": "Google Start needs the submitted Billing ID; India UPI may require a real INR 500–1,000 Postpay prepayment. A card authorization is different, and neither guarantees approval.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-16-google-start-india-billing-check",
+      "entrypoint": "research/2026-10-16-google-start-india-billing-check/index.html"
+    },
+    {
       "run_id": "report-240507d62d34ab5cdb70361d",
       "status": "completed",
       "answer_change": "meaningful_change",

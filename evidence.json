@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "google-status-2026-10-16",
+      "source_type": "official-guide",
+      "source_url": "https://docs.cloud.google.com/billing/docs/how-to/verify-billing-enabled",
+      "title": "Verify billing status",
+      "claim": "The account must be active and in good standing; Billing overview and Payment overview show status issues.",
+      "accessed_at": "2026-10-16T11:26:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "google-account-2026-10-16",
+      "source_type": "official-guide",
+      "source_url": "https://docs.cloud.google.com/billing/docs/how-to/create-billing-account",
+      "title": "Create a Cloud Billing account",
+      "claim": "A temporary card authorization is not an actual charge; India billing accounts need identity verification within 30 days.",
+      "accessed_at": "2026-10-16T11:26:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "google-upi-2026-10-16",
+      "source_type": "official-guide",
+      "source_url": "https://docs.cloud.google.com/billing/docs/resources/upi-payment-india",
+      "title": "India UPI payments",
+      "claim": "Eligible India UPI users typically prepay INR 500–1,000 before using UPI.",
+      "accessed_at": "2026-10-16T11:26:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "google-payment-methods-2026-10-16",
+      "source_type": "official-guide",
+      "source_url": "https://docs.cloud.google.com/billing/docs/how-to/payment-methods",
+      "title": "Google Cloud payment methods",
+      "claim": "Some Postpay accounts require one-time prepayment; unused funds are refunded at account closure.",
+      "accessed_at": "2026-10-16T11:26:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "google-onboarding-2026-10-16",
+      "source_type": "official-guide",
+      "source_url": "https://cloud.google.com/startup/onboarding",
+      "title": "Startup onboarding",
+      "claim": "Approved credits attach to the Billing ID submitted in the application.",
+      "accessed_at": "2026-10-16T11:26:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "google-pre-funded-2026-10-16",
+      "source_type": "official-guide",
+      "source_url": "https://cloud.google.com/startup/pre-funded",
+      "title": "Google Start tier",
+      "claim": "Start lists a discretionary USD 2,000 credit for eligible pre-funded startups, valid for 12 months, and asks for a Billing ID.",
+      "accessed_at": "2026-10-16T11:26:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "microsoft-application-route-2026-10-15",
       "source_type": "official-guide",
       "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "google-india-billing-check-2026-10-16",
+      "changed_at": "2026-10-16T11:26:33Z",
+      "summary": "Distinguished Google Start Billing ID from credit approval, and India Postpay prepayment from a temporary card authorization.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-16-google-start-india-billing-check"
+    },
+    {
       "change_id": "microsoft-route-and-account-gate-2026-10-15",
       "changed_at": "2026-10-15T11:09:00Z",
       "summary": "Updated Microsoft stage, account-history and route-specific starter-credit checks; the no-code amount remains inconsistent across live issuer guides.",

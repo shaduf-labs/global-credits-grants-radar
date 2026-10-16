@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Microsoft’s updated application guide excludes Series C or later and shows USD 200 at no-code entry versus USD 1,000 with an Investor Network code. Its older live activation guide still says USD 1,000 without a code. Confirm the actual no-code balance and account eligibility before planning Azure spend; credits are not cash.",
+  "current_answer": "Google Start offers eligible pre-funded startups up to USD 2,000 in Cloud credits for 12 months, but the credited Billing ID and payment setup matter. In India, some payment methods require a real one-time Postpay prepayment. Google says qualified India organisations using UPI typically needs INR 500–1,000; a temporary card authorization is different. Check the account status and payment type before paying. Neither payment nor a Billing ID guarantees programme approval.",
   "catalogue_card": {
-    "question": "Is the Microsoft no-code startup credit USD 200 or USD 1,000?",
-    "text": "The newer application guide says USD 200 without an investor code, but an older live activation guide still says USD 1,000. The newer guide also excludes Series C and asks for a personal Microsoft account with no prior Azure account. Check your actual balance before deployment."
+    "question": "Is that INR 1,000 Google Cloud prompt a refundable hold?",
+    "text": "Not necessarily. Google says qualified India organisations using UPI typically needs an INR 500–1,000 prepayment; a card authorization is a different, temporary hold. Google Start credits attach to the Billing ID you submit only if approved. Check the Billing Payment overview before paying."
   },
   "summary": [
-    "The 9 October application guide lists pre-seed through Series B; Microsoft’s overview also excludes Series C or later.",
-    "The newer guide shows USD 200 without an investor code and USD 1,000 with one; the older activation guide still says USD 1,000 without a code.",
-    "The guide asks applicants to prepare a personal Microsoft account with no prior Azure account and payment details; sponsorship converts to pay-as-you-go after use or expiry."
+    "Google Start lists up to USD 2,000 in Cloud credits for 12 months and asks for an 18-character Billing ID; approval is discretionary.",
+    "Some Postpay accounts require a one-time prepayment. Google says qualified India organisations using UPI typically prepay INR 500–1,000; unused Postpay prepayment is refundable at closure.",
+    "A temporary card authorization is not an actual charge. An India billing account also needs identity verification within 30 days."
   ],
   "uncertainty": [
-    "Two live Microsoft guides still disagree on the no-code starter amount and do not establish an applicant-specific credit validity period.",
-    "The no-prior-Azure-account preparation line does not establish every account-history exception or guarantee approval.",
-    "Older programme rows keep their dated verification limits."
+    "The account-specific INR 1,000 prompt, billing status, payment type and award are unknown without the applicant’s console.",
+    "A payment does not prove Start eligibility or guarantee approval.",
+    "Other catalogue entries retain their dated verification limits."
   ],
-  "checked_at": "2026-10-15T11:09:00Z",
-  "meaningfully_updated_at": "2026-10-15T11:09:00Z",
-  "freshness_note": "Microsoft application, activation and overview pages checked 15 October 2026. Other catalogue entries retain their dated checks."
+  "checked_at": "2026-10-16T11:26:33Z",
+  "meaningfully_updated_at": "2026-10-16T11:26:33Z",
+  "freshness_note": "Google Start, startup onboarding, billing and India UPI pages checked 16 October 2026. Other catalogue entries retain their dated checks."
 }
