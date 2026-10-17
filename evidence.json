@@ -2,6 +2,76 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "aws-agent-2026-10-17",
+      "source_type": "official-issuer",
+      "source_url": "https://aws.amazon.com/aws-startups/credits/apply-using-your-ai-agent/",
+      "title": "AWS Activate credits in your AI agent",
+      "claim": "AWS says the applicant reviews and submits an agent-prepared application; the page lists a paid support plan.",
+      "accessed_at": "2026-10-17T23:10:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-main-2026-10-17",
+      "source_type": "official-issuer",
+      "source_url": "https://aws.amazon.com/startups/credits/",
+      "title": "AWS Activate Credits",
+      "claim": "The main programme lists a Paid Tier Plan and separates Founders from Portfolio.",
+      "accessed_at": "2026-10-17T23:10:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-account-2026-10-17",
+      "source_type": "official-issuer",
+      "source_url": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/free-tier-plans.html",
+      "title": "Choosing an AWS account plan",
+      "claim": "AWS distinguishes Free and Paid account plans; Free plans cannot receive other promotional credits.",
+      "accessed_at": "2026-10-17T23:10:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-support-2026-10-17",
+      "source_type": "official-issuer",
+      "source_url": "https://aws.amazon.com/premiumsupport/plans/",
+      "title": "AWS Support plans",
+      "claim": "Basic Support is included for AWS customers; Support plans are distinct from account plans.",
+      "accessed_at": "2026-10-17T23:10:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-announcement-2026-10-17",
+      "source_type": "official-issuer",
+      "source_url": "https://aws.amazon.com/aws-startups/insights/build-migrate-and-operate-with-control-in-aws-startup-advisor/",
+      "title": "AWS Startup Advisor October update",
+      "claim": "AWS says Startup Advisor can populate an Activate application.",
+      "accessed_at": "2026-10-17T23:10:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-nlnet-2026-10-17",
+      "source_type": "official-issuer",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "NLnet application",
+      "claim": "The form still lists 3 November 2026 at 12:00 CET for Restack and CodeSupply.",
+      "accessed_at": "2026-10-17T23:10:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-interledger-2026-10-17",
+      "source_type": "official-issuer",
+      "source_url": "https://interledger.org/grant/local-impact-grant/",
+      "title": "Interledger Local Impact",
+      "claim": "The grant page still says applications are paused.",
+      "accessed_at": "2026-10-17T23:10:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "google-status-2026-10-16",
       "source_type": "official-guide",
       "source_url": "https://docs.cloud.google.com/billing/docs/how-to/verify-billing-enabled",

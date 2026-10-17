@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "aws-agent-plan-language-2026-10-17",
+      "changed_at": "2026-10-17T23:10:00Z",
+      "summary": "Separated the new AWS agent-assisted application from existing credit tiers and flagged the unresolved paid Support versus Paid account plan wording.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-17-aws-agent-application-support-plan-check"
+    },
+    {
       "change_id": "google-india-billing-check-2026-10-16",
       "changed_at": "2026-10-16T11:26:33Z",
       "summary": "Distinguished Google Start Billing ID from credit approval, and India Postpay prepayment from a temporary card authorization.",

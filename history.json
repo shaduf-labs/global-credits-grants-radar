@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-ff5d995964bc3fd91dade0f4",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-17T10:30:00Z",
+      "completed_at": "2026-10-17T23:12:00Z",
+      "title": "AWS agent-assisted credit applications: check the plan wording",
+      "summary": "AWS offers agent-assisted application preparation, but the applicant submits. Its agent page says paid Support while the main programme says Paid account plan; that extra requirement is unresolved.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-17-aws-agent-application-support-plan-check",
+      "entrypoint": "research/2026-10-17-aws-agent-application-support-plan-check/index.html"
+    },
+    {
       "run_id": "report-d509ed1892b7fa25f3db5924",
       "status": "completed",
       "answer_change": "meaningful_change",

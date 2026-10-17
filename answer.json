@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Google Start offers eligible pre-funded startups up to USD 2,000 in Cloud credits for 12 months, but the credited Billing ID and payment setup matter. In India, some payment methods require a real one-time Postpay prepayment. Google says qualified India organisations using UPI typically needs INR 500–1,000; a temporary card authorization is different. Check the account status and payment type before paying. Neither payment nor a Billing ID guarantees programme approval.",
+  "current_answer": "AWS now offers agent-assisted preparation for Activate applications, but the applicant reviews and submits. The agent page says “paid support plan” while the main Activate page says “Paid Tier Plan.” AWS separates Paid account plans from paid Support subscriptions. Founders remains a direct self-funded route starting at USD 1,000, with selected applicants possibly reaching USD 5,000; Portfolio needs a provider Org ID. Do not buy Support solely from the agent page wording; verify the current flow or ask AWS.",
   "catalogue_card": {
-    "question": "Is that INR 1,000 Google Cloud prompt a refundable hold?",
-    "text": "Not necessarily. Google says qualified India organisations using UPI typically needs an INR 500–1,000 prepayment; a card authorization is a different, temporary hold. Google Start credits attach to the Billing ID you submit only if approved. Check the Billing Payment overview before paying."
+    "question": "Does an AWS credit application need paid Support?",
+    "text": "The new agent-assisted page says “paid support plan,” but the main Activate page says “Paid Tier Plan.” AWS treats these as different products. You review and submit any agent-prepared application. Confirm the agent-route requirement with AWS before buying Support."
   },
   "summary": [
-    "Google Start lists up to USD 2,000 in Cloud credits for 12 months and asks for an 18-character Billing ID; approval is discretionary.",
-    "Some Postpay accounts require a one-time prepayment. Google says qualified India organisations using UPI typically prepay INR 500–1,000; unused Postpay prepayment is refundable at closure.",
-    "A temporary card authorization is not an actual charge. An India billing account also needs identity verification within 30 days."
+    "AWS Startup Advisor can prepare an Activate application; the applicant reviews and submits.",
+    "The agent page says paid support plan; the main programme says Paid Tier Plan. AWS Billing distinguishes Paid account plans from Support subscriptions.",
+    "Founders starts at USD 1,000 for self-funded startups; selected applicants may get up to USD 5,000. Portfolio requires an Activate Provider Org ID."
   ],
   "uncertainty": [
-    "The account-specific INR 1,000 prompt, billing status, payment type and award are unknown without the applicant’s console.",
-    "A payment does not prove Start eligibility or guarantee approval.",
+    "Whether paid Support is an extra requirement for the agent-assisted path is unresolved.",
+    "No signed-in AWS application or billing account was inspected.",
     "Other catalogue entries retain their dated verification limits."
   ],
-  "checked_at": "2026-10-16T11:26:33Z",
-  "meaningfully_updated_at": "2026-10-16T11:26:33Z",
-  "freshness_note": "Google Start, startup onboarding, billing and India UPI pages checked 16 October 2026. Other catalogue entries retain their dated checks."
+  "checked_at": "2026-10-17T23:10:00Z",
+  "meaningfully_updated_at": "2026-10-17T23:10:00Z",
+  "freshness_note": "AWS programme, agent path, account plan and Support pages checked 17 October 2026. NLnet and Interledger statuses rechecked. Other entries keep their own dates."
 }
