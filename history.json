@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-47b23f31a81f00895679a007",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-18T10:30:00Z",
+      "completed_at": "2026-10-18T10:38:00Z",
+      "title": "OpenAI API credit route needs a VC referral",
+      "summary": "OpenAI describes possible partner-VC API credits but publishes no universal amount or expiry; standard billing begins when credits run out.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-18-openai-vc-api-credit-gate",
+      "entrypoint": "research/2026-10-18-openai-vc-api-credit-gate/index.html"
+    },
+    {
       "run_id": "report-ff5d995964bc3fd91dade0f4",
       "status": "completed",
       "answer_change": "meaningful_change",

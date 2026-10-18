@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "openai-vc-api-credit-gate-2026-10-18",
+      "changed_at": "2026-10-18T10:38:00Z",
+      "summary": "Added OpenAI’s VC-referral API-credit route with unpublished amount and expiry, required application details, and post-credit billing warning. Rechecked NLnet and Interledger status.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-18-openai-vc-api-credit-gate"
+    },
+    {
       "change_id": "aws-agent-plan-language-2026-10-17",
       "changed_at": "2026-10-17T23:10:00Z",
       "summary": "Separated the new AWS agent-assisted application from existing credit tiers and flagged the unresolved paid Support versus Paid account plan wording.",

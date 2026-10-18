@@ -1,22 +1,21 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "AWS now offers agent-assisted preparation for Activate applications, but the applicant reviews and submits. The agent page says “paid support plan” while the main Activate page says “Paid Tier Plan.” AWS separates Paid account plans from paid Support subscriptions. Founders remains a direct self-funded route starting at USD 1,000, with selected applicants possibly reaching USD 5,000; Portfolio needs a provider Org ID. Do not buy Support solely from the agent page wording; verify the current flow or ask AWS.",
+  "current_answer": "OpenAI publishes a partner-VC referral path to possible API credits, not a universal credit amount. Ask the VC for its code, then verify the offer amount, expiry and covered API usage in the credited organisation. OpenAI says standard billing begins when credits run out. Self-funded founders should not assume this published route grants them API credit.",
   "catalogue_card": {
-    "question": "Does an AWS credit application need paid Support?",
-    "text": "The new agent-assisted page says “paid support plan,” but the main Activate page says “Paid Tier Plan.” AWS treats these as different products. You review and submit any agent-prepared application. Confirm the agent-route requirement with AWS before buying Support."
+    "question": "Can a startup claim OpenAI API credits directly?",
+    "text": "OpenAI’s published startup-credit path runs through a partner VC and a unique referral code. The public FAQ gives no universal amount or expiry; standard billing begins when credits run out. Check the actual offer before spending."
   },
   "summary": [
-    "AWS Startup Advisor can prepare an Activate application; the applicant reviews and submits.",
-    "The agent page says paid support plan; the main programme says Paid Tier Plan. AWS Billing distinguishes Paid account plans from Support subscriptions.",
-    "Founders starts at USD 1,000 for self-funded startups; selected applicants may get up to USD 5,000. Portfolio requires an Activate Provider Org ID."
+    "Partner-VC portfolio companies may be eligible for OpenAI API credits; the application needs a unique VC code and company/API-use details.",
+    "The public FAQ does not state a universal amount, expiry, cutoff, geography or covered-usage schedule.",
+    "NLnet still lists 3 November for Restack and CodeSupply; Interledger Local Impact remains paused. Other rows retain their dates."
   ],
   "uncertainty": [
-    "Whether paid Support is an extra requirement for the agent-assisted path is unresolved.",
-    "No signed-in AWS application or billing account was inspected.",
-    "Other catalogue entries retain their dated verification limits."
+    "Partner-specific allocation, duration, geography, covered API usage and approval require the actual offer or account.",
+    "No first-party visitor analytics or applicant outcome are available."
   ],
-  "checked_at": "2026-10-17T23:10:00Z",
-  "meaningfully_updated_at": "2026-10-17T23:10:00Z",
-  "freshness_note": "AWS programme, agent path, account plan and Support pages checked 17 October 2026. NLnet and Interledger statuses rechecked. Other entries keep their own dates."
+  "checked_at": "2026-10-18T10:38:00Z",
+  "meaningfully_updated_at": "2026-10-18T10:38:00Z",
+  "freshness_note": "OpenAI for Startups FAQ, NLnet form and Interledger Local Impact page checked 18 October 2026. Other entries keep their own dates."
 }

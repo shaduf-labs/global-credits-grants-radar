@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "openai-vc-route-2026-10-18",
+      "source_type": "official-issuer",
+      "source_url": "https://openai.com/business/why-openai/startups/",
+      "title": "OpenAI for Startups FAQ",
+      "claim": "Partner-VC portfolio companies may qualify for API credits; application calls for a VC referral code and company details. No universal amount or expiry appears on the checked page; standard billing begins when credits run out.",
+      "accessed_at": "2026-10-18T10:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "aws-agent-2026-10-17",
       "source_type": "official-issuer",
       "source_url": "https://aws.amazon.com/aws-startups/credits/apply-using-your-ai-agent/",
