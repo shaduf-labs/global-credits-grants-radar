@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "openai-oss-maintainer-credit-scope-2026-10-19",
+      "changed_at": "2026-10-19T10:34:15Z",
+      "summary": "Added a distinct rolling OpenAI maintainer route with optional API credits for open-source workflows; separated it from commercial startup API spend and the VC-referral route.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-19-openai-oss-maintainer-credit-scope"
+    },
+    {
       "change_id": "openai-vc-api-credit-gate-2026-10-18",
       "changed_at": "2026-10-18T10:38:00Z",
       "summary": "Added OpenAI’s VC-referral API-credit route with unpublished amount and expiry, required application details, and post-credit billing warning. Rechecked NLnet and Interledger status.",

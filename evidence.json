@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "oss-terms-2026-10-19",
+      "source_type": "official-issuer",
+      "source_url": "https://developers.openai.com/codex/codex-for-oss-terms",
+      "title": "Codex for Open Source Program Terms",
+      "claim": "Benefits are discretionary and API credits may need separate review or conditions; they are not a guaranteed award.",
+      "accessed_at": "2026-10-19T10:34:15Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "oss-form-2026-10-19",
+      "source_type": "official-issuer",
+      "source_url": "https://openai.com/form/codex-for-oss/",
+      "title": "Codex for Open Source application",
+      "claim": "Rolling form asks for public GitHub profile and repository, role, project case, Organization ID and intended API-credit use.",
+      "accessed_at": "2026-10-19T10:34:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "oss-program-2026-10-19",
+      "source_type": "official-issuer",
+      "source_url": "https://developers.openai.com/community/codex-for-oss",
+      "title": "Codex for Open Source programme",
+      "claim": "Selected active maintainers may receive API credits for eligible maintenance workflows, six months of ChatGPT Pro with Codex and conditional security access.",
+      "accessed_at": "2026-10-19T10:34:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "openai-vc-route-2026-10-18",
       "source_type": "official-issuer",
       "source_url": "https://openai.com/business/why-openai/startups/",

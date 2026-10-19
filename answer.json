@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "OpenAI publishes a partner-VC referral path to possible API credits, not a universal credit amount. Ask the VC for its code, then verify the offer amount, expiry and covered API usage in the credited organisation. OpenAI says standard billing begins when credits run out. Self-funded founders should not assume this published route grants them API credit.",
+  "current_answer": "OpenAI has a separate rolling application for active open-source maintainers. Selected applicants may receive API credits for eligible maintenance workflows, but the amount and validity are not universally published; credits may require separate review. This is not a general commercial app inference subsidy. OpenAI for Startups remains a different partner-VC route.",
   "catalogue_card": {
-    "question": "Can a startup claim OpenAI API credits directly?",
-    "text": "OpenAI’s published startup-credit path runs through a partner VC and a unique referral code. The public FAQ gives no universal amount or expiry; standard billing begins when credits run out. Check the actual offer before spending."
+    "question": "Can an unfunded builder use OpenAI open-source API credits?",
+    "text": "Only if the work fits OpenAI’s maintainer programme: active public-project maintainers can apply, but API credits are optional and aimed at maintenance workflows. The issuer publishes no universal amount or expiry. Do not budget them for a commercial app."
   },
   "summary": [
-    "Partner-VC portfolio companies may be eligible for OpenAI API credits; the application needs a unique VC code and company/API-use details.",
-    "The public FAQ does not state a universal amount, expiry, cutoff, geography or covered-usage schedule.",
-    "NLnet still lists 3 November for Restack and CodeSupply; Interledger Local Impact remains paused. Other rows retain their dates."
+    "Active public-project maintainers can apply on a rolling basis; the form asks for repository, role, importance, Organization ID and intended use.",
+    "API credits are optional and separately reviewed; six months of ChatGPT Pro with Codex is a separate benefit for selected applicants.",
+    "The existing partner-VC startup route remains separate; a self-funded commercial app should not assume either route pays its API bill."
   ],
   "uncertainty": [
-    "Partner-specific allocation, duration, geography, covered API usage and approval require the actual offer or account.",
+    "API-credit amount, validity, geography, award, covered usage and individual account balance remain unknown.",
     "No first-party visitor analytics or applicant outcome are available."
   ],
-  "checked_at": "2026-10-18T10:38:00Z",
-  "meaningfully_updated_at": "2026-10-18T10:38:00Z",
-  "freshness_note": "OpenAI for Startups FAQ, NLnet form and Interledger Local Impact page checked 18 October 2026. Other entries keep their own dates."
+  "checked_at": "2026-10-19T10:34:15Z",
+  "meaningfully_updated_at": "2026-10-19T10:34:15Z",
+  "freshness_note": "Codex for Open Source programme, application and terms checked 19 October 2026. Other entries retain their own check dates."
 }

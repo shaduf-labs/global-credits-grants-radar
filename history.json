@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-0a206a540e4fa5aa7a76c007",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-19T10:30:00Z",
+      "completed_at": "2026-10-19T10:34:15Z",
+      "title": "OpenAI API credits for open-source maintainers are not a startup inference budget",
+      "summary": "OpenAI’s rolling maintainer programme may award API credits for eligible open-source work, but it publishes no universal amount or validity and is not a general startup API budget.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-19-openai-oss-maintainer-credit-scope",
+      "entrypoint": "research/2026-10-19-openai-oss-maintainer-credit-scope/index.html"
+    },
+    {
       "run_id": "report-47b23f31a81f00895679a007",
       "status": "completed",
       "answer_change": "meaningful_change",
