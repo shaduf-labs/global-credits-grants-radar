@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-ee3647efd7894a718b6862d3",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-20T10:30:00Z",
+      "completed_at": "2026-10-20T10:37:14Z",
+      "title": "NLnet CodeSupply: prepare the form and AI-use record before 3 November",
+      "summary": "The first call remains open until 3 November at noon CET; the live form needs a costed technical case and AI-use disclosure, while payment follows completed milestones.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-20-codesupply-form-ai-disclosure",
+      "entrypoint": "research/2026-10-20-codesupply-form-ai-disclosure/index.html"
+    },
+    {
       "run_id": "report-0a206a540e4fa5aa7a76c007",
       "status": "completed",
       "answer_change": "meaningful_change",

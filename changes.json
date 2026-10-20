@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "codesupply-application-packet-2026-10-20",
+      "changed_at": "2026-10-20T10:35:07Z",
+      "summary": "Rechecked CodeSupply’s 3 November call and added the live-form fields, AI-use disclosure and after-milestone payment timing to the applicant preflight.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-20-codesupply-form-ai-disclosure"
+    },
+    {
       "change_id": "openai-oss-maintainer-credit-scope-2026-10-19",
       "changed_at": "2026-10-19T10:34:15Z",
       "summary": "Added a distinct rolling OpenAI maintainer route with optional API credits for open-source workflows; separated it from commercial startup API spend and the VC-referral route.",

@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "codesupply-form-2026-10-20",
+      "source_type": "official-issuer",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "Nlnet Application",
+      "claim": "Live form asks for fund, summary, task/rate budget, comparison, technical challenges, ecosystem, background, other funding and AI-use disclosure.",
+      "accessed_at": "2026-10-20T10:35:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "codesupply-policy-2026-10-20",
+      "source_type": "official-issuer",
+      "source_url": "https://nlnet.nl/foundation/policies/generativeAI/",
+      "title": "Nlnet Genai Policy",
+      "claim": "Disclosed generative-AI assistance is permitted with a prompt provenance log; purely AI-generated funded outcomes are excluded.",
+      "accessed_at": "2026-10-20T10:35:07Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "codesupply-guide-2026-10-20",
+      "source_type": "official-issuer",
+      "source_url": "https://nlnet.nl/codesupply/guideforapplicants/",
+      "title": "Nlnet Codesupply Guide",
+      "claim": "CodeSupply first checks eligibility, then weighs technical feasibility, relevance/impact and value for money.",
+      "accessed_at": "2026-10-20T10:35:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "codesupply-deadline-2026-10-20",
+      "source_type": "official-issuer",
+      "source_url": "https://nlnet.nl/codesupply/",
+      "title": "Nlnet Codesupply",
+      "claim": "First call remains listed through 3 November 2026 at 12:00 CET; first requests are EUR 5,000–50,000.",
+      "accessed_at": "2026-10-20T10:35:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "codesupply-payment-2026-10-20",
+      "source_type": "official-issuer",
+      "source_url": "https://nlnet.nl/codesupply/faq/",
+      "title": "Nlnet Codesupply Faq",
+      "claim": "NLnet estimates three to five months of review after the deadline and pays completed milestones rather than advancing funds.",
+      "accessed_at": "2026-10-20T10:35:07Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "oss-terms-2026-10-19",
       "source_type": "official-issuer",
       "source_url": "https://developers.openai.com/codex/codex-for-oss-terms",
