@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-605be843ab1a0a5501691622",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-21T10:30:00Z",
+      "completed_at": "2026-10-21T10:38:08Z",
+      "title": "A paid AWS account is not a paid Support plan",
+      "summary": "AWS’s standard and agent-assisted application pages still use different plan terms. The products and costs are distinct; the extra agent-route requirement remains unconfirmed.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-21-aws-paid-account-is-not-paid-support",
+      "entrypoint": "research/2026-10-21-aws-paid-account-is-not-paid-support/index.html"
+    },
+    {
       "run_id": "report-ee3647efd7894a718b6862d3",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -1,22 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "NLnet CodeSupply is open to 3 November 2026, 12:00 CET for open-source software supply-chain R&D. A first application can request EUR 5,000–50,000, but selection is competitive and a strong European dimension is required. The live form needs a technical case and costed work plan; generative-AI assistance must be disclosed with a prompt log. Review is estimated at three to five months after the deadline and selected work is paid after milestones, not up front.",
+  "current_answer": "AWS Activate’s standard application requires a Paid account plan, not a stated premium Support subscription. The optional AI-agent page still says “paid support plan”; AWS has not reconciled that wording. Basic Support is included, while Business Support+ currently starts at USD 29 per month per account or a higher usage-based charge. Ask AWS before buying Support for the agent route. NLnet CodeSupply’s 3 November call remains live.",
   "catalogue_card": {
-    "question": "Can you prepare a CodeSupply proposal before 3 November?",
-    "text": "The call is open to individuals and organisations working on open-source software supply-chain R&D. Request EUR 5,000–50,000, but first check the European rule, costed tasks and AI-use log. NLnet reviews after the deadline and pays selected work after milestones—not up front."
+    "question": "Do AWS Activate applicants need to buy Support?",
+    "text": "The standard route names a Paid AWS account. The optional AI-agent page says “paid support plan,” but AWS has not clarified whether that means an extra subscription. Basic Support is included; Business Support+ starts at USD 29/month. Ask before paying."
   },
   "summary": [
-    "The first-call deadline is 3 November 2026, 12:00 CET; the shared form is live and attachments are optional.",
-    "The form asks for a concise technical case, task/rate budget, comparison with existing work, technical risks, ecosystem, experience and other funding.",
-    "Disclose generative-AI help with a prompt log; approval and the applicant-specific award remain unknown."
+    "AWS Billing distinguishes Paid account plans from premium Support; Free accounts cannot receive other promotional credits.",
+    "The agent-assisted page still says “paid support plan,” while the main Activate page says “Paid Tier Plan.”",
+    "AWS lists a USD 29 monthly Business Support+ minimum or a higher percentage charge, with a 30-day minimum commitment.",
+    "NLnet CodeSupply’s 3 November 2026, 12:00 CET call and shared form remain live."
   ],
   "uncertainty": [
-    "The public form was not submitted or tested end to end.",
-    "Applicant-specific European fit, award, review outcome and first payment date are unknown.",
-    "No first-party visitor analytics or applicant outcome are available."
+    "AWS has not clarified whether a paid Support subscription is required for the optional agent-assisted route.",
+    "No signed-in Activate application, support subscription or account-specific credit was tested.",
+    "CodeSupply applicant-specific eligibility and award remain unknown; first-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-20T10:35:07Z",
-  "meaningfully_updated_at": "2026-10-20T10:35:07Z",
-  "freshness_note": "CodeSupply call, guide, form, FAQ and GenAI policy checked 20 October 2026. Other entries retain their own check dates."
+  "checked_at": "2026-10-21T10:36:02Z",
+  "meaningfully_updated_at": "2026-10-21T10:36:02Z",
+  "freshness_note": "AWS Activate, Billing and Support pages plus NLnet CodeSupply and its form checked 21 October 2026. Other catalogue rows retain their own check dates."
 }

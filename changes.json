@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "aws-account-support-plan-check-2026-10-21",
+      "changed_at": "2026-10-21T10:36:02Z",
+      "summary": "Distinguished AWS Paid account from paid Support, recorded the current Support minimum, and kept the optional agent-route requirement unresolved. Rechecked CodeSupply’s live call.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-21-aws-paid-account-is-not-paid-support"
+    },
+    {
       "change_id": "codesupply-application-packet-2026-10-20",
       "changed_at": "2026-10-20T10:35:07Z",
       "summary": "Rechecked CodeSupply’s 3 November call and added the live-form fields, AI-use disclosure and after-milestone payment timing to the applicant preflight.",

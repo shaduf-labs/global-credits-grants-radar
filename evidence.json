@@ -2,6 +2,76 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "aws-plan-form-2026-10-21",
+      "source_type": "official-issuer",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "NLnet grant form",
+      "claim": "The shared NLnet application form still lists the 3 November deadline.",
+      "accessed_at": "2026-10-21T10:36:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-plan-codesupply-2026-10-21",
+      "source_type": "official-issuer",
+      "source_url": "https://nlnet.nl/codesupply/",
+      "title": "NLnet CodeSupply",
+      "claim": "CodeSupply first-call deadline is 3 November 2026 at noon CET.",
+      "accessed_at": "2026-10-21T10:36:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-plan-faq-2026-10-21",
+      "source_type": "official-issuer",
+      "source_url": "https://aws.amazon.com/premiumsupport/faqs/",
+      "title": "AWS Support FAQ",
+      "claim": "AWS distinguishes Basic from premium Support tiers.",
+      "accessed_at": "2026-10-21T10:36:02Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-plan-support-2026-10-21",
+      "source_type": "official-issuer",
+      "source_url": "https://aws.amazon.com/premiumsupport/pricing/",
+      "title": "AWS Support pricing",
+      "claim": "Basic Support is included; Business Support+ has a USD 29 monthly minimum or a higher percentage and a 30-day minimum commitment.",
+      "accessed_at": "2026-10-21T10:36:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-plan-account-2026-10-21",
+      "source_type": "official-issuer",
+      "source_url": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/free-tier-plans.html",
+      "title": "AWS Billing account plans",
+      "claim": "Paid account plan is pay-as-you-go; Free account plans cannot receive other promotional credits.",
+      "accessed_at": "2026-10-21T10:36:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-plan-tiers-2026-10-21",
+      "source_type": "official-issuer",
+      "source_url": "https://aws.amazon.com/startups/credits/",
+      "title": "AWS Activate credits",
+      "claim": "Standard Activate page lists a Paid Tier account and tier conditions.",
+      "accessed_at": "2026-10-21T10:36:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-plan-agent-2026-10-21",
+      "source_type": "official-issuer",
+      "source_url": "https://aws.amazon.com/aws-startups/credits/apply-using-your-ai-agent/",
+      "title": "AWS agent-assisted application",
+      "claim": "Optional agent-assisted application page lists a paid support plan; applicant reviews and submits.",
+      "accessed_at": "2026-10-21T10:36:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "codesupply-form-2026-10-20",
       "source_type": "official-issuer",
       "source_url": "https://nlnet.nl/propose/",
