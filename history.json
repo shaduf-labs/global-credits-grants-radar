@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-4b4cdb6c44162f652314e42a",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-22T10:30:00Z",
+      "completed_at": "2026-10-22T10:38:10Z",
+      "title": "NLnet changed its AI rule before the 3 November grant deadline",
+      "summary": "Policy v2.0 bars AI-assisted proposal writing except disclosed accessibility use and AI-generated funded deliverables; read-only checks remain allowed. CodeSupply and Restack stay open.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-22-nlnet-ai-policy-v2",
+      "entrypoint": "research/2026-10-22-nlnet-ai-policy-v2/index.html"
+    },
+    {
       "run_id": "report-605be843ab1a0a5501691622",
       "status": "completed",
       "answer_change": "meaningful_change",

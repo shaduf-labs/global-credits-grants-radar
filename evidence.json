@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "nlnet-policy-v2-2026-10-22",
+      "source_type": "official-issuer",
+      "source_url": "https://nlnet.nl/foundation/policies/generativeAI/2.0/",
+      "title": "NLnet generative AI policy v2.0",
+      "claim": "Policy effective 20 October 2026 bars GenAI proposal writing except disclosed accessibility use and bars AI-generated funded deliverables; read-only checks may be used transparently.",
+      "accessed_at": "2026-10-22T10:34:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-announcement-2026-10-22",
+      "source_type": "official-issuer",
+      "source_url": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
+      "title": "NLnet policy announcement",
+      "claim": "The new rule applies to the 3 November CodeSupply and Restack calls; pre-20-October AI-written proposals need not be resubmitted solely for past writing.",
+      "accessed_at": "2026-10-22T10:34:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-form-2026-10-22",
+      "source_type": "official-issuer",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "NLnet application form",
+      "claim": "The open form still lists 3 November at noon CET and retains AI-use disclosure fields; applicants must follow current policy.",
+      "accessed_at": "2026-10-22T10:34:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "aws-plan-form-2026-10-21",
       "source_type": "official-issuer",
       "source_url": "https://nlnet.nl/propose/",
@@ -84,9 +114,9 @@
     {
       "evidence_id": "codesupply-policy-2026-10-20",
       "source_type": "official-issuer",
-      "source_url": "https://nlnet.nl/foundation/policies/generativeAI/",
+      "source_url": "https://nlnet.nl/foundation/policies/generativeAI/1.1/",
       "title": "Nlnet Genai Policy",
-      "claim": "Disclosed generative-AI assistance is permitted with a prompt provenance log; purely AI-generated funded outcomes are excluded.",
+      "claim": "The prior v1.1 policy allowed disclosed generative-AI assistance; v2.0 superseded it on 20 October 2026.",
       "accessed_at": "2026-10-20T10:35:07Z",
       "relation": "limits",
       "publication_basis": "linked-summary"

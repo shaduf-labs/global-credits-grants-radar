@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "AWS Activate’s standard application requires a Paid account plan, not a stated premium Support subscription. The optional AI-agent page still says “paid support plan”; AWS has not reconciled that wording. Basic Support is included, while Business Support+ currently starts at USD 29 per month per account or a higher usage-based charge. Ask AWS before buying Support for the agent route. NLnet CodeSupply’s 3 November call remains live.",
+  "current_answer": "NLnet policy v2.0, effective 20 October 2026, changes the application gate for the open CodeSupply and Restack calls. Applicants may not use generative AI to write proposals, except disclosed assistance needed for accessibility. Funded deliverables cannot be AI-generated; read-only checks are allowed with transparency. The 3 November, 12:00 CET call remains open. CodeSupply’s EUR 5,000–50,000 first-project request is competitive and paid after milestones, not in advance.",
   "catalogue_card": {
-    "question": "Do AWS Activate applicants need to buy Support?",
-    "text": "The standard route names a Paid AWS account. The optional AI-agent page says “paid support plan,” but AWS has not clarified whether that means an extra subscription. Basic Support is included; Business Support+ starts at USD 29/month. Ask before paying."
+    "question": "Can you use AI to prepare NLnet’s 3 November grant application?",
+    "text": "NLnet’s 20 October policy v2.0 says no AI proposal writing or idea generation for CodeSupply and Restack, except disclosed accessibility assistance. Read-only checks may be used during funded development; AI-generated deliverables cannot. The 3 November, noon CET call remains open."
   },
   "summary": [
-    "AWS Billing distinguishes Paid account plans from premium Support; Free accounts cannot receive other promotional credits.",
-    "The agent-assisted page still says “paid support plan,” while the main Activate page says “Paid Tier Plan.”",
-    "AWS lists a USD 29 monthly Business Support+ minimum or a higher percentage charge, with a 30-day minimum commitment.",
-    "NLnet CodeSupply’s 3 November 2026, 12:00 CET call and shared form remain live."
+    "Policy v2.0 applies to the current Restack and CodeSupply calls despite older form disclosure text and archived Q&A.",
+    "Applicants who wrote a proposal with AI before 20 October need not resubmit solely for that writing; proposed work that conflicts with v2.0 can be revised before the deadline.",
+    "CodeSupply remains a competitive EUR 5,000–50,000 first-project request for open-source software supply-chain work; payment follows completed milestones."
   ],
   "uncertainty": [
-    "AWS has not clarified whether a paid Support subscription is required for the optional agent-assisted route.",
-    "No signed-in Activate application, support subscription or account-specific credit was tested.",
-    "CodeSupply applicant-specific eligibility and award remain unknown; first-party analytics are unavailable."
+    "Applicant-specific interpretation of borderline read-only use, accessibility support and significant pre-existing generated code remains with NLnet.",
+    "No application was submitted or award verified; first-party analytics and applicant outcomes are unavailable."
   ],
-  "checked_at": "2026-10-21T10:36:02Z",
-  "meaningfully_updated_at": "2026-10-21T10:36:02Z",
-  "freshness_note": "AWS Activate, Billing and Support pages plus NLnet CodeSupply and its form checked 21 October 2026. Other catalogue rows retain their own check dates."
+  "checked_at": "2026-10-22T10:34:00Z",
+  "meaningfully_updated_at": "2026-10-22T10:34:00Z",
+  "freshness_note": "NLnet policy v2.0, announcement, CodeSupply page and form checked 22 October 2026. Other catalogue rows retain their own check dates."
 }

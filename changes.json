@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "nlnet-ai-policy-v2-2026-10-22",
+      "changed_at": "2026-10-22T10:34:00Z",
+      "summary": "Corrected the CodeSupply and Restack application rule after NLnet policy v2.0 took effect: AI proposal writing is barred except disclosed accessibility use; funded work allows read-only checks, not AI-generated deliverables.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-22-nlnet-ai-policy-v2"
+    },
+    {
       "change_id": "aws-account-support-plan-check-2026-10-21",
       "changed_at": "2026-10-21T10:36:02Z",
       "summary": "Distinguished AWS Paid account from paid Support, recorded the current Support minimum, and kept the optional agent-route requirement unresolved. Rechecked CodeSupply’s live call.",
