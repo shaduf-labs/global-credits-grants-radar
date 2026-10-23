@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "bridgeai-ifs-2026-10-23",
+      "source_type": "Official competition brief",
+      "title": "BridgeAI Deployment Catalyst: AI for Operational Systems",
+      "source_url": "https://apply-for-innovation-funding.service.gov.uk/competition/2599/overview/1931f35c-87fe-4b6a-a718-a61a2d00e86a",
+      "claim": "Phase 1 is open through 8 December 2026 at 11:00 UK time. A UK AI SME with TRL 5–6 MVP and eligible UK deployer may lead a £100,000–£200,000 grant request; project, consortium, cost-share and strand restrictions apply.",
+      "accessed_at": "2026-10-23T10:34:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "bridgeai-ukri-2026-10-23",
+      "source_type": "Official issuer summary",
+      "title": "UKRI BridgeAI Operational Systems opportunity",
+      "source_url": "https://www.ukri.org/opportunity/bridgeai-deployment-catalyst-ai-for-operational-systems/",
+      "claim": "The opportunity is open; £5 million is the competition fund, with a UK SME lead and UK deployer required.",
+      "accessed_at": "2026-10-23T10:34:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "nlnet-policy-v2-2026-10-22",
       "source_type": "official-issuer",
       "source_url": "https://nlnet.nl/foundation/policies/generativeAI/2.0/",

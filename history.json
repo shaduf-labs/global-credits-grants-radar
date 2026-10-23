@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-37144db6cbd0d209b1698534",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-23T10:30:00Z",
+      "completed_at": "2026-10-23T10:36:49Z",
+      "title": "BridgeAI needs a UK deployer, not just an AI startup",
+      "summary": "The new Phase 1 grant is open to eligible UK AI SME-led consortia, with a £100,000–£200,000 request and partial cost coverage.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-23-bridgeai-consortium-gate",
+      "entrypoint": "research/2026-10-23-bridgeai-consortium-gate/index.html"
+    },
+    {
       "run_id": "report-4b4cdb6c44162f652314e42a",
       "status": "completed",
       "answer_change": "meaningful_change",

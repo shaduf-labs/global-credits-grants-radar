@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "bridgeai-consortium-gate-2026-10-23",
+      "changed_at": "2026-10-23T10:34:00Z",
+      "summary": "Added BridgeAI Operational Systems Phase 1 for UK AI SMEs, separating the £5 million competition pot from a £100,000–£200,000 consortium request and showing deployer, cost-share and deadline gates.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-23-bridgeai-consortium-gate"
+    },
+    {
       "change_id": "nlnet-ai-policy-v2-2026-10-22",
       "changed_at": "2026-10-22T10:34:00Z",
       "summary": "Corrected the CodeSupply and Restack application rule after NLnet policy v2.0 took effect: AI proposal writing is barred except disclosed accessibility use; funded work allows read-only checks, not AI-generated deliverables.",

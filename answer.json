@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "NLnet policy v2.0, effective 20 October 2026, changes the application gate for the open CodeSupply and Restack calls. Applicants may not use generative AI to write proposals, except disclosed assistance needed for accessibility. Funded deliverables cannot be AI-generated; read-only checks are allowed with transparency. The 3 November, 12:00 CET call remains open. CodeSupply’s EUR 5,000–50,000 first-project request is competitive and paid after milestones, not in advance.",
+  "current_answer": "BridgeAI Deployment Catalyst Phase 1 is open to a UK AI SME with a TRL 5–6 working product and an eligible UK deployer. The consortium may request £100,000–£200,000 in partial feasibility-grant funding by 8 December 2026, 11:00 UK time. The £5 million headline is the competition pot, not a per-startup award. Later stages are not guaranteed.",
   "catalogue_card": {
-    "question": "Can you use AI to prepare NLnet’s 3 November grant application?",
-    "text": "NLnet’s 20 October policy v2.0 says no AI proposal writing or idea generation for CodeSupply and Restack, except disclosed accessibility assistance. Read-only checks may be used during funded development; AI-generated deliverables cannot. The 3 November, noon CET call remains open."
+    "question": "Can your AI startup apply for the new £5 million BridgeAI call?",
+    "text": "Only with a UK deployer and a TRL 5–6 working product. The consortium may request £100,000–£200,000 by 8 December at 11:00 UK time; the £5 million is the total competition pot. Funding covers only part of eligible costs."
   },
   "summary": [
-    "Policy v2.0 applies to the current Restack and CodeSupply calls despite older form disclosure text and archived Q&A.",
-    "Applicants who wrote a proposal with AI before 20 October need not resubmit solely for that writing; proposed work that conflicts with v2.0 can be revised before the deadline.",
-    "CodeSupply remains a competitive EUR 5,000–50,000 first-project request for open-source software supply-chain work; payment follows completed milestones."
+    "A UK AI SME must lead with an eligible UK medium/large or public-sector deployer; outside investment is not a published gate.",
+    "The phase-one consortium request is £100,000–£200,000; commercial cost funding is partial and later phases are not guaranteed.",
+    "NLnet CodeSupply remains open through 3 November under policy v2.0."
   ],
   "uncertainty": [
-    "Applicant-specific interpretation of borderline read-only use, accessibility support and significant pre-existing generated code remains with NLnet.",
-    "No application was submitted or award verified; first-party analytics and applicant outcomes are unavailable."
+    "Applicant-specific consortium, cost and scope eligibility require issuer review; no award was verified.",
+    "First-party analytics and applicant outcomes are unavailable."
   ],
-  "checked_at": "2026-10-22T10:34:00Z",
-  "meaningfully_updated_at": "2026-10-22T10:34:00Z",
-  "freshness_note": "NLnet policy v2.0, announcement, CodeSupply page and form checked 22 October 2026. Other catalogue rows retain their own check dates."
+  "checked_at": "2026-10-23T10:34:00Z",
+  "meaningfully_updated_at": "2026-10-23T10:34:00Z",
+  "freshness_note": "UKRI and the live Innovation Funding Service brief checked 23 October 2026. NLnet CodeSupply status rechecked; other catalogue rows retain their dates."
 }
