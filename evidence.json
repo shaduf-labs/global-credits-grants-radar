@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "nlnet-existing-ai-code-faq-2026-10-24",
+      "source_type": "Official issuer FAQ",
+      "source_url": "https://nlnet.nl/foundation/policies/generativeAI/faq/",
+      "title": "NLnet GenAI policy FAQ",
+      "claim": "Pre-existing generated code is evaluated rather than automatically rejected; minor use may be allowed if understood, significant use must be disclosed, and funded deliverables cannot be AI-generated.",
+      "accessed_at": "2026-10-24T10:35:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-codesupply-status-2026-10-24",
+      "source_type": "Official issuer call and form",
+      "source_url": "https://nlnet.nl/codesupply/",
+      "title": "NLnet CodeSupply first call",
+      "claim": "The first call remains open until 3 November 2026 at 12:00 CET for EUR 5,000–50,000 first-grant requests.",
+      "accessed_at": "2026-10-24T10:35:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-ai-writing-cutoff-2026-10-24",
+      "source_type": "Official issuer announcement",
+      "source_url": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
+      "title": "NLnet policy announcement",
+      "claim": "The announcement says pre-20-October submissions get a one-time past-writing exception, while the dedicated FAQ says before 21 October.",
+      "accessed_at": "2026-10-24T10:35:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "bridgeai-ifs-2026-10-23",
       "source_type": "Official competition brief",
       "title": "BridgeAI Deployment Catalyst: AI for Operational Systems",

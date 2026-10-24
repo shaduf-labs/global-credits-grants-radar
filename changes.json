@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "nlnet-existing-ai-code-2026-10-24",
+      "changed_at": "2026-10-24T10:35:00Z",
+      "summary": "Clarified that pre-existing AI-generated code is evaluated rather than automatically disqualifying an NLnet applicant; the strict rule for new proposals and funded work remains. Rechecked the 3 November call.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-24-nlnet-existing-ai-code"
+    },
+    {
       "change_id": "bridgeai-consortium-gate-2026-10-23",
       "changed_at": "2026-10-23T10:34:00Z",
       "summary": "Added BridgeAI Operational Systems Phase 1 for UK AI SMEs, separating the £5 million competition pot from a £100,000–£200,000 consortium request and showing deployer, cost-share and deadline gates.",

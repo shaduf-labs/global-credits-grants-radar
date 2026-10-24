@@ -1,21 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "BridgeAI Deployment Catalyst Phase 1 is open to a UK AI SME with a TRL 5–6 working product and an eligible UK deployer. The consortium may request £100,000–£200,000 in partial feasibility-grant funding by 8 December 2026, 11:00 UK time. The £5 million headline is the competition pot, not a per-startup award. Later stages are not guaranteed.",
+  "current_answer": "NLnet CodeSupply and Restack remain open until 3 November 2026, 12:00 CET. Existing AI-generated code is not an automatic rejection: disclose significant use and let NLnet assess it. New proposals and funded deliverables still face policy v2.0 restrictions; the live form’s disclosure box is not permission to use GenAI for new writing.",
   "catalogue_card": {
-    "question": "Can your AI startup apply for the new £5 million BridgeAI call?",
-    "text": "Only with a UK deployer and a TRL 5–6 working product. The consortium may request £100,000–£200,000 by 8 December at 11:00 UK time; the £5 million is the total competition pot. Funding covers only part of eligible costs."
+    "question": "Used AI in your codebase—can you still seek an NLnet grant?",
+    "text": "Possibly. NLnet says old AI-generated code is evaluated, not automatically rejected; disclose significant use. New proposals and funded work face stricter rules. CodeSupply closes 3 November at 12:00 CET."
   },
   "summary": [
-    "A UK AI SME must lead with an eligible UK medium/large or public-sector deployer; outside investment is not a published gate.",
-    "The phase-one consortium request is £100,000–£200,000; commercial cost funding is partial and later phases are not guaranteed.",
-    "NLnet CodeSupply remains open through 3 November under policy v2.0."
+    "The NLnet FAQ separates existing AI-generated code from AI-generated work proposed for funding; disclosure does not guarantee eligibility.",
+    "The FAQ describes a one-time exception for past AI-written text in pre-21-October proposals, but the announcement says before 20 October; ask NLnet about a 20 October filing.",
+    "CodeSupply remains open through 3 November 2026 at 12:00 CET, subject to project, location and open-licence rules."
   ],
   "uncertainty": [
-    "Applicant-specific consortium, cost and scope eligibility require issuer review; no award was verified.",
+    "Issuer FAQ and announcement differ on the one-time exception cutoff for AI-written proposals submitted on 20 October 2026.",
+    "NLnet evaluates existing code, future work and award case by case; no applicant decision was inspected.",
     "First-party analytics and applicant outcomes are unavailable."
   ],
-  "checked_at": "2026-10-23T10:34:00Z",
-  "meaningfully_updated_at": "2026-10-23T10:34:00Z",
-  "freshness_note": "UKRI and the live Innovation Funding Service brief checked 23 October 2026. NLnet CodeSupply status rechecked; other catalogue rows retain their dates."
+  "checked_at": "2026-10-24T10:35:00Z",
+  "meaningfully_updated_at": "2026-10-24T10:35:00Z",
+  "freshness_note": "NLnet CodeSupply call, live form, policy v2.0 and dedicated FAQ checked 24 October 2026. Other catalogue rows retain their own dates."
 }
