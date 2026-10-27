@@ -2,6 +2,28 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-5eb3ff35ae068caa5d774f25",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-27T10:30:00Z",
+      "completed_at": "2026-10-27T10:53:00Z",
+      "title": "CodeSupply call and form remain open",
+      "summary": "The 3 November deadline and EUR 5,000–50,000 request range remained on NLnet’s live pages; no new term change was found.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-27-codesupply-live-status",
+      "entrypoint": "research/2026-10-27-codesupply-live-status/index.html"
+    },
+    {
+      "run_id": "report-59092717463353d9a03ac01c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-27T09:36:00Z",
+      "completed_at": "2026-10-27T09:42:25Z",
+      "title": "Startup India lists an AWS provider route for self-funded startups",
+      "summary": "DPIIT-recognised startups may seek the advertised USD 5,000 Portfolio offer, but an Org ID, provider verification and AWS approval remain gates.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-27-startup-india-aws-provider-route",
+      "entrypoint": "research/2026-10-27-startup-india-aws-provider-route/index.html"
+    },
+    {
       "run_id": "report-8b8deb6677ad86da364476b4",
       "status": "completed",
       "answer_change": "meaningful_change",

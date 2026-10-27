@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "codesupply-live-2026-10-27",
+      "source_type": "Official issuer call page",
+      "source_url": "https://nlnet.nl/codesupply/",
+      "title": "NLnet CodeSupply",
+      "claim": "First call still lists 3 November 2026 at 12:00 CET and EUR 5,000–50,000 requests for open-source software supply-chain work.",
+      "accessed_at": "2026-10-27T10:53:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-form-live-2026-10-27",
+      "source_type": "Official application form",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "NLnet grant application",
+      "claim": "The form still lists the same deadline and asks for a costed technical proposal, with a link to the current AI policy.",
+      "accessed_at": "2026-10-27T10:53:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "aws-activate-tier-2026-10-27",
+      "source_type": "Official issuer tier page",
+      "source_url": "https://aws.amazon.com/startups/credits/",
+      "title": "AWS Activate Credits",
+      "claim": "AWS Portfolio requires a Provider Org ID, pre-Series B status and a Paid Tier AWS account; Founders is a separate direct route.",
+      "accessed_at": "2026-10-27T09:39:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "startup-india-aws-offer-2026-10-27",
+      "source_type": "Official partner listing",
+      "source_url": "https://www.startupindia.gov.in/content/sih/en/reources/resource-partners/cloud-services/aws_services.html",
+      "title": "Startup India AWS Activate listing",
+      "claim": "The public partner listing advertises USD 5,000 for DPIIT-recognised startups, including self-funded applicants, subject to Org ID, prior-credit and website gates; AWS may reject applications.",
+      "accessed_at": "2026-10-27T09:39:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "nlnet-existing-ai-code-faq-2026-10-24",
       "source_type": "Official issuer FAQ",
       "source_url": "https://nlnet.nl/foundation/policies/generativeAI/faq/",

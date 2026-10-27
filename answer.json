@@ -1,22 +1,21 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "NLnet CodeSupply and Restack remain open until 3 November 2026, 12:00 CET. Existing AI-generated code is not an automatic rejection: disclose significant use and let NLnet assess it. New proposals and funded deliverables still face policy v2.0 restrictions; the live form’s disclosure box is not permission to use GenAI for new writing.",
+  "current_answer": "Startup India advertises a USD 5,000 AWS Activate Portfolio offer for DPIIT-recognised startups, including self-funded companies. The startup needs its provider Org ID and AWS approval; the public listing does not prove an individual award. Direct Founders is a separate route.",
   "catalogue_card": {
-    "question": "Used AI in your codebase—can you still seek an NLnet grant?",
-    "text": "Possibly. NLnet says old AI-generated code is evaluated, not automatically rejected; disclose significant use. New proposals and funded work face stricter rules. CodeSupply closes 3 November at 12:00 CET."
+    "question": "Can an unfunded Indian startup apply for the USD 5,000 AWS offer?",
+    "text": "Possibly. Startup India lists a DPIIT-linked Portfolio route for self-funded startups, but you need its Org ID and AWS approval. The public page does not establish your credit balance or expiry."
   },
   "summary": [
-    "The NLnet FAQ separates existing AI-generated code from AI-generated work proposed for funding; disclosure does not guarantee eligibility.",
-    "The FAQ describes a one-time exception for past AI-written text in pre-21-October proposals, but the announcement says before 20 October; ask NLnet about a 20 October filing.",
-    "CodeSupply remains open through 3 November 2026 at 12:00 CET, subject to project, location and open-licence rules."
+    "Startup India lists a USD 5,000 AWS Portfolio offer for eligible DPIIT-recognised startups, including self-funded applicants.",
+    "Portfolio requires a provider Org ID; the direct Founders route is different.",
+    "The live public listing does not confirm a specific applicant’s provider verification, award or expiry."
   ],
   "uncertainty": [
-    "Issuer FAQ and announcement differ on the one-time exception cutoff for AI-written proposals submitted on 20 October 2026.",
-    "NLnet evaluates existing code, future work and award case by case; no applicant decision was inspected.",
+    "Signed-in offer access, provider confirmation, award and expiry remain applicant-specific.",
     "First-party analytics and applicant outcomes are unavailable."
   ],
-  "checked_at": "2026-10-24T10:35:00Z",
-  "meaningfully_updated_at": "2026-10-24T10:35:00Z",
-  "freshness_note": "NLnet CodeSupply call, live form, policy v2.0 and dedicated FAQ checked 24 October 2026. Other catalogue rows retain their own dates."
+  "checked_at": "2026-10-27T10:53:00Z",
+  "meaningfully_updated_at": "2026-10-27T09:39:00Z",
+  "freshness_note": "CodeSupply call and application form rechecked 27 October 2026; no published deadline or request-range change found. Other catalogue rows retain their own dates."
 }

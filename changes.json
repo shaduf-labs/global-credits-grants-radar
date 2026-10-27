@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "codesupply-live-check-2026-10-27",
+      "changed_at": "2026-10-27T10:53:00Z",
+      "summary": "Rechecked CodeSupply’s 3 November deadline and live form; no published deadline or request-range change found.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-27-codesupply-live-status"
+    },
+    {
+      "change_id": "startup-india-aws-provider-route-2026-10-27",
+      "changed_at": "2026-10-27T09:39:00Z",
+      "summary": "Added the conditional USD 5,000 Startup India AWS Portfolio route for DPIIT-recognised self-funded startups, with Org ID and award checks.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-27-startup-india-aws-provider-route"
+    },
+    {
       "change_id": "nlnet-existing-ai-code-2026-10-24",
       "changed_at": "2026-10-24T10:35:00Z",
       "summary": "Clarified that pre-existing AI-generated code is evaluated rather than automatically disqualifying an NLnet applicant; the strict rule for new proposals and funded work remains. Rechecked the 3 November call.",
