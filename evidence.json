@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "codesupply-guide-scoring-2026-10-28",
+      "source_type": "Official applicant guide",
+      "source_url": "https://nlnet.nl/codesupply/guideforapplicants/",
+      "title": "NLnet CodeSupply Guide for Applicants",
+      "claim": "Hard eligibility precedes weighted scoring: 40% relevance/impact, 30% technical feasibility, 30% value for money; above 5.0/7 advances to second-stage review, not an award. The last complete version before deadline is assessed.",
+      "accessed_at": "2026-10-28T10:36:59Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "codesupply-call-2026-10-28",
+      "source_type": "Official issuer call page",
+      "source_url": "https://nlnet.nl/codesupply/",
+      "title": "NLnet CodeSupply",
+      "claim": "First call still lists 3 November 2026 at 12:00 CET and first grant requests of EUR 5,000–50,000.",
+      "accessed_at": "2026-10-28T10:36:59Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "codesupply-live-2026-10-27",
       "source_type": "Official issuer call page",
       "source_url": "https://nlnet.nl/codesupply/",

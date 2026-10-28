@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "codesupply-selection-gates-2026-10-28",
+      "changed_at": "2026-10-28T10:36:59Z",
+      "summary": "Added CodeSupply’s hard eligibility screen, weighted first-stage criteria and score threshold; clarified that advancement is not an award.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-28-codesupply-selection-gates"
+    },
+    {
       "change_id": "codesupply-live-check-2026-10-27",
       "changed_at": "2026-10-27T10:53:00Z",
       "summary": "Rechecked CodeSupply’s 3 November deadline and live form; no published deadline or request-range change found.",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-aa316ac3e6b3d57ba9e7bdd7",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-28T10:30:00Z",
+      "completed_at": "2026-10-28T10:38:51Z",
+      "title": "CodeSupply selection starts with hard gates",
+      "summary": "NLnet publishes a hard eligibility screen, 40/30/30 weighted first-stage scoring and a threshold for further review, not an award.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-28-codesupply-selection-gates",
+      "entrypoint": "research/2026-10-28-codesupply-selection-gates/index.html"
+    },
+    {
       "run_id": "report-5eb3ff35ae068caa5d774f25",
       "status": "completed",
       "answer_change": "no_meaningful_change",

@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Startup India advertises a USD 5,000 AWS Activate Portfolio offer for DPIIT-recognised startups, including self-funded companies. The startup needs its provider Org ID and AWS approval; the public listing does not prove an individual award. Direct Founders is a separate route.",
+  "current_answer": "CodeSupply is open to 3 November 2026 at 12:00 CET. NLnet first checks eligibility, then weights relevance and impact at 40%, technical feasibility at 30%, and value for money at 30%. A score above 5.0/7 advances a proposal to further review, not to an award.",
   "catalogue_card": {
-    "question": "Can an unfunded Indian startup apply for the USD 5,000 AWS offer?",
-    "text": "Possibly. Startup India lists a DPIIT-linked Portfolio route for self-funded startups, but you need its Org ID and AWS approval. The public page does not establish your credit balance or expiry."
+    "question": "Would your CodeSupply proposal pass the first review?",
+    "text": "Check project fit and European dimension first. NLnet then weights relevance and impact at 40%, technical feasibility at 30%, and value at 30%; above 5.0/7 only advances you to the next stage."
   },
   "summary": [
-    "Startup India lists a USD 5,000 AWS Portfolio offer for eligible DPIIT-recognised startups, including self-funded applicants.",
-    "Portfolio requires a provider Org ID; the direct Founders route is different.",
-    "The live public listing does not confirm a specific applicant’s provider verification, award or expiry."
+    "CodeSupply’s first call still closes 3 November 2026 at 12:00 CET for eligible open-source software-supply-chain work.",
+    "Hard eligibility precedes weighted scoring. The issuer gives relevance and impact the largest share, 40%.",
+    "A first request may be EUR 5,000–50,000, but neither an open form nor a qualifying score guarantees funding."
   ],
   "uncertainty": [
-    "Signed-in offer access, provider confirmation, award and expiry remain applicant-specific.",
-    "First-party analytics and applicant outcomes are unavailable."
+    "The public guide cannot score or approve a particular proposal.",
+    "The issuer does not publish an applicant-specific award or payment date; first-party analytics and applicant outcomes are unavailable."
   ],
-  "checked_at": "2026-10-27T10:53:00Z",
-  "meaningfully_updated_at": "2026-10-27T09:39:00Z",
-  "freshness_note": "CodeSupply call and application form rechecked 27 October 2026; no published deadline or request-range change found. Other catalogue rows retain their own dates."
+  "checked_at": "2026-10-28T10:36:59Z",
+  "meaningfully_updated_at": "2026-10-28T10:36:59Z",
+  "freshness_note": "CodeSupply call, form and selection guide verified 28 October 2026. Other catalogue rows retain their own check dates."
 }
