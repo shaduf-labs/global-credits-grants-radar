@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-52f1afba583b2171e56e5eb3",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-30T10:30:00Z",
+      "completed_at": "2026-10-30T10:35:44Z",
+      "title": "CodeSupply and Founderland status recheck",
+      "summary": "CodeSupply still lists 3 November and a live form; Founderland still shows all ten current-cycle waivers allocated. No published status change found.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-10-30-codesupply-and-waiver-status",
+      "entrypoint": "research/2026-10-30-codesupply-and-waiver-status/index.html"
+    },
+    {
       "run_id": "report-caf1cd32569238c579837ea3",
       "status": "completed",
       "answer_change": "meaningful_change",

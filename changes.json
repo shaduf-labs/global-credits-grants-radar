@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "codesupply-and-waiver-status-2026-10-30",
+      "changed_at": "2026-10-30T10:33:30Z",
+      "summary": "Rechecked CodeSupply’s 3 November deadline and live form, and Founderland’s exhausted waiver allocation; no published status change found.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-30-codesupply-and-waiver-status"
+    },
+    {
       "change_id": "founderland-fee-waiver-2026-10-29",
       "changed_at": "2026-10-29T10:34:41.284Z",
       "summary": "Added Founderland’s Q4 grant with its non-refundable €50 application fee and exhausted current-cycle waivers.",

@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "founderland-main-recheck-2026-10-30",
+      "source_type": "Official issuer page",
+      "source_url": "https://www.founderland.org/forward-grant",
+      "title": "Founderland Forward Grant",
+      "claim": "Main page continues to mention limited waivers generally, while the linked cycle-specific page says allocated.",
+      "accessed_at": "2026-10-30T10:33:30Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "founderland-waiver-recheck-2026-10-30",
+      "source_type": "Official issuer page",
+      "source_url": "https://www.founderland.org/forward-grant/waiver",
+      "title": "Founderland fee waiver status",
+      "claim": "All ten current-cycle fee waivers remain allocated.",
+      "accessed_at": "2026-10-30T10:33:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "nlnet-form-recheck-2026-10-30",
+      "source_type": "Official issuer page",
+      "source_url": "https://nlnet.nl/propose/",
+      "title": "NLnet application form",
+      "claim": "CodeSupply remains listed among currently open funds.",
+      "accessed_at": "2026-10-30T10:33:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "codesupply-call-recheck-2026-10-30",
+      "source_type": "Official issuer page",
+      "source_url": "https://nlnet.nl/codesupply/",
+      "title": "NLnet CodeSupply",
+      "claim": "First call still lists 3 November 2026 at 12:00 CET.",
+      "accessed_at": "2026-10-30T10:33:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "founderland-grant-2026-10-29",
       "source_type": "Official issuer page",
       "source_url": "https://www.founderland.org/forward-grant",
