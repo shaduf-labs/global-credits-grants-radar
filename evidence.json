@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "founderland-grant-2026-10-29",
+      "source_type": "Official issuer page",
+      "source_url": "https://www.founderland.org/forward-grant",
+      "title": "Founderland Forward Grant",
+      "claim": "Q4 window, EUR 10,000 grant, women-of-colour eligibility and application fee.",
+      "accessed_at": "2026-10-29T10:34:41.284Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "founderland-terms-2026-10-29",
+      "source_type": "Official issuer page",
+      "source_url": "https://www.founderland.org/grant-terms",
+      "title": "Founderland grant terms",
+      "claim": "Applicants must meet age, location and 50% women-ownership rules; the EUR 50 application fee is non-refundable.",
+      "accessed_at": "2026-10-29T10:34:41.284Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "founderland-waiver-2026-10-29",
+      "source_type": "Official issuer page",
+      "source_url": "https://www.founderland.org/forward-grant/waiver",
+      "title": "Founderland waiver status",
+      "claim": "The linked waiver page states all ten fee waivers for this cycle have been allocated.",
+      "accessed_at": "2026-10-29T10:34:41.284Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "founderland-application-limit-2026-10-29",
+      "source_type": "Official issuer page",
+      "source_url": "https://www.founderland.org/forward-grant/apply",
+      "title": "Founderland application page",
+      "claim": "The page exposed a client-loaded placeholder to this web reader; complete application fields were not verified.",
+      "accessed_at": "2026-10-29T10:34:41.284Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "codesupply-guide-scoring-2026-10-28",
       "source_type": "Official applicant guide",
       "source_url": "https://nlnet.nl/codesupply/guideforapplicants/",

@@ -1,21 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "CodeSupply is open to 3 November 2026 at 12:00 CET. NLnet first checks eligibility, then weights relevance and impact at 40%, technical feasibility at 30%, and value for money at 30%. A score above 5.0/7 advances a proposal to further review, not to an award.",
+  "current_answer": "Founderland’s Q4 Forward Grant offers selected eligible founders €10,000, but applying costs €50, non-refundable. Its linked waiver page says all ten waivers for this cycle are allocated. Check eligibility and the current form before paying.",
   "catalogue_card": {
-    "question": "Would your CodeSupply proposal pass the first review?",
-    "text": "Check project fit and European dimension first. NLnet then weights relevance and impact at 40%, technical feasibility at 30%, and value at 30%; above 5.0/7 only advances you to the next stage."
+    "question": "Is Founderland’s €10,000 grant free to apply for?",
+    "text": "No. The Q4 application costs €50, non-refundable. Its linked waiver page says all ten current-cycle waivers are allocated; check the strict founder and ownership rules before paying."
   },
   "summary": [
-    "CodeSupply’s first call still closes 3 November 2026 at 12:00 CET for eligible open-source software-supply-chain work.",
-    "Hard eligibility precedes weighted scoring. The issuer gives relevance and impact the largest share, 40%.",
-    "A first request may be EUR 5,000–50,000, but neither an open form nor a qualifying score guarantees funding."
+    "Founderland lists a Q4 2026 window through 31 December, 23:59 Europe/Berlin, for eligible women-of-colour founders in Europe and the UK.",
+    "The business must be at least 50% women-owned; a selected founder may receive a €10,000 equity-free grant, not a guaranteed award.",
+    "The €50 application fee is non-refundable, including for ineligible applications. The linked waiver page says current-cycle waivers are exhausted."
   ],
   "uncertainty": [
-    "The public guide cannot score or approve a particular proposal.",
-    "The issuer does not publish an applicant-specific award or payment date; first-party analytics and applicant outcomes are unavailable."
+    "The main grant page still generally mentions limited waivers; the linked waiver page says all ten for this cycle are allocated. Confirm a new allocation with Founderland before relying on a waiver.",
+    "The public application form loads dynamically; its full workflow and any applicant-specific outcome were not verified.",
+    "Other catalogue rows retain their own check dates."
   ],
-  "checked_at": "2026-10-28T10:36:59Z",
-  "meaningfully_updated_at": "2026-10-28T10:36:59Z",
-  "freshness_note": "CodeSupply call, form and selection guide verified 28 October 2026. Other catalogue rows retain their own check dates."
+  "checked_at": "2026-10-29T10:34:41.284Z",
+  "meaningfully_updated_at": "2026-10-29T10:34:41.284Z",
+  "freshness_note": "Founderland grant, terms and waiver pages checked 29 October 2026. Other rows retain their own check dates."
 }

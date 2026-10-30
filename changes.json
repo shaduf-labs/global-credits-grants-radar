@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "founderland-fee-waiver-2026-10-29",
+      "changed_at": "2026-10-29T10:34:41.284Z",
+      "summary": "Added Founderland’s Q4 grant with its non-refundable €50 application fee and exhausted current-cycle waivers.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-29-founderland-fee-waiver"
+    },
+    {
       "change_id": "codesupply-selection-gates-2026-10-28",
       "changed_at": "2026-10-28T10:36:59Z",
       "summary": "Added CodeSupply’s hard eligibility screen, weighted first-stage criteria and score threshold; clarified that advancement is not an award.",
