@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "codesupply-deadline-recheck-2026-10-31",
+      "changed_at": "2026-10-31T10:34:30Z",
+      "summary": "Rechecked CodeSupply’s 3 November deadline and live form, and Founderland’s allocated current-cycle fee waivers; no published status change found.",
+      "path": "/p/global-credits-grants-radar/research/2026-10-31-codesupply-deadline-recheck"
+    },
+    {
       "change_id": "codesupply-and-waiver-status-2026-10-30",
       "changed_at": "2026-10-30T10:33:30Z",
       "summary": "Rechecked CodeSupply’s 3 November deadline and live form, and Founderland’s exhausted waiver allocation; no published status change found.",
