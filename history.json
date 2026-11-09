@@ -2,6 +2,28 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-f06eb6dc186c5a8e9b5311c2",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-09T06:50:00Z",
+      "completed_at": "2026-11-09T06:56:00Z",
+      "title": "NLnet lists January calls while its form is paused",
+      "summary": "CodeSupply and Restack name a 3 January 2027 deadline, but the shared NLnet form says submissions are currently unavailable.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-11-09-nlnet-second-call-form-paused",
+      "entrypoint": "research/2026-11-09-nlnet-second-call-form-paused/index.html"
+    },
+    {
+      "run_id": "report-ae7c242dffa5b2fcf46a1ce2",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-03T07:27:36Z",
+      "completed_at": "2026-11-03T07:32:18Z",
+      "title": "IFW: one grant, an application fee and a waiver route",
+      "summary": "IFW lists one USD 5,000 grant for eligible US business owners; its USD 5 fee is generally non-refundable and a waiver must be requested before applying.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-11-03-ifw-one-award-fee-waiver",
+      "entrypoint": "research/2026-11-03-ifw-one-award-fee-waiver/index.html"
+    },
+    {
       "run_id": "report-c15c819143ed2c7eec2f62f0",
       "status": "completed",
       "answer_change": "meaningful_change",

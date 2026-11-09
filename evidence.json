@@ -2,6 +2,76 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-nlnet-codesupply-20261109",
+      "source_type": "Official fund page",
+      "title": "NLnet CodeSupply",
+      "source_url": "https://nlnet.nl/codesupply/",
+      "claim": "The second call lists 3 January 2027, 12:00 CET and the €5,000–€50,000 first-project range.",
+      "accessed_at": "2026-11-09T06:52:44Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-nlnet-restack-20261109",
+      "source_type": "Official fund page",
+      "title": "NLnet Restack",
+      "source_url": "https://nlnet.nl/restack/",
+      "claim": "The second call lists 3 January 2027, 12:00 CET and the €5,000–€50,000 first-project range.",
+      "accessed_at": "2026-11-09T06:52:44Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-nlnet-call-20261109",
+      "source_type": "Official call announcement",
+      "title": "NLnet January call",
+      "source_url": "https://nlnet.nl/news/2026/20261103-call.html",
+      "claim": "The new call announcement names both funds and a 3 January 2027 deadline.",
+      "accessed_at": "2026-11-09T06:52:44Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-nlnet-form-20261109",
+      "source_type": "Official application page",
+      "title": "NLnet grant application",
+      "source_url": "https://nlnet.nl/propose/",
+      "claim": "The form names the January deadline but says proposals cannot currently be submitted.",
+      "accessed_at": "2026-11-09T06:52:44Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-ifw-rules-20261103",
+      "source_type": "Official programme rules",
+      "title": "IFW Startup Accelerator Grant Official Rules",
+      "source_url": "https://www.ifundwomen.com/grants/startup-accelerator-grant/rules",
+      "claim": "One USD 5,000 grant, US residence and 50% business ownership, 30 November cutoff, USD 5 fee, waiver request, one application limit and post-selection verification.",
+      "accessed_at": "2026-11-03T07:31:12Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-ifw-page-20261103",
+      "source_type": "Official programme page",
+      "title": "IFW Startup Accelerator Grant",
+      "source_url": "https://www.ifundwomen.com/grants/startup-accelerator-grant",
+      "claim": "The programme page links the application, shows the single award, application fee and stated deadline.",
+      "accessed_at": "2026-11-03T07:31:12Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-nlnet-form-20261103",
+      "source_type": "Official application page",
+      "title": "NLnet grant application",
+      "source_url": "https://nlnet.nl/propose/",
+      "claim": "The form still displayed 3 November 2026, 12:00 CET when checked before the cutoff.",
+      "accessed_at": "2026-11-03T07:31:12Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-zcash-fpf-q4-20261102",
       "source_type": "Official programme administrator announcement",
       "title": "FPF Q4 2026 retroactive grant call",

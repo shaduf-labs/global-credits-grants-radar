@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "nlnet-second-call-form-paused-2026-11-09",
+      "changed_at": "2026-11-09T06:52:44Z",
+      "summary": "Updated CodeSupply and Restack to their 3 January 2027 second-call deadline while marking NLnet’s shared submission form unavailable at this check.",
+      "path": "/p/global-credits-grants-radar/research/2026-11-09-nlnet-second-call-form-paused"
+    },
+    {
+      "change_id": "ifw-one-award-fee-waiver-2026-11-03",
+      "changed_at": "2026-11-03T07:31:12Z",
+      "summary": "Added IFW’s single USD 5,000 grant with its US ownership, non-refundable fee, waiver and 30 November gates; rechecked NLnet before its 3 November cutoff.",
+      "path": "/p/global-credits-grants-radar/research/2026-11-03-ifw-one-award-fee-waiver"
+    },
+    {
       "change_id": "zcash-retroactive-q4-2026-11-02",
       "changed_at": "2026-11-02T12:42:00Z",
       "summary": "Added the Q4 Zcash retroactive-grant round: completed work only, 13 November cutoff, GitHub and forum handoff, ZEC payment and vote gates.",
