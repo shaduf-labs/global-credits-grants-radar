@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-5d24aa44955bacb70b673630",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-09T12:11:00Z",
+      "completed_at": "2026-11-09T12:16:00Z",
+      "title": "Grok startup credits: the approval controls the clock",
+      "summary": "The funded-company route has no fixed award; terms set a default six-month expiry unless the approval notice differs.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-11-09-grok-startup-credit-expiry",
+      "entrypoint": "research/2026-11-09-grok-startup-credit-expiry/index.html"
+    },
+    {
       "run_id": "report-f06eb6dc186c5a8e9b5311c2",
       "status": "completed",
       "answer_change": "meaningful_change",

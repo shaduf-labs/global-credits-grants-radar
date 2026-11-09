@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "grok-startup-credit-expiry-2026-11-09",
+      "changed_at": "2026-11-09T12:14:00Z",
+      "summary": "Added Grok for Startups to funded-company comparisons with no fixed award, a default six-month credit expiry and approval-specific conditions.",
+      "path": "/p/global-credits-grants-radar/research/2026-11-09-grok-startup-credit-expiry"
+    },
+    {
       "change_id": "nlnet-second-call-form-paused-2026-11-09",
       "changed_at": "2026-11-09T06:52:44Z",
       "summary": "Updated CodeSupply and Restack to their 3 January 2027 second-call deadline while marking NLnet’s shared submission form unavailable at this check.",

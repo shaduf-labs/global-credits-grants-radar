@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "NLnet lists second CodeSupply and Restack calls closing 3 January 2027 at 12:00 CET, but its shared proposal form said submissions were unavailable on 9 November. Prepare against the current rules and recheck the form before submitting. FPF still lists 13 November at 20:00 UTC for its separate Q4 Zcash retroactive grant.",
+  "current_answer": "Grok for Startups has a venture-backed application but no fixed award. The approval notice sets the amount and tranche terms; credits normally expire six months after reaching the account unless that notice says otherwise. NLnet’s January calls still have a paused form, while the separate Zcash Q4 round lists 13 November.",
   "catalogue_card": {
-    "question": "NLnet has a January deadline. Can you submit now?",
-    "text": "CodeSupply and Restack list 3 January 2027, but NLnet’s form said submissions were unavailable on 9 November. Check the live form before relying on the new deadline."
+    "question": "Grok startup credits: how much, and for how long?",
+    "text": "The application is live for venture-backed companies, but no fixed award is published. Your approval notice sets the amount; the legal default expiry is six months unless that notice says otherwise."
   },
   "summary": [
-    "CodeSupply and Restack name second calls ending 3 January 2027 at 12:00 CET; a first request is €5,000–€50,000, not a guaranteed award.",
-    "NLnet’s shared form says the previous deadline has passed and proposals cannot currently be submitted, despite the new call announcement.",
-    "The separate Q4 Zcash retroactive call still lists 13 November 2026 at 20:00 UTC for completed, publicly verifiable work."
+    "Grok for Startups checks venture backing, a live product and a matching-domain work email; no fixed award amount is published.",
+    "The issuer estimates six to twelve months of usage, while terms set six months as the default expiry after credits hit the account unless approval says otherwise.",
+    "NLnet’s January calls still have a paused shared form; the separate Q4 Zcash retroactive round lists a 13 November cutoff."
   ],
   "uncertainty": [
-    "NLnet has not published a form reopening time; current submission availability is unverified.",
-    "Applicant-specific eligibility and award decisions are unverified.",
-    "The local filter is an older snapshot; use the complete HTML tables for the January status."
+    "Applicant-specific Grok award, country availability, verification and tranche conditions are unconfirmed.",
+    "NLnet has not named a form reopening time.",
+    "The local filter is an older snapshot; use the complete HTML tables for the Grok listing."
   ],
-  "checked_at": "2026-11-09T06:52:44Z",
-  "meaningfully_updated_at": "2026-11-09T06:52:44Z",
-  "freshness_note": "NLnet fund pages, announcement and shared form checked 9 November 2026. Other rows retain their own check dates; local filter classifications remain dated 7 October."
+  "checked_at": "2026-11-09T12:14:00Z",
+  "meaningfully_updated_at": "2026-11-09T12:14:00Z",
+  "freshness_note": "Grok issuer page, terms and form checked 9 November 2026; NLnet form and Q4 Zcash call rechecked the same day. Other rows retain their own check dates; local filter classifications remain dated 7 October."
 }

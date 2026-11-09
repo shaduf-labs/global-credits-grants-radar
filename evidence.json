@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-grok-form-20261109",
+      "source_type": "Official issuer",
+      "title": "Grok for Startups application",
+      "source_url": "https://x.ai/startups/apply",
+      "claim": "Application form asks for Team ID, work email, website, funding, revenue, investors and AI use.",
+      "accessed_at": "2026-11-09T12:14:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-grok-terms-20261109",
+      "source_type": "Official issuer",
+      "title": "Grok for Startups Program Terms",
+      "source_url": "https://x.ai/legal/startup-program-terms",
+      "claim": "Approval notice controls award and tranche conditions; six months after application is default expiry unless the notice says otherwise.",
+      "accessed_at": "2026-11-09T12:14:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-grok-page-20261109",
+      "source_type": "Official issuer",
+      "title": "Grok for Startups",
+      "source_url": "https://x.ai/startups/",
+      "claim": "Programme page names venture backing, live product, matching work email, eligible services and the 20%/80% outline, without a fixed award.",
+      "accessed_at": "2026-11-09T12:14:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-nlnet-codesupply-20261109",
       "source_type": "Official fund page",
       "title": "NLnet CodeSupply",
