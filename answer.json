@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Founderland’s Q4 Forward Grant offers selected eligible founders €10,000, but applying costs €50, non-refundable. Its linked waiver page says all ten waivers for this cycle are allocated. Check eligibility and the current form before paying.",
+  "current_answer": "FPF’s Q4 Zcash retroactive grant accepts proposals for completed, publicly verifiable work through 13 November 2026 at 20:00 UTC. Individuals and companies can apply, but future work does not qualify. Requests have no fixed cap; any approved award is paid in ZEC after voting and checks.",
   "catalogue_card": {
-    "question": "Is Founderland’s €10,000 grant free to apply for?",
-    "text": "No. The Q4 application costs €50, non-refundable. Its linked waiver page says all ten current-cycle waivers are allocated; check the strict founder and ownership rules before paying."
+    "question": "Finished Zcash work? A retroactive grant closes 13 November.",
+    "text": "Individuals and companies can propose completed, publicly verifiable work. File on GitHub and mirror it in the forum; without the backlink, FPF says it will not reach the vote. Requests are in USD, but any award is paid in ZEC."
   },
   "summary": [
-    "Founderland lists a Q4 2026 window through 31 December, 23:59 Europe/Berlin, for eligible women-of-colour founders in Europe and the UK.",
-    "The business must be at least 50% women-owned; a selected founder may receive a €10,000 equity-free grant, not a guaranteed award.",
-    "The €50 application fee is non-refundable, including for ineligible applications. The linked waiver page says current-cycle waivers are exhausted."
+    "Q4 submission deadline: 13 November 2026, 20:00 UTC; this round does not fund future or unfinished work.",
+    "FPF lists no fixed request cap. Requests above USD 50,000 require KYC before disbursement, and coinholder voting and keyholder checks control any award.",
+    "A GitHub proposal, separate forum thread and backlink are required for vote listing. NLnet’s form still shows 3 November, 12:00 CET."
   ],
   "uncertainty": [
-    "The main grant page still generally mentions limited waivers; the linked waiver page says all ten for this cycle are allocated. Confirm a new allocation with Founderland before relying on a waiver.",
-    "The public application form loads dynamically; its full workflow and any applicant-specific outcome were not verified.",
-    "Other catalogue rows retain their own check dates."
+    "No country-by-country eligibility map, applicant-specific award, payment date or fixed ZEC conversion was verified.",
+    "New forum accounts may need moderator help to create a required thread; the GitHub intake was not submitted.",
+    "Other catalogue rows retain their own check dates and the local filter remains an older snapshot."
   ],
-  "checked_at": "2026-10-31T10:34:30Z",
-  "meaningfully_updated_at": "2026-10-29T10:34:41.284Z",
-  "freshness_note": "CodeSupply call and form, and Founderland waiver status, rechecked 31 October 2026; no published status change found. Other rows retain their own check dates."
+  "checked_at": "2026-11-02T12:42:00Z",
+  "meaningfully_updated_at": "2026-11-02T12:42:00Z",
+  "freshness_note": "Zcash Q4 call and NLnet form checked 2 November 2026. Other rows retain their own check dates; local filter classifications remain dated 7 October."
 }

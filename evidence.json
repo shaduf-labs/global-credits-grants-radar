@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-zcash-fpf-q4-20261102",
+      "source_type": "Official programme administrator announcement",
+      "title": "FPF Q4 2026 retroactive grant call",
+      "source_url": "https://forum.zcashcommunity.com/t/q4-2026-coinholder-directed-retroactive-grant-program-call-for-proposals/58598",
+      "claim": "Q4 proposals for completed, publicly verifiable work close 13 November 2026 at 20:00 UTC. The call states the two-post intake, USD requests, ZEC disbursement, KYC threshold and vote gates.",
+      "accessed_at": "2026-11-02T12:42:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-zcash-fpf-github-20261102",
+      "source_type": "Official intake repository",
+      "title": "FPF Coinholder Grants GitHub intake",
+      "source_url": "https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram",
+      "claim": "The linked intake repository is public; opening the new-issue template without signing in redirected to GitHub login. Submission was not tested.",
+      "accessed_at": "2026-11-02T12:42:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-codesupply-call-20261031",
       "source_type": "Official funder page",
       "title": "NLnet CodeSupply call",
