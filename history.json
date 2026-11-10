@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-b3ff39ede5a8466a27a29c40",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-11-10T10:30:00Z",
+      "completed_at": "2026-11-10T10:39:25Z",
+      "title": "Zcash cutoff and NLnet form recheck",
+      "summary": "Zcash still lists 13 November and its two-post intake; NLnet’s January calls still have an unavailable form.",
+      "report_path": "/p/global-credits-grants-radar/research/2026-11-10-zcash-deadline-and-nlnet-form-check",
+      "entrypoint": "research/2026-11-10-zcash-deadline-and-nlnet-form-check/index.html"
+    },
+    {
       "run_id": "report-5d24aa44955bacb70b673630",
       "status": "completed",
       "answer_change": "meaningful_change",

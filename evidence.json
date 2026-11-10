@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "pub-zcash-fpf-q4-20261110",
+      "source_type": "Official programme administrator announcement",
+      "title": "FPF Q4 2026 retroactive grant call",
+      "source_url": "https://forum.zcashcommunity.com/t/q4-2026-coinholder-directed-retroactive-grant-program-call-for-proposals/58598",
+      "claim": "The Q4 call still lists 13 November 2026, 20:00 UTC, for completed work and requires a GitHub proposal, forum thread and backlink; award follows a vote.",
+      "accessed_at": "2026-11-10T10:36:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-nlnet-form-20261110",
+      "source_type": "Official application page",
+      "title": "NLnet grant application",
+      "source_url": "https://nlnet.nl/propose/",
+      "claim": "The page still says submissions are currently unavailable despite a 3 January 2027 deadline.",
+      "accessed_at": "2026-11-10T10:36:29Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "pub-grok-form-20261109",
       "source_type": "Official issuer",
       "title": "Grok for Startups application",
